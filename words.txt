@@ -5654,10 +5654,6 @@ adversity
 inferiority
 mosaic
 
-apostrophe
-
-archery
-
 to begin to accept and deal with something difficult or unpleasant She's never really come to terms with her son's death. It's very hard coming to terms with the fact that you'll never have children.
 
 cessation
@@ -5668,7 +5664,9 @@ brew
 jerk
 priest
 
-
+apostrophe
+archery
+off limits
 
 
 

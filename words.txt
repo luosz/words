@@ -5680,5 +5680,9 @@ ripe
 shrewd
 brag
 loiter
+trauma
+
+
+
 
 

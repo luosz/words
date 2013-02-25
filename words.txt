@@ -5750,7 +5750,11 @@ precinct
  - A precinct is a part of a city which has its own police force and fire service. (AM) - The shooting occurred in the 34th Precinct.
  - The precincts of an institution are its buildings and land. (FORMAL) - No one carrying arms is allowed within the precincts of a temple.
 
-
+snatch
+ - to take something away from someone with a quick, often violent, movement = grab
+ - to take someone away from a person or place, especially by force
+ - to quickly get something, especially sleep or rest, because you do not have very much time = grab
+ - snatch at [snatch at sth] phr v - to quickly put out your hand to try to take or hold something
 
 
 

@@ -5745,6 +5745,11 @@ embroidery
  - Embroidery consists of designs stitched into cloth. - The shorts had blue embroidery over the pockets...
  - Embroidery is the activity of stitching designs onto cloth. - She learned sewing, knitting and embroidery.
 
+precinct
+ - A shopping precinct is an area in the centre of a town in which cars are not allowed. (BRIT) - The Centre was a pedestrian precinct with a bandstand in the middle.
+ - A precinct is a part of a city which has its own police force and fire service. (AM) - The shooting occurred in the 34th Precinct.
+ - The precincts of an institution are its buildings and land. (FORMAL) - No one carrying arms is allowed within the precincts of a temple.
+
 
 
 

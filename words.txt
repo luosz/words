@@ -5794,9 +5794,13 @@ stale - bread or cake that is stale is no longer fresh or good to eat ≠ fresh
  - French bread goes stale (=becomes stale) very quickly.
  - stale cake
 
+delinquent
+ - (especially of young people or their behaviour) showing a tendency to commit crimes: delinquent teenagers
+ - (AmE, finance) having failed to pay money that is owed: a delinquent borrower
+ - (AmE, finance) (of a sum of money) not having been paid in time: a delinquent loan
+ - delinquent noun-see also JUVENILE DELINQUENT
 
-
-
+up front - If you give someone an amount of money up front, you pay them in advance: He wants all the money up front or he won't do the job.
 
 
 

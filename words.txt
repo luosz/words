@@ -5821,9 +5821,9 @@ sparrow - a small brown and grey bird, common in many parts of the world
 
 call it a day - INFORMAL to stop the work you are doing: I'm getting a bit tired now - shall we call it a day?
 
-
-
-
+adrenaline = epinephrine
+ - a chemical produced by your body when you are afraid, angry, or excited, which makes your heart beat faster
+ - There's nothing like a good horror film to get the adrenalin going (=make you feel nervously excited).
 
 
 

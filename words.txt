@@ -5886,8 +5886,10 @@ anomaly
  - something that is noticeable because it is different from what is usual - In those days, a woman professor was still an anomaly.
  - anomaly in - various anomalies in the tax system
 
-
-
+veridical
+ - adj
+	- truthful
+	- psychology of or relating to revelations in dreams, hallucinations, etc., that appear to be confirmed by subsequent events
 
 
 

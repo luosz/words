@@ -5882,7 +5882,9 @@ ballot
  - to ask someone to vote for something - ballot on/over - Train drivers are being balloted on industrial action.
  - to vote for something - ballot for - Staff balloted for strike action yesterday.
 
-
+anomaly
+ - something that is noticeable because it is different from what is usual - In those days, a woman professor was still an anomaly.
+ - anomaly in - various anomalies in the tax system
 
 
 

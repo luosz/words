@@ -5869,8 +5869,18 @@ alloy
  - noun [C, U] a metal that is formed by mixing two types of metal together, or by mixing metal with another substance: Brass is an alloy of copper and zinc. - alloy steel
  - verb [VN] ~ sth (with sth) (technical) to mix one metal with another, especially one of lower value
 
+steward
+ - A steward is a man who works on a ship, plane, or train, looking after passengers and serving meals to them.
+ - A steward is a man or woman who helps to organize a race, march, or other public event.
+ - shop steward
+	- A shop steward is a trade union member who is elected by the other members in a factory or office to speak for them at official meetings. (BRIT)
 
-
+ballot
+ - a system of voting, usually in secret, or an occasion when you vote in this way
+ - a piece of paper on which you make a secret vote = ballot paper
+ - the ballot - the total number of votes in an election
+ - to ask someone to vote for something - ballot on/over - Train drivers are being balloted on industrial action.
+ - to vote for something - ballot for - Staff balloted for strike action yesterday.
 
 
 

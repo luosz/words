@@ -5900,6 +5900,13 @@ foe - (old-fashioned or formal) an enemy
 anecdote - a short story based on your personal experience - The book is full of amusing anecdotes about his life in Japan.
 annotate - to add short notes to a book or piece of writing to explain parts of it - an annotated edition of 'Othello'
 
+isotropic
+ - having uniform physical properties in all directions
+ - biology not having predetermined axes: isotropic eggs
+ 
+anisotropic
+ - not isotropic; having different physical properties in different directions: anisotropic crystals
+ - (of a plant) responding unequally to an external stimulus in different parts of the plant
 
 
 

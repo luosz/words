@@ -5961,6 +5961,10 @@ gall
  - [U] old-fashioned bile
 overt - overt actions are done publicly, without trying to hide anything ≠ covert
 whit - not a whit - old-fashioned not at all: Sara had not changed a whit.
+sniff - to breathe air into your nose noisily, for example when you are crying or have a cold: Margaret sniffed miserably and nodded.
+sniffle
+ - to keep sniffing in order to stop liquid from running out of your nose, especially when you are crying or you have a cold
+	- For goodness' sake, stop sniffling!
 
 
 

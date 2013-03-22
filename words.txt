@@ -5978,7 +5978,8 @@ Example : "We could not leave, nor could we call for help."
 Example : "He knew neither the right time nor the right place for the meeting.
 (Compare to : "He did not know the right time or the right place for the meeting.")
 
-
+horoscope - a description of what is going to happen to sb in the future, based on the position of the stars and the planets when the person was born
+zodiac - the imaginary area in the sky in which the sun, moon and planets appear to lie, and which has been divided into twelve equal parts each with a special name and symbol: the signs of the zodiac
 
 
 

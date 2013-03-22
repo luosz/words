@@ -5972,7 +5972,11 @@ arthritis
  - a disease that causes the joints of your body to become swollen and very painful
  - >arthritic /-ˈθrɪtɪk/ adj arthritic fingers
 
-
+When matching conjunctions to modifiers, or goes with either and nor goes with neither. Nor is used when the preceding paired clause is negative. Sometimes the distinction is difficult with some verbs and either might be used.
+Example : "Either we leave or we will be stranded."
+Example : "We could not leave, nor could we call for help."
+Example : "He knew neither the right time nor the right place for the meeting.
+(Compare to : "He did not know the right time or the right place for the meeting.")
 
 
 

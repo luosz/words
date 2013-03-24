@@ -5929,6 +5929,8 @@ celestial
 
 audacious - showing great courage or confidence in a way that is impressive or slightly shocking: the risks involved in such an audacious operation >Derived words: audaciously adv; audaciousness or audacity
 
+carcinoma - 1) any malignant tumour derived from epithelial tissue 2) another name for cancer
+
 psychiatrist -  doctor trained in the treatment of mental illness →psychologist
 
 diabolical
@@ -5974,6 +5976,12 @@ vendetta
  - a long and violent dispute between two families, in which people are murdered in return for previous murders
  - ~ (against sb) a long argument or disagreement in which one person or group does or says things to harm another
 
+When matching conjunctions to modifiers, or goes with either and nor goes with neither. Nor is used when the preceding paired clause is negative. Sometimes the distinction is difficult with some verbs and either might be used.
+Example : "Either we leave or we will be stranded."
+Example : "We could not leave, nor could we call for help."
+Example : "He knew neither the right time nor the right place for the meeting.
+(Compare to : "He did not know the right time or the right place for the meeting.")
+
 pike
  - (plural pike) a large FRESHWATER fish with very sharp teeth
  - a weapon with a sharp blade on a long wooden handle, used in the past by soldiers on foot
@@ -5996,8 +6004,8 @@ sanctum
  -  private room where sb can go and not be disturbed: She once allowed me into her inner sanctum.
  - a holy place
 
-
-
+horoscope - a description of what is going to happen to sb in the future, based on the position of the stars and the planets when the person was born
+zodiac - the imaginary area in the sky in which the sun, moon and planets appear to lie, and which has been divided into twelve equal parts each with a special name and symbol: the signs of the zodiac
 
 
 

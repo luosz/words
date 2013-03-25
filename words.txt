@@ -6007,7 +6007,7 @@ sanctum
 horoscope - a description of what is going to happen to sb in the future, based on the position of the stars and the planets when the person was born
 zodiac - the imaginary area in the sky in which the sun, moon and planets appear to lie, and which has been divided into twelve equal parts each with a special name and symbol: the signs of the zodiac
 
-
+apiary - (plural apiaries) a place where bees are kept: The apiary was nearby; half a dozen hives faced south down the slope.
 
 
 

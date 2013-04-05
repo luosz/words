@@ -6089,8 +6089,9 @@ roll your eyes - to move your eyes upwards as a way of showing that you are anno
 
 torment
  - noun [U, C] (written) extreme suffering, especially mental suffering; a person or thing that causes this: the cries of a man in torment ◆ She suffered years of mental torment after her son's death. ◆ The flies were a terrible torment.
- - verb [VN] (written) to make sb suffer very much: He was tormented by feelings of insecurity.
- - to annoy a person or an animal in a cruel way because you think it is amusing
+ - verb [VN]
+	 - (written) to make sb suffer very much: He was tormented by feelings of insecurity.
+	 - to annoy a person or an animal in a cruel way because you think it is amusing
 
 conjure
  - to do clever tricks such as making things seem to appear or disappear as if by magic: [V] Her grandfather taught her to conjure. ◆ [VN +adv./prep.] He could conjure coins from behind people's ears.
@@ -6100,6 +6101,16 @@ expedition
  -  an organized journey with a particular purpose, especially to find out about a place that is not well known: to plan / lead / go on an expedition to the North Pole ◆ a military / scientific expedition
  - the people who go on an expedition: Three members of the Everest expedition were killed.
  - (sometimes humorous) a short trip that you make when you want or need sth: a shopping / fishing expedition
+
+prejudice
+ - noun [U, C] ~ (against sb/sth) an unreasonable dislike of or PREFERENCE for a person, group, custom, etc., especially when it is based on their race, religion, sex, etc
+ - verb [VN]
+	 - ~ sb (against sb/sth) to influence sb so that they have an unfair or unreasonable opinion about sb/sth: The prosecution lawyers have been trying to prejudice the jury against her.
+	 - (formal) to have a harmful effect on sth: Any delay will prejudice the child's welfare.
+
+
+
+
 
 
 

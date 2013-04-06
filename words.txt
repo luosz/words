@@ -6101,8 +6101,10 @@ expedition
  - the people who go on an expedition: Three members of the Everest expedition were killed.
  - (sometimes humorous) a short trip that you make when you want or need sth: a shopping / fishing expedition
 
-
-
+inhumane
+ - adjective not caring about the suffering of other people; very cruel: inhumane treatment of animals / prisoners / the mentally ill
+ - Antonym: HUMANE
+ - inhumanely adverb: Clearly the terrorists have cruelly and inhumanely violated these principles.
 
 
 

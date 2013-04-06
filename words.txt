@@ -6108,10 +6108,6 @@ prejudice
 	 - ~ sb (against sb/sth) to influence sb so that they have an unfair or unreasonable opinion about sb/sth: The prosecution lawyers have been trying to prejudice the jury against her.
 	 - (formal) to have a harmful effect on sth: Any delay will prejudice the child's welfare.
 
-
-
-
-
 inhumane
  - adjective not caring about the suffering of other people; very cruel: inhumane treatment of animals / prisoners / the mentally ill
  - Antonym: HUMANE
@@ -6132,6 +6128,9 @@ revolve
 	 - [V] to go in a circle around a central point: The fan revolved slowly. ◆ The earth revolves on its axis.
 	 - Phrasal Verbs: revolve around / round sth to move around sth in a circle: The earth revolves around the sun.
 	 - revolve around / round sb/sth to have sb/sth as the main interest or subject: His whole life revolves around surfing. ◆ She thinks that the world revolves around her. ◆ The discussion revolved around the question of changing the club's name.
+
+spectroscopy - an instrument used for forming and looking at spectra
+
 
 
 

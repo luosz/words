@@ -6131,6 +6131,9 @@ revolve
 
 spectroscopy - an instrument used for forming and looking at spectra
 
+aquarium
+ - a large glass container in which fish and other water creatures and plants are kept
+ - a building where people can go to see fish and other water creatures
 
 
 

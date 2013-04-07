@@ -6135,8 +6135,12 @@ aquarium
  - a large glass container in which fish and other water creatures and plants are kept
  - a building where people can go to see fish and other water creatures
 
-
-
+scapegoat
+ - noun
+	 - a person who is blamed for sth bad that sb else has done or for some failure
+	 - Synonym: FALL GUY
+	 - She felt she had been made a scapegoat for her boss's incompetence.
+	 - scapegoat verb [VN]
 
 
 

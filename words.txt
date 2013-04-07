@@ -6142,5 +6142,10 @@ scapegoat
 	 - She felt she had been made a scapegoat for her boss's incompetence.
 	 - scapegoat verb [VN]
 
+mastermind
+ - noun [usually sing.] an intelligent person who plans and directs a complicated project or activity (often one that involves a crime): The mastermind behind the robbery was never caught.
+ - verb [VN] to plan and direct a complicated project or activity
+
+
 
 

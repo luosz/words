@@ -6169,6 +6169,13 @@ caramel
 expunge
  - verb [VN] ~ sth (from sth) (formal) to remove or get rid of sth, such as a name, piece of information or a memory, from a book or list, or from your mind: Details of his criminal activities were expunged from the file. ◆ What happened just before the accident was expunged from his memory.
 
+laminated
+ - adjective
+	 - (of wood, plastic, etc.) made by sticking several thin layers together: laminated glass / timber ◆ a laminated table top
+	 - covered with thin transparent plastic for protection: laminated membership cards
+
+
+
 
 
 

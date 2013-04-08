@@ -6159,7 +6159,17 @@ scotch
  - adjective
 	 - of or connected with Scotland  SCOTTISH
  
- 
+caramel
+ - noun
+	 - [U, C] a type of hard sticky sweet/candy made from butter, sugar and milk; a small piece of this
+	 - [U] burnt sugar used for adding colour and flavour to food: ice cream with caramel sauce
+	 - See also  CReME CARAMEL
+	 - [U] a light brown colour
+
+
+
+
+
 
 
 

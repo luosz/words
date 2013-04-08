@@ -6146,6 +6146,9 @@ mastermind
  - noun [usually sing.] an intelligent person who plans and directs a complicated project or activity (often one that involves a crime): The mastermind behind the robbery was never caught.
  - verb [VN] to plan and direct a complicated project or activity
 
-
-
+barrel
+ - noun
+	 - a large round container, usually made of wood or metal, with flat ends and, usually, curved sides: a beer / wine barrel
+	 - the contents of or the amount contained in a barrel; a unit of measurement in the oil industry equal to between 120 and 159 litres: They got through two barrels of beer. ◆ Oil prices fell to $9 a barrel.
+	 - the part of a gun like a tube through which the bullets are fired: Tom found himself looking down the barrel of a gun. ◆ The barrel was aimed directly at me. ◆ He fired one barrel and then fired again.
 

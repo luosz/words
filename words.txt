@@ -6210,7 +6210,9 @@ mew
  - noun the soft high noise that a cat makes
  - mew verb: [V] The kitten mewed pitifully.
 
-
+retaliate
+ - verb [V] ~ (against sb/sth) ~ (by doing sth / with sth) to do sth harmful to sb because they have harmed you first: to retaliate against an attack / injustice ◆ The boy hit his sister, who retaliated by kicking him.
+ - retaliatory adjective: retaliatory action
 
 
 

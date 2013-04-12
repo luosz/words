@@ -6254,7 +6254,10 @@ lavender
 
 shindig - noun (informal) a big noisy party
 
-
+rebate  
+ - noun
+	 - an amount of money that is paid back to you because you have paid too much: a tax rebate
+	 - an amount of money that is taken away from the cost of sth, before you pay for it: Buyers are offered a cash rebate.
 
 
 

@@ -6285,7 +6285,11 @@ rectilinear
 	 - in a straight line: rectilinear motion
 	 - having straight lines: rectilinear forms
 
-
+circumvent  
+ - verb [VN] (formal)
+	 - to find a way of avoiding a difficulty or a rule: They found a way of circumventing the law.
+	 - to go or travel around sth that is blocking your way
+ - circumvention noun [U]
 
 
 

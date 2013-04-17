@@ -6313,7 +6313,7 @@ malignant
 	 - Compare: BENIGN
 	 - (formal) having or showing a strong desire to harm sb
 
-
+nutrient - noun (technical) a substance that is needed to keep a living thing alive and to help it to grow: a lack / supply of essential nutrients ◆ Plants draw minerals and other nutrients from the soil. ◆ children suffering from a serious nutrient deficiency
 
 
 

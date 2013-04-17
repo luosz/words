@@ -6295,10 +6295,23 @@ copulate
  - verb [V] ~ (with sb/sth) (technical) to have sex: Some animals perform elaborate mating rituals before they copulate.
  - copulation noun [U]
 
+epilepsy  
+ - noun [U] a disorder of the nervous system that causes a person to become unconscious suddenly, often with violent movements of the body
+ - epileptic adjective: an epileptic fit
+ - epileptic noun: Is she an epileptic?
 
+benign  
+ - adjective
+	 - (formal) (of people) kind and gentle; not causing any harm: You would never have guessed his intentions from the benign expression on his face.
+	 - (medical) (of TUMOURS growing in the body) not dangerous or likely to cause death
+	 - Compare: MALIGNANT
+ - benignly adverb: He smiled benignly.
 
-
-
+malignant  
+ - adjective
+	 - (of a TUMOUR or disease) that cannot be controlled and is likely to cause death: malignant cells
+	 - Compare: BENIGN
+	 - (formal) having or showing a strong desire to harm sb
 
 
 

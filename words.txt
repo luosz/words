@@ -6323,8 +6323,24 @@ membrane
 	 - a thin layer of material used to prevent air, liquid, etc. from entering a particular part of sth: a waterproof membrane
  - membranous adjective
 
-
-
+hollow  
+ - adjective, noun, verb
+ - adjective
+	 - having a hole or empty space inside: a hollow ball / centre / tube ◆ The tree trunk was hollow inside. ◆ Her stomach felt hollow with fear.
+	 - (of parts of the face) sinking deeply into the face: hollow eyes / cheeks ◆ hollow-eyed from lack of sleep
+	 - [usually before noun] (of sounds) making a low sound like that made by an empty object when it is hit: a hollow groan / echo
+	 - [usually before noun] not sincere: hollow promises / threats ◆ a hollow laugh / voice ◆ Their appeals for an end to the violence had a hollow ring. ◆ His promise rang hollow.
+	 - [usually before noun] without real value: to win a hollow victory ◆ The statistics show that it was no hollow warning.
+	 - hollowly adverb: to laugh / echo hollowly
+	 - hollowness noun [U]: the hollowness of success / victory
+	 - Idioms see RING v.
+ - noun
+	 - an area that is lower than the surface around it, especially on the ground: muddy hollows ◆ The wheelbarrow got stuck in a hollow. ◆ The village lay secluded in a hollow of the hills (= a small valley). ◆ She noticed the slight hollows under his cheekbones.
+	 - a hole or an enclosed space in sth: The squirrel disappeared into a hollow at the base of the tree.
+	 - verb [VN] [usually passive] to make a flat surface curve inwards: The stairs have been hollowed by centuries of use.
+	 - Phrasal Verbs: hollow sth<->out
+	 - to make a hole in sth by removing part of it: Hollow out the cake and fill it with cream. ◆ a gun concealed in a hollowed-out book
+	 - to form sth by making a hole in sth else: The cave has been hollowed out of the mountainside.
 
 
 

@@ -6342,8 +6342,10 @@ hollow
 	 - to make a hole in sth by removing part of it: Hollow out the cake and fill it with cream. ◆ a gun concealed in a hollowed-out book
 	 - to form sth by making a hole in sth else: The cave has been hollowed out of the mountainside.
 
-
-
+glyph
+ - a carved channel or groove, esp a vertical one as used on a Doric frieze
+ - now rare another word for hieroglyphic
+ - any computer-generated character regarded in terms of its shape and bit pattern
 
 
 

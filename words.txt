@@ -6347,6 +6347,21 @@ glyph
  - now rare another word for hieroglyphic
  - any computer-generated character regarded in terms of its shape and bit pattern
 
+prudent
+ - sensible and careful when you make judgements and decisions; avoiding unnecessary risks: a prudent businessman ◆ a prudent decision / investment ◆ It might be more prudent to get a second opinion before going ahead.
+ - Antonym: IMPRUDENT
+ - prudence noun [U]: Maybe you'll exercise a little more financial prudence next time.
+ - prudently adverb: They very prudently decided not to take the case to court.
+
+
+
+
+
+
+
+
+
+
 
 
 

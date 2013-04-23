@@ -6355,7 +6355,12 @@ prudent
  - prudence noun [U]: Maybe you'll exercise a little more financial prudence next time.
  - prudently adverb: They very prudently decided not to take the case to court.
 
-
+intermittent
+ - adjective
+ - stopping and starting often over a period of time, but not regularly
+ - Synonym: SPORADIC
+ - intermittent bursts of applause ◆ intermittent rain / showers
+ - intermittently adverb: Protests continued intermittently throughout November.
 
 
 

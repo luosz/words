@@ -6364,9 +6364,21 @@ intermittent
 
 pedagogy - noun [U] (technical) the study of teaching methods
 
+scourge  
+ - noun
+	 - [usually sing.] ~ (of sb/sth) (written) a person or thing that causes trouble or suffering: the scourge of war / disease / poverty ◆ Pirates are - once again the scourge of the China Sea. ◆ Inflation was the scourge of the 1970s.
+	 - a WHIP used to punish people in the past
+ - verb [VN]
+	 - [usually passive] (literary) to cause trouble or suffering to sb: He lay awake, scourged by his conscience.
+	 - (old use) to hit sb with a scourge
 
-
-
+flog  
+ - verb (-gg-)
+	 - [VN] [often passive] to punish sb by hitting them many times with a whip or stick: He was publicly flogged for breaking the country's alcohol laws.
+	 ~ sth (to sb)
+	 - ~ sth (off) (BrE, informal) to sell sth to sb: [VN] She flogged her guitar to another student. ◆ We buy them cheaply and then flog them off at a profit. ◆ [VNN] I had a letter from a company trying to flog me insurance.
+	 - Idioms: flog a dead horse (BrE, informal) to waste your effort by trying to do sth that is no longer possible
+	 - flog sth to death (BrE, informal) to use an idea, a story, etc. so often that it is no longer interesting: The story has been flogged to death in the press.
 
 
 

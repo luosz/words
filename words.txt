@@ -6380,7 +6380,14 @@ flog
 	 - Idioms: flog a dead horse (BrE, informal) to waste your effort by trying to do sth that is no longer possible
 	 - flog sth to death (BrE, informal) to use an idea, a story, etc. so often that it is no longer interesting: The story has been flogged to death in the press.
 
-
+trickle
+ - verb
+	 - [usually +adv./prep.] to flow, or to make sth flow, slowly in a thin stream: [V] Tears were trickling down her cheeks. ◆ [VN] Trickle some oil over the salad.
+	 - [+adv./prep.] to go, or to make sth go, somewhere slowly or gradually: [V] People began trickling into the hall. ◆ News is starting to trickle out. [also VN]
+	 - Phrasal Verbs: trickle down (especially of money) to spread from rich to poor people through the economic system of a country: Wealth is failing to trickle down through society.
+ - noun
+	 - a small amount of liquid, flowing slowly: There was a trickle of blood at the corner of his mouth.
+	 - [usually sing.] ~ (of sth) a small amount or number of sth, coming or going slowly: a steady trickle of visitors
 
 
 

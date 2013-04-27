@@ -6349,7 +6349,10 @@ glyph
 
 utterly - completely or totally: You look utterly miserable.
 
-
+poker  
+ - noun
+	 - [U] a card game for two or more people, in which the players bet on the values of the cards they hold
+	 - [C] a metal stick for moving or breaking up coal in a fire
 
 
 

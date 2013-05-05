@@ -6449,9 +6449,15 @@ fivefold
  - adv
  - 3) by or up to five times as many or as much
 
-
-
-
+petition  
+ - noun
+	 ~ (against / for sth) a written document signed by a large number of people that asks sb in a position of authority to do or change sth: a petition against experiments on animals
+	 (law) an official document asking a court of law to take a particular course of action
+	 (formal) a formal prayer to God or request to sb in authority
+ - verb
+	 ~ for / against sth
+	 ~ sb (for sth) to make a formal request to sb in authority, especially by sending them a petition
+	 ~ (sb) (for sth) to formally ask for sth in a court of law
 
 
 

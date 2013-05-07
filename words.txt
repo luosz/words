@@ -6459,9 +6459,16 @@ petition
 	 ~ sb (for sth) to make a formal request to sb in authority, especially by sending them a petition
 	 ~ (sb) (for sth) to formally ask for sth in a court of law
 
+corridor  
+ - noun
+ - (AmE also hallway) a long narrow passage in a building or train, with doors that open into rooms on either side: Go along the corridor, turn left, and you'll see his office in front of you.
+ - a long narrow strip of land belonging to one country that passes through the land of another country: the Polish corridor
+ - Idioms: the corridors of power (sometimes humorous) the higher levels of government, where important decisions are made
 
-
-
+coriander  
+ - noun
+ - [U] a plant whose leaves are used in cooking as a herb and whose seeds are used in cooking as a spice
+ - Compare: CILANTRO
 
 
 

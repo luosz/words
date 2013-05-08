@@ -6459,7 +6459,10 @@ petition
 	 ~ sb (for sth) to make a formal request to sb in authority, especially by sending them a petition
 	 ~ (sb) (for sth) to formally ask for sth in a court of law
 
-
+slab  
+ - noun
+ - a thick flat piece of stone, wood or other hard material: a slab of marble / concrete ◆ The road was paved with smooth stone slabs. ◆ paving slabs ◆ a dead body on the slab (= on a table in a MORTUARY)
+ - a thick, flat slice or piece of sth: a slab of chocolate ◆ slabs of meat
 
 
 

@@ -6477,7 +6477,14 @@ slab
 
 colliery - noun (plural collieries) (BrE) a coal mine with its buildings and equipment
 
-
+catch on
+ - 1 [PHRASAL VERB] V P to n, V P
+	 - If you catch on to something, you understand it, or realize that it is happening.
+	 - He got what he could out of me before I caught on to the kind of person he'd turned into...
+	 - Wait a minute! I'm beginning to catch on.
+ - 2 [PHRASAL VERB] V P
+	 - If something catches on, it becomes popular.
+	 - The idea has been around for ages without catching on.
 
 
 

@@ -6497,7 +6497,8 @@ prefecture
 pique
  - noun [U] a feeling of anger and annoyance, especially caused by damage to your feeling of pride in yourself: He stormed from the room in a fit of pique, shouting that he had been misunderstood.
 
-
+parlance
+ - noun [U] (formal) a particular way of using words or expressing yourself, for example one used by a particular group: in common / legal / modern parlance ◆ A Munro, in climbing parlance, is a Scottish mountain exceeding 3 000 feet.
 
 
 

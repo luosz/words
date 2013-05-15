@@ -6494,7 +6494,8 @@ annexe
 prefecture  
  - noun - an area of local government in some countries, for example France, Italy and Japan
 
-
+pique
+ - noun [U] a feeling of anger and annoyance, especially caused by damage to your feeling of pride in yourself: He stormed from the room in a fit of pique, shouting that he had been misunderstood.
 
 
 

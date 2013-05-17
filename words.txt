@@ -6497,8 +6497,12 @@ prefecture
 pique
  - noun [U] a feeling of anger and annoyance, especially caused by damage to your feeling of pride in yourself: He stormed from the room in a fit of pique, shouting that he had been misunderstood.
 
-
-
+exhilarate - to make someone feel very excited and happy
+exhilarated - feeling extremely happy, excited, and full of energy: Dan felt strangely exhilarated by the day's events.
+exhilarating
+ - making you feel happy, excited, and full of energy
+	 - an exhilarating experience
+	 - an exhilarating walk
 
 
 

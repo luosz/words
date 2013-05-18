@@ -6522,7 +6522,11 @@ hiccup
 	- hiccup in
 	- a hiccup in the negotiations
 
-
+repercussion  
+ - noun
+	 - [usually pl.] (written) an indirect and usually bad result of an action or event that may happen some time afterwards
+	 - Synonym: CONSEQUENCE
+	 - The collapse of the company will have repercussions for the whole industry.
 
 
 

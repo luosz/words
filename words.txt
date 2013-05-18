@@ -6514,7 +6514,13 @@ fugitive
 	 - trying to avoid being caught: a fugitive criminal
 	 - (literary) lasting only for a very short time: a fugitive idea / thought
 
-
+hiccup
+ - a sudden repeated stopping of the breath, usually caused by eating or drinking too fast
+	- get/have hiccups BrE ; get/have the hiccups AmE
+	- Don't drink so fast - you'll get hiccups.
+ - a small problem or delay
+	- hiccup in
+	- a hiccup in the negotiations
 
 
 

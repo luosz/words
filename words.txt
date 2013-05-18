@@ -6528,6 +6528,9 @@ repercussion
 	 - Synonym: CONSEQUENCE
 	 - The collapse of the company will have repercussions for the whole industry.
 
-
+bandwagon
+ - noun
+	 - [usually sing.] an activity that more and more people are becoming involved in: The World Cup bandwagon is starting to roll.
+	 - Idioms: climb / jump on the bandwagon (informal, disapproving) to join others in doing sth that is becoming fashionable because you hope to become popular or successful yourself: politicians eager to jump on the environmental bandwagon
 
 

@@ -6514,6 +6514,12 @@ fugitive
 	 - trying to avoid being caught: a fugitive criminal
 	 - (literary) lasting only for a very short time: a fugitive idea / thought
 
+meritocracy  
+ - noun (plural meritocracies)
+	 - [C, U] a country or social system where people get power or money on the basis of their ability
+	 - (the meritocracy) [sing.] the group of people with power in this kind of social system
+ - meritocratic adjective: a meritocratic system
+
 hiccup
  - a sudden repeated stopping of the breath, usually caused by eating or drinking too fast
 	- get/have hiccups BrE ; get/have the hiccups AmE

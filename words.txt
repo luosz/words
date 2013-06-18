@@ -6581,7 +6581,11 @@ equilibrium
 	 - a state of balance, especially between opposing forces or influences: The point at which the solid and the liquid are in equilibrium is called the freezing point. ◆ Any disturbance to the body's state of equilibrium can produce stress. ◆ We have achieved an equilibrium in the economy.
 	 - a calm state of mind and a balance of emotions: He sat down to try and recover his equilibrium.
 
-
+efficacy  
+ - noun
+	 - [U] (formal) the ability of sth, especially a drug or a medical treatment, to produce the results that are wanted
+	 - Synonym: EFFECTIVENESS
+	 - to evaluate the efficacy and safety of the treatment
 
 
 

@@ -6563,7 +6563,11 @@ quagmire
 	 - an area of soft wet ground: The heavy rain soon turned the field into a quagmire.
 	 - a difficult or dangerous situation
 
-
+expedient  
+ - noun
+	- an action that is useful or necessary for a particular purpose, but not always fair or right: The disease was controlled by the simple expedient of not allowing anyone to leave the city.
+ - adjective [not usually before noun] (of an action) useful or necessary for a particular purpose, but not always fair or right: The government has clearly decided that a cut in interest rates would be politically expedient.
+ - expediency noun [U]: He acted out of expediency, not principle.
 
 
 

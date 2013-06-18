@@ -6576,7 +6576,10 @@ fair
  - weather
 	- bright and not raining: a fair and breezy day ◆ The day was set fair with the spring sun shining down.
 
-
+equilibrium  
+ - noun [U, sing.]
+	 - a state of balance, especially between opposing forces or influences: The point at which the solid and the liquid are in equilibrium is called the freezing point. ◆ Any disturbance to the body's state of equilibrium can produce stress. ◆ We have achieved an equilibrium in the economy.
+	 - a calm state of mind and a balance of emotions: He sat down to try and recover his equilibrium.
 
 
 

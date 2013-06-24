@@ -6587,6 +6587,17 @@ efficacy
 	 - Synonym: EFFECTIVENESS
 	 - to evaluate the efficacy and safety of the treatment
 
+akin 
+ - adjective ~ to sth (formal) similar to: What he felt was more akin to pity than love.
+
+
+
+
+
+
+
+
+
 
 
 

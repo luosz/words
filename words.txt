@@ -6631,7 +6631,11 @@ villain
  - (BrE, informal) a criminal
  - Idioms: the villain of the piece (especially humorous) the person or thing that is responsible for all the trouble in a situation: It's hard to identify the real villain of the piece in this case.
 
-
+exemplify
+ - verb (exemplifies, exemplifying, exemplified, exemplified) [VN] [often passive] (formal)
+ - to be a typical example of sth: Her early work is exemplified in her book, 'A Study of Children's Minds'. ◆ His food exemplifies Italian cooking at its best.
+ - to give an example in order to make sth clearer: She exemplified each of the points she was making with an amusing anecdote.
+ - exemplification noun [U, C]
 
 
 

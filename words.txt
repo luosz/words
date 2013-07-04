@@ -6624,6 +6624,15 @@ stumble
 	 - = come across
 	 - Researchers have stumbled across a drug that may help patients with Parkinson's disease.
 
+villain
+ - noun
+ - the main bad character in a story, play, etc: He often plays the part of the villain.
+ - a wicked person: the heroes and villains of the 20th century
+ - (BrE, informal) a criminal
+ - Idioms: the villain of the piece (especially humorous) the person or thing that is responsible for all the trouble in a situation: It's hard to identify the real villain of the piece in this case.
+
+
+
 
 
 

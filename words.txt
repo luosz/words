@@ -6606,9 +6606,23 @@ beam
 defunct
  - adjective (formal) no longer existing, operating or being used: a largely defunct railway network
 
-
-
-
+stumble
+ - to hit your foot against something or put your foot down awkwardly while you are walking or running, so that you almost fall
+	 - = trip
+	 - In her hurry she stumbled and spilled the milk all over the floor.
+	 - stumble over/on
+	 - Vic stumbled over the step as he came in.
+ - to walk in an unsteady way and often almost fall
+	- = stagger stumble in/out/across etc
+	- He stumbled upstairs and into bed.
+ - to stop or make a mistake when you are reading to people or speaking
+	 - stumble over/at/through
+	 - I hope I don't stumble over any of the long words.
+	 - stumble n [C] 
+	 - stumble on/across/upon [stumble on/across/upon sth] phr v
+ - to find or discover something by chance and unexpectedly
+	 - = come across
+	 - Researchers have stumbled across a drug that may help patients with Parkinson's disease.
 
 
 

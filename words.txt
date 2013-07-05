@@ -6644,6 +6644,16 @@ cinematography
 biota
  - noun - the plant and animal life of a particular region or period
 
+prominent
+ - adjective
+	 - important or well known: a prominent leader / politician ◆ He played a prominent part in the campaign. ◆ She was prominent in the fashion industry.
+	 - easily seen
+	 - Synonym: NOTICEABLE
+	 - The church tower was a prominent feature in the landscape. ◆ The story was given a prominent position on the front page.
+	 - sticking out from sth: a prominent nose ◆ prominent cheekbones / teeth
+	 - prominently adverb: The photographs were prominently displayed on her desk. ◆ Problems of family relationships feature prominently in her novels.
+
+
 
 
 

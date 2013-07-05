@@ -6658,9 +6658,15 @@ trimmer
  - noun
 	- a machine for cutting the edges of bushes, grass and HEDGES: a hedge trimmer
 
+apathetic
+ - adjective
+ - showing no interest or enthusiasm: The illness made her apathetic and unwilling to meet people.
+ - apathetically adverb: He looked at me apathetically.
 
-
-
+inert
+ - adjective
+ - (formal) without power to move or act: He lay inert with half-closed eyes. ◆ The president has to operate within an inert political system.
+ - (technical) without active chemical or other PROPERTIES (= characteristics): inert gases
 
 
 

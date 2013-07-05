@@ -6642,7 +6642,8 @@ cinematography
  - cinematographer noun
 
 biota
- - noun - the plant and animal life of a particular region or period
+ - noun
+	- the plant and animal life of a particular region or period
 
 prominent
  - adjective
@@ -6652,6 +6653,11 @@ prominent
 	 - The church tower was a prominent feature in the landscape. ◆ The story was given a prominent position on the front page.
 	 - sticking out from sth: a prominent nose ◆ prominent cheekbones / teeth
 	 - prominently adverb: The photographs were prominently displayed on her desk. ◆ Problems of family relationships feature prominently in her novels.
+
+trimmer  
+ - noun
+	- a machine for cutting the edges of bushes, grass and HEDGES: a hedge trimmer
+
 
 
 

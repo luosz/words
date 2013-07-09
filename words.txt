@@ -6689,6 +6689,9 @@ pathological
 	 - (technical) connected with PATHOLOGY
  - pathologically adverb: pathologically jealous
 
+angiography
+ - n
+	- a method of obtaining an X-ray of blood vessels by injecting into them a substance, such as one containing iodine, that shows up as opaque on an X-ray picture
 
 
 

@@ -6667,7 +6667,12 @@ parabola
 	 - (geometry) a curve like the path of an object thrown into the air and falling back to earth
 	 - parabolic adjective: parabolic curves
 
-
+pathological
+ - adjective
+	 - not reasonable or sensible; impossible to control: pathological fear / hatred / violence ◆ a pathological liar (= a person who cannot stop telling lies)
+	 - caused by, or connected with, disease or illness: pathological depression
+	 - (technical) connected with PATHOLOGY
+ - pathologically adverb: pathologically jealous
 
 
 

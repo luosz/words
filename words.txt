@@ -6658,8 +6658,14 @@ trimmer
  - noun
 	- a machine for cutting the edges of bushes, grass and HEDGES: a hedge trimmer
 
+quadratic  
+ - adjective
+	- (mathematics) involving an unknown quantity that is multiplied by itself once only: a quadratic equation
 
-
+parabola
+ - noun
+	 - (geometry) a curve like the path of an object thrown into the air and falling back to earth
+	 - parabolic adjective: parabolic curves
 
 
 

@@ -6693,6 +6693,10 @@ proliferation
  - noun
 	- [U, sing.] the sudden increase in the number or amount of sth; a large number of a particular thing: attempts to prevent cancer cell proliferation ◆ a proliferation of personal computers
 
+angiography
+ - n
+	- a method of obtaining an X-ray of blood vessels by injecting into them a substance, such as one containing iodine, that shows up as opaque on an X-ray picture
+
 
 
 

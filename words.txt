@@ -6703,8 +6703,11 @@ rhinitis
 sinusitis
  - [N-UNCOUNT] If you have sinusitis, the layer of flesh inside your sinuses is swollen and painful, which can cause headaches and a blocked nose.
 
-
-
+discrepancy (discrepancies)
+ - [N-VAR] usu with supp, oft N between pl-n, N in n
+ - If there is a discrepancy between two things that ought to be the same, there is a noticeable difference between them.
+ - ...the discrepancy between press and radio reports.
+ - = inconsistency
 
 
 

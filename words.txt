@@ -6700,7 +6700,8 @@ angiography
 rhinitis
  - [N-UNCOUNT] If you suffer from rhinitis or allergic rhinitis, your nose is very sore and liquid keeps coming out it. (MEDICAL)
 
-
+sinusitis
+ - [N-UNCOUNT] If you have sinusitis, the layer of flesh inside your sinuses is swollen and painful, which can cause headaches and a blocked nose.
 
 
 

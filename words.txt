@@ -6724,7 +6724,11 @@ gastritis
  - noun
  - [U] (medical) an illness in which the inside of the stomach becomes swollen and painful
 
-
+apocalypse
+ - noun
+ - [sing., U] the destruction of the world: Civilization is on the brink of apocalypse.
+ - (the Apocalypse) [sing.] the end of the world, as described in the Bible
+ - [sing.] a situation causing very serious damage and destruction: an environmental apocalypse
 
 
 

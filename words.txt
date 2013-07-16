@@ -6755,7 +6755,14 @@ genealogy
  - [C] a particular person's line of ancestors; a diagram that shows this
  - genealogical adjective [only before noun]: a genealogical chart / table / tree (= a chart with branches that shows a person's ancestors)
 
+tabular
+ - adjective
+ - [usually before noun] (written) presented or arranged in a TABLE (= in rows and columns): tabular data ◆ The results are presented in tabular form.
 
+tabulate
+ - verb
+ - [VN] to arrange facts or figures in columns or lists so that they can be read easily: The survey results are tabulated in section 9 of Appendix 1.
+ - tabulation noun [U, C]
 
 
 

@@ -6737,7 +6737,8 @@ prudent
  - prudence noun [U]: Maybe you'll exercise a little more financial prudence next time.
  - prudently adverb: They very prudently decided not to take the case to court.
 
-
+chromosome
+ - a part of every living cell that is shaped like a thread and contains the genes that control the size, shape etc that a plant or animal has
 
 
 

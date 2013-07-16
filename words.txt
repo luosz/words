@@ -6749,7 +6749,11 @@ canonical
  - according to the law of the Christian Church: canonical authority / rules
  - (technical) in the simplest accepted form in mathematics: the standard canonical form for a matrix
 
-
+genealogy
+ - noun (plural genealogies)
+ - [U] the study of family history, including the study of who the ancestors of a particular person were
+ - [C] a particular person's line of ancestors; a diagram that shows this
+ - genealogical adjective [only before noun]: a genealogical chart / table / tree (= a chart with branches that shows a person's ancestors)
 
 
 

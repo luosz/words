@@ -6738,9 +6738,16 @@ prudent
  - prudently adverb: They very prudently decided not to take the case to court.
 
 chromosome
- - a part of every living cell that is shaped like a thread and contains the genes that control the size, shape etc that a plant or animal has
+ - noun
+ - (biology) one of the very small parts like threads in the NUCLEI (= central parts) of animal and plant cells, that carry the GENES: Humans have 23 pairs of chromosomes in their cells.
+ - See also  SEX CHROMOSOME, X CHROMOSOME, Y CHROMOSOME
+ - chromosomal adjective: chromosomal abnormalities / DNA
 
-
+canonical
+ - adjective
+ - included in a list of holy books that are accepted as genuine; connected with works of literature that are highly respected
+ - according to the law of the Christian Church: canonical authority / rules
+ - (technical) in the simplest accepted form in mathematics: the standard canonical form for a matrix
 
 
 

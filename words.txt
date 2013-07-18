@@ -6768,7 +6768,10 @@ tabulate
 
 Simulated annealing (SA) is a generic probabilistic metaheuristic for the global optimization problem of locating a good approximation to the global optimum of a given function in a large search space.
 
-
+spectral
+ - adjective
+ - (literary) like a ghost; connected with a ghost: a spectral figure / voice
+ - (technical) connected with a SPECTRUM: spectral bands ◆ the full spectral range
 
 
 

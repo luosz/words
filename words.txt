@@ -6766,7 +6766,7 @@ tabulate
 
 'tis - short form (old use) it is
 
-
+Simulated annealing (SA) is a generic probabilistic metaheuristic for the global optimization problem of locating a good approximation to the global optimum of a given function in a large search space.
 
 
 

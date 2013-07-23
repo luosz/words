@@ -6778,11 +6778,12 @@ equilibrium
  - a state of balance, especially between opposing forces or influences: The point at which the solid and the liquid are in equilibrium is called the freezing point. ◆ Any disturbance to the body's state of equilibrium can produce stress. ◆ We have achieved an equilibrium in the economy.
  - a calm state of mind and a balance of emotions: He sat down to try and recover his equilibrium.
 
+pharmaceutical
+ - adjective [only before noun] connected with making and selling drugs and medicines: pharmaceutical companies / products ◆ the pharmaceutical industry
+ - noun [usually pl.] (technical) a drug or medicine: the development of new pharmaceuticals ◆ the pharmaceuticals industry
 
-
-
-
-
+paramecium
+ - [noun] any freshwater protozoan of the genus Paramecium, having an oval body covered with cilia and a ventral ciliated groove for feeding: phylum Ciliophora (ciliates)
 
 
 

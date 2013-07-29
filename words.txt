@@ -6785,8 +6785,9 @@ pharmaceutical
 paramecium
  - [noun] any freshwater protozoan of the genus Paramecium, having an oval body covered with cilia and a ventral ciliated groove for feeding: phylum Ciliophora (ciliates)
 
-
-
+demolition
+ - The demolition of a building is the act of deliberately destroying it, often in order to build something else in its place.
+	- The project required the total demolition of the old bridge...
 
 
 

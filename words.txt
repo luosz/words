@@ -6789,9 +6789,13 @@ demolition
  - The demolition of a building is the act of deliberately destroying it, often in order to build something else in its place.
 	- The project required the total demolition of the old bridge...
 
+scalpel
+ - noun
+ - a small sharp knife used by doctors in medical operations
 
-
-
+lancet
+ - noun
+ - a knife with a sharp point and two sharp edges, used by doctors for cutting skin and flesh
 
 
 

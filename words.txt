@@ -6797,6 +6797,11 @@ lancet
  - noun
  - a knife with a sharp point and two sharp edges, used by doctors for cutting skin and flesh
 
+sonar
+ - noun
+	- [U] equipment or a system for finding objects underwater using sound waves
+ - Compare: RADAR
 
-
-
+sauna
+ - noun
+	- a type of bath in which you sit or lie in a small room (also called a sauna) which has been heated to a very high temperature by burning coal or wood. Some saunas involve the use of steam which is produced by pouring water over the hot coal or wood: to have a sauna ◆ a hotel with a swimming pool and sauna ◆ to have / take a sauna

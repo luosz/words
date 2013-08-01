@@ -6805,3 +6805,26 @@ sonar
 sauna
  - noun
 	- a type of bath in which you sit or lie in a small room (also called a sauna) which has been heated to a very high temperature by burning coal or wood. Some saunas involve the use of steam which is produced by pouring water over the hot coal or wood: to have a sauna ◆ a hotel with a swimming pool and sauna ◆ to have / take a sauna
+
+perforation  
+ - noun
+ - [C, usually pl., U] a small hole in a surface, often one of a series of small holes: Tear the sheet of stamps along the perforations. ◆ He made a small perforation in the lining of the tube.
+ - [U] (medical) the process of splitting or tearing in such a way that a hole is left: Excessive pressure can lead to perforation of the stomach wall.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

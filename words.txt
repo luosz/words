@@ -6815,8 +6815,9 @@ perforate
  - verb
 	- [VN] to make a hole or holes through sth: The explosion perforated his eardrum. ◆ a perforated line (= a row of small holes in paper, made so that a part can be torn off easily)
 
-
-
+dwindle
+ - verb
+	- [V] ~ (away) (to sth) to become gradually less or smaller: dwindling audiences / numbers / popularity ◆ a dwindling band of supporters ◆ Support for the party has dwindled away to nothing. ◆ Membership of the club has dwindled from 70 to 20.
 
 
 

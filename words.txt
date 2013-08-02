@@ -6819,7 +6819,9 @@ dwindle
  - verb
 	- [V] ~ (away) (to sth) to become gradually less or smaller: dwindling audiences / numbers / popularity ◆ a dwindling band of supporters ◆ Support for the party has dwindled away to nothing. ◆ Membership of the club has dwindled from 70 to 20.
 
-
+folklore
+ - noun
+ - [U] the traditions and stories of a country or community: Irish / Indian folklore ◆ The story rapidly became part of family folklore.
 
 
 

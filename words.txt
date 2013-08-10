@@ -6828,7 +6828,9 @@ cranial
 	 - Cranial means relating to your cranium. (TECHNICAL)
 	 - ...cranial bleeding.
 
-
+amplitude
+ - noun
+ - [U, C] (physics) the greatest distance that a wave, especially a sound or radio wave, VIBRATES (= moves up and down)
 
 
 

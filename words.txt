@@ -6823,8 +6823,10 @@ folklore
  - noun
  - [U] the traditions and stories of a country or community: Irish / Indian folklore ◆ The story rapidly became part of family folklore.
 
-
-
+cranial
+ - [ADJ] ADJ n
+	 - Cranial means relating to your cranium. (TECHNICAL)
+	 - ...cranial bleeding.
 
 
 

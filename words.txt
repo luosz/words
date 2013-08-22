@@ -6835,8 +6835,10 @@ amplitude
 archipelago
  - An archipelago is a group of islands, especially small islands.
 
-
-
+reimburse
+ - verb
+	 - [VN] ~ sb (for sth) (formal) to pay back money to sb which they have spent or lost: We will reimburse any expenses incurred. ◆ You will be reimbursed for any loss or damage caused by our company.
+	 - reimbursement noun [U]: You will receive reimbursement for any additional costs incurred.
 
 
 

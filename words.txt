@@ -6844,10 +6844,13 @@ durian
  - A tree(Durio zibethinus)  of southeast Asia, bearing edible fruit. 
  - The fruit of this plant, having a hard, prickly rind and soft pulp with an offensive odor but a pleasant taste.
 
+albeit
+ - conjunction
+	- (formal) although: He finally agreed, albeit reluctantly, to help us.
 
-
-
-
+remand
+ - verb [VN] [usually +adv./prep.] [usually passive] to send sb away from a court of law to wait for their trial which will take place at a later date: [VN] The two men were charged with burglary and remanded in custody (= sent to prison until their trial). ◆ She was remanded on bail (= allowed to go free until the trial after leaving a sum of money with the court).
+ - noun [U, C, pl.] the process of keeping sb in prison while they are waiting for their trial: He is currently being held on remand. ◆ a remand prisoner
 
 
 

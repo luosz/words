@@ -6852,7 +6852,9 @@ remand
  - verb [VN] [usually +adv./prep.] [usually passive] to send sb away from a court of law to wait for their trial which will take place at a later date: [VN] The two men were charged with burglary and remanded in custody (= sent to prison until their trial). ◆ She was remanded on bail (= allowed to go free until the trial after leaving a sum of money with the court).
  - noun [U, C, pl.] the process of keeping sb in prison while they are waiting for their trial: He is currently being held on remand. ◆ a remand prisoner
 
-
+walkie-talkie
+ - noun
+	- (informal) a small radio that you can carry with you and use to send or receive messages
 
 
 

@@ -6861,5 +6861,7 @@ entice
  - [usually +adv./prep.] ~ sb (into doing sth) to persuade sb/sth to go somewhere or to do sth, usually by offering them sth: [VN] The bargain prices are expected to entice customers away from other stores. ◆ a plan to entice mothers back to work ◆ The animal refused to be enticed from its hole. ◆ [VN to inf] Try and entice the child to eat by offering small portions of their favourite food.
  - enticement noun [C, U]: The party is offering low taxation as its main enticement.
 
-
-
+boulevard
+	 - noun
+	 - (BrE) a wide city street, often with trees on either side
+	 - (abbreviation Blvd.) (AmE) a wide main road (often used in the name of streets): Sunset Boulevard

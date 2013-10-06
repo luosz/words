@@ -6865,3 +6865,8 @@ boulevard
 	 - noun
 	 - (BrE) a wide city street, often with trees on either side
 	 - (abbreviation Blvd.) (AmE) a wide main road (often used in the name of streets): Sunset Boulevard
+
+subjunctive
+ - noun
+ - (grammar) the form (or MOOD) of a verb that expresses wishes, possibility or uncertainty; a verb in this form: The verb is in the subjunctive. ◆ In 'I wish I were taller', 'were' is a subjunctive.
+ - subjunctive adjective: the subjunctive mood

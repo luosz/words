@@ -6862,11 +6862,33 @@ entice
  - enticement noun [C, U]: The party is offering low taxation as its main enticement.
 
 boulevard
-	 - noun
-	 - (BrE) a wide city street, often with trees on either side
-	 - (abbreviation Blvd.) (AmE) a wide main road (often used in the name of streets): Sunset Boulevard
+ - noun
+ - (BrE) a wide city street, often with trees on either side
+ - (abbreviation Blvd.) (AmE) a wide main road (often used in the name of streets): Sunset Boulevard
 
 subjunctive
  - noun
  - (grammar) the form (or MOOD) of a verb that expresses wishes, possibility or uncertainty; a verb in this form: The verb is in the subjunctive. ◆ In 'I wish I were taller', 'were' is a subjunctive.
  - subjunctive adjective: the subjunctive mood
+
+impasse
+ - noun
+ - [usually sing.] a difficult situation in which no progress can be made because the people involved cannot agree what to do
+ - Synonym: DEADLOCK
+ - to break / end the impasse ◆ Negotiations have reached an impasse.
+
+ensue
+ - verb
+ - [V] (written) to happen after or as a result of another event
+ - Synonym: FOLLOW
+ - An argument ensued.
+ - ensuing adjective: He had become separated from his parents in the ensuing panic. ◆ They lost track of each other in the ensuing years.
+
+
+
+
+
+
+
+
+

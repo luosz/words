@@ -6914,4 +6914,12 @@ genre
  - noun
  - (formal) a particular type or style of literature, art, film or music that you can recognize because of its special features
 
+stroll
+ - verb, noun
+ - verb [V] [usually +adv./prep.] to walk somewhere in a slow relaxed way: People were strolling along the beach.
+ - noun
+ - a slow relaxed walk: We went for a stroll in the park. ◆ The beach is a leisurely ten-minute stroll away.
+
+
+
 

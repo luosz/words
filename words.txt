@@ -6910,7 +6910,8 @@ lip service
  - noun
  - if sb pays lip-service to sth, they say that they approve of it or support it, without proving their support by what they actually do: All the parties pay lip-service to environmental issues.
 
-
-
+genre
+ - noun
+ - (formal) a particular type or style of literature, art, film or music that you can recognize because of its special features
 
 

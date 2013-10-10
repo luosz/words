@@ -6920,6 +6920,8 @@ stroll
  - noun
  - a slow relaxed walk: We went for a stroll in the park. ◆ The beach is a leisurely ten-minute stroll away.
 
-
+pleat
+ - noun
+ - a permanent fold in a piece of fabric, made by sewing the top or side of the fold: a shirt with narrow pleats at the front
 
 

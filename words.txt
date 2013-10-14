@@ -6929,3 +6929,9 @@ stalemate
  - [U, C, usually sing.] a situation in a dispute or competition in which neither side is able to win or make any progress: The talks ended in (a) stalemate. ◆ proposals aimed at breaking (= ending) the political stalemate ◆ The strike has once again reached stalemate.
  - [U, sing.] (in CHESS) a situation in which a player cannot successfully move any of their pieces and the game ends without a winner: The match ended in (a) stalemate
  - Compare: CHECKMATE
+
+ancestry
+ - noun
+ - [C, usually sing, U] (plural ancestries) the family or the race of people that you are descended from: to have Scottish ancestry ◆ He was able to trace his ancestry back over 1 000 years.
+
+

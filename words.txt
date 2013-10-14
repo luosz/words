@@ -6934,4 +6934,17 @@ ancestry
  - noun
  - [C, usually sing, U] (plural ancestries) the family or the race of people that you are descended from: to have Scottish ancestry ◆ He was able to trace his ancestry back over 1 000 years.
 
+relegate
+ - verb [VN]
+ - ~ sb/sth (to sth) to give sb a lower or less important position, rank, etc. than before: She was then relegated to the role of assistant. ◆ He relegated the incident to the back of his mind.
+ - [usually passive] (especially BrE) to move a sports team, especially a football team, to a lower position within an official LEAGUE
+ - Antonym: PROMOTE
+ - relegation noun [U]: teams threatened with relegation
+
+derogatory
+ - adjective
+ - showing a critical attitude towards sb
+ - Synonym: INSULTING
+ - derogatory remarks / comments ◆ (formal) She indicated by her tone that this was only her private opinion and in no way derogatory of Colonel Ferguson.
+
 

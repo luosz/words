@@ -6971,4 +6971,7 @@ juxtapose
 arbitrage
  - the process of buying something such as raw materials or currency in one place and selling them immediately in another place in order to make a profit from the difference in prices
 
+diligence
+ - noun [U] (formal) careful and thorough work or effort: She shows great diligence in her schoolwork. ◆ The captain exercised all reasonable diligence to prevent the ship from sinking.
+
 

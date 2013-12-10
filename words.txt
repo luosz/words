@@ -6974,4 +6974,7 @@ arbitrage
 diligence
  - noun [U] (formal) careful and thorough work or effort: She shows great diligence in her schoolwork. ◆ The captain exercised all reasonable diligence to prevent the ship from sinking.
 
+erudite
+ - showing a lot of knowledge based on careful study = learned
+
 

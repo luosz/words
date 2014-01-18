@@ -6004,10 +6004,14 @@ sanctum
  -  private room where sb can go and not be disturbed: She once allowed me into her inner sanctum.
  - a holy place
 
-horoscope - a description of what is going to happen to sb in the future, based on the position of the stars and the planets when the person was born
-zodiac - the imaginary area in the sky in which the sun, moon and planets appear to lie, and which has been divided into twelve equal parts each with a special name and symbol: the signs of the zodiac
+horoscope
+- a description of what is going to happen to sb in the future, based on the position of the stars and the planets when the person was born
 
-apiary - (plural apiaries) a place where bees are kept: The apiary was nearby; half a dozen hives faced south down the slope.
+zodiac
+- the imaginary area in the sky in which the sun, moon and planets appear to lie, and which has been divided into twelve equal parts each with a special name and symbol: the signs of the zodiac
+
+apiary
+- (plural apiaries) a place where bees are kept: The apiary was nearby; half a dozen hives faced south down the slope.
 
 outrage
  - a strong feeling of shock and anger
@@ -6018,9 +6022,14 @@ outrageous
  - very shocking and unacceptable
  - very unusual and slightly shocking
 
-paunch - a fat stomach on a man: The driver had a paunch hanging over his belt.
-paunchy - adjective: Mr Steed was middle-aged and paunchy, with deep shadows under his eyes.
-frenzy - [C, usually sing, U] (plural frenzies) ~ (of sth) a state of great activity and strong emotion that is often violent or frightening and not under control: in a frenzy of activity / excitement / violence ◆ The speaker worked the crowd up into a frenzy. ◆ an outbreak of patriotic frenzy ◆ a killing frenzy
+paunch
+- a fat stomach on a man: The driver had a paunch hanging over his belt.
+
+paunchy
+- adjective: Mr Steed was middle-aged and paunchy, with deep shadows under his eyes.
+
+frenzy
+- [C, usually sing, U] (plural frenzies) ~ (of sth) a state of great activity and strong emotion that is often violent or frightening and not under control: in a frenzy of activity / excitement / violence ◆ The speaker worked the crowd up into a frenzy. ◆ an outbreak of patriotic frenzy ◆ a killing frenzy
 
 agitation
  - [U] worry and anxiety that you show by behaving in a nervous way: Dot arrived in a state of great agitation.
@@ -6042,18 +6051,22 @@ about time (ALSO high time) INFORMAL
 miscreant - noun (literary) a person who has done sth wrong or illegal
 congregate - [V] to come together in a group: Young people often congregate in the main square in the evenings.
 
-government officials - n.  people elected or appointed to administer a government
+government officials
+- n.  people elected or appointed to administer a government
 
-brownie - [C] a thick soft flat cake made with chocolate and sometimes nuts: a fudge brownie
+brownie
+- [C] a thick soft flat cake made with chocolate and sometimes nuts: a fudge brownie
 
 fudge
  - noun [U] a type of soft brown sweet/candy made from sugar, butter and milk
  - (a fudge) [sing.] (especially BrE) a way of dealing with a situation that does not really solve the problems but is intended to appear to do so: This solution is a fudge rushed in to win cheers at the party conference.
  - verb ~ (on) sth to avoid giving clear and accurate information, or a clear answer: [VN] I asked how long he was staying, but he fudged the answer. ◆ Politicians are often very clever at fudging the issue. [also V]
 
-muesli - [U] (BrE) a mixture of grains, nuts, dried fruit, etc. served with milk and eaten for breakfast
+muesli
+- [U] (BrE) a mixture of grains, nuts, dried fruit, etc. served with milk and eaten for breakfast
 
-cum laude - adverb, adjective (from Latin) (in the US) at the third of the three highest levels of achievement that students can reach when they finish their studies at college: He graduated cum laude from Georgetown University.
+cum laude
+- adverb, adjective (from Latin) (in the US) at the third of the three highest levels of achievement that students can reach when they finish their studies at college: He graduated cum laude from Georgetown University.
  
 slate
  - [U] a type of dark grey stone that splits easily into thin flat layers
@@ -6069,12 +6082,14 @@ bereavement
  - [U] the state of having lost a relative or close friend because they have died: the pain of an emotional crisis such as divorce or bereavement ◆ a sense of bereavement ◆ learning to cope with bereavement ◆ bereavement counselling
  - [C] the death of a relative or close friend: A family bereavement meant that he could not attend the conference. ◆ She had suffered three bereavements in quick succession.
 
-In the art of war, if you know the enemy and know yourself, you need not fear the appraoching battles.
+In the art of war, if you know the enemy and know yourself, you need not fear the approaching battles.
 But if you know only yourself and not your enemy, for every victory, there will also be defeat.
 
-in the flesh - in real life, and not on TV, in a film, in a picture, etc: I've seen her perform on television, but never in the flesh.
+in the flesh
+- in real life, and not on TV, in a film, in a picture, etc: I've seen her perform on television, but never in the flesh.
 
-tribune - an official in ancient Rome who was elected by the ordinary people to protect their rights
+tribune
+- an official in ancient Rome who was elected by the ordinary people to protect their rights
 
 laurel
  - [U, C] a bush with dark smooth shiny leaves that remain on the bush and stay green through the year: a laurel hedge
@@ -6085,7 +6100,8 @@ laurel
 consolation - [U, C] a person or thing that makes you feel better when you are unhappy or disappointed
 consolation prize - prize given to sb who has just missed winning or has come last 
 
-roll your eyes - to move your eyes upwards as a way of showing that you are annoyed or bored after someone has done or said something
+roll your eyes
+- to move your eyes upwards as a way of showing that you are annoyed or bored after someone has done or said something
 
 torment
  - noun [U, C] (written) extreme suffering, especially mental suffering; a person or thing that causes this: the cries of a man in torment ◆ She suffered years of mental torment after her son's death. ◆ The flies were a terrible torment.
@@ -6129,7 +6145,8 @@ revolve
 	 - Phrasal Verbs: revolve around / round sth to move around sth in a circle: The earth revolves around the sun.
 	 - revolve around / round sb/sth to have sb/sth as the main interest or subject: His whole life revolves around surfing. ◆ She thinks that the world revolves around her. ◆ The discussion revolved around the question of changing the club's name.
 
-spectroscopy - an instrument used for forming and looking at spectra
+spectroscopy
+- an instrument used for forming and looking at spectra
 
 aquarium
  - a large glass container in which fish and other water creatures and plants are kept
@@ -6174,7 +6191,8 @@ laminated
 	 - (of wood, plastic, etc.) made by sticking several thin layers together: laminated glass / timber ◆ a laminated table top
 	 - covered with thin transparent plastic for protection: laminated membership cards
 
-prodigy - (plural prodigies) a young person who is unusually intelligent or skilful for their age: a child / an infant prodigy ◆ a musical / tennis prodigy
+prodigy
+- (plural prodigies) a young person who is unusually intelligent or skilful for their age: a child / an infant prodigy ◆ a musical / tennis prodigy
 
 suave
  - adjective (especially of a man) confident, elegant and polite, sometimes in a way that does not seem sincere: The manager was suave and sophisticated. ◆ He gave his usual suave performance.
@@ -6214,25 +6232,33 @@ retaliate
  - verb [V] ~ (against sb/sth) ~ (by doing sth / with sth) to do sth harmful to sb because they have harmed you first: to retaliate against an attack / injustice ◆ The boy hit his sister, who retaliated by kicking him.
  - retaliatory adjective: retaliatory action
 
-traumatize - (BrE also traumatise) verb [VN] [usually passive] to shock and upset sb very much, often making them unable to think or work normally: He was so traumatized by the attack that he could not work for a year.
+traumatize
+- (BrE also traumatise) verb [VN] [usually passive] to shock and upset sb very much, often making them unable to think or work normally: He was so traumatized by the attack that he could not work for a year.
 
-throughput - noun [U, C, usually sing.] (technical) the amount of work that is done, or the number of people that are dealt with, in a particular period of time: high / low rates of throughput ◆ The centre has a weekly throughput of 200 000 shoppers.
+throughput
+- noun [U, C, usually sing.] (technical) the amount of work that is done, or the number of people that are dealt with, in a particular period of time: high / low rates of throughput ◆ The centre has a weekly throughput of 200 000 shoppers.
 
-paramour - noun (old-fashioned or literary) a person that sb is having a romantic or sexual relationship with. Synonym: LOVER
+paramour
+- noun (old-fashioned or literary) a person that sb is having a romantic or sexual relationship with. Synonym: LOVER
 
-rationale - noun ~ (behind / for / of sth) (formal) the principles or reasons which explain a particular decision, course of action, belief, etc: What is the rationale behind these new exams?
+rationale
+- noun ~ (behind / for / of sth) (formal) the principles or reasons which explain a particular decision, course of action, belief, etc: What is the rationale behind these new exams?
 
-finale - noun the last part of a show or a piece of music: the rousing finale of Beethoven's Ninth Symphony ◆ The festival ended with a grand finale in Hyde Park. ~ (to sth) (after an adjective) an ending to sth of the type mentioned: a fitting / superb / dramatic finale to the day's events
+finale
+- noun the last part of a show or a piece of music: the rousing finale of Beethoven's Ninth Symphony ◆ The festival ended with a grand finale in Hyde Park. ~ (to sth) (after an adjective) an ending to sth of the type mentioned: a fitting / superb / dramatic finale to the day's events
 
-graphite - noun [U] a soft black mineral that is a form of CARBON. Graphite is used to make pencils, to LUBRICATE machinery, and in nuclear REACTORS.
+graphite
+- noun [U] a soft black mineral that is a form of CARBON. Graphite is used to make pencils, to LUBRICATE machinery, and in nuclear REACTORS.
 
 lubricate
  - verb [VN] to put a lubricant on sth such as the parts of a machine, to help them move smoothly
  - lubrication noun [U]
 
-reactor - (also nuclear reactor) noun a large structure used for the controlled production of nuclear energy: plans to build a new reactor at the nuclear power plant
+reactor
+- (also nuclear reactor) noun a large structure used for the controlled production of nuclear energy: plans to build a new reactor at the nuclear power plant
 
-galling - adjective [not usually before noun] (of a situation or fact) making you angry because it is unfair: It was galling to have to apologize to a man she hated.
+galling
+- adjective [not usually before noun] (of a situation or fact) making you angry because it is unfair: It was galling to have to apologize to a man she hated.
 
 masquerade
  - noun
@@ -6240,11 +6266,14 @@ masquerade
 	 - (especially AmE) a type of party where people wear special COSTUMES and MASKS over their faces, to hide their identities
  - verb [V] ~ as sth to pretend to be sth that you are not: commercial advertisers masquerading as private individuals ◆ The local paper is full of gossip masquerading as news.
 
-smog - noun [U, C] a form of air POLLUTION that is or looks like a mixture of smoke and FOG, especially in cities: attempts to reduce smog caused by traffic fumes
+smog
+- noun [U, C] a form of air POLLUTION that is or looks like a mixture of smoke and FOG, especially in cities: attempts to reduce smog caused by traffic fumes
 
-impetus - noun [U, sing.] ~ (for sth) ~ (to sth / to do sth) something that encourages a process or activity to develop more quickly. Synonym: STIMULUS
+impetus
+- noun [U, sing.] ~ (for sth) ~ (to sth / to do sth) something that encourages a process or activity to develop more quickly. Synonym: STIMULUS
 
-aromatherapy - noun [U] the use of natural oils that smell sweet for controlling pain or for rubbing into the body during MASSAGE - aromatherapist noun
+aromatherapy
+- noun [U] the use of natural oils that smell sweet for controlling pain or for rubbing into the body during MASSAGE - aromatherapist noun
 
 lavender
  - noun [U]
@@ -6252,7 +6281,8 @@ lavender
 	 - the flowers of the lavender plant that have been dried, used for making sheets, clothes, etc. smell nice: lavender oil
 	 - a pale purple colour
 
-shindig - noun (informal) a big noisy party
+shindig
+- noun (informal) a big noisy party
 
 rebate  
  - noun
@@ -6277,8 +6307,11 @@ counsel
 	 - [VN] to listen to and give support or professional advice to sb who needs help: Therapists were brought in to counsel the bereaved.
 	 - (formal) to advise sb to do sth: [VN] Most experts counsel caution in such cases. ◆ [VN to inf] He counselled them to give up the plan.
 
-stipulate - verb (formal) to state clearly and firmly that sth must be done, or how it must be done: [VN] A delivery date is stipulated in the contract. ◆ [V that] The job advertisement stipulates that the applicant must have three years' experience. [also V wh-]
-stipulation - noun [C, U]: The only stipulation is that the topic you choose must be related to your studies.
+stipulate
+- verb (formal) to state clearly and firmly that sth must be done, or how it must be done: [VN] A delivery date is stipulated in the contract. ◆ [V that] The job advertisement stipulates that the applicant must have three years' experience. [also V wh-]
+
+stipulation
+- noun [C, U]: The only stipulation is that the topic you choose must be related to your studies.
 
 rectilinear  
  - adjective (technical)
@@ -6347,7 +6380,8 @@ glyph
  - now rare another word for hieroglyphic
  - any computer-generated character regarded in terms of its shape and bit pattern
 
-utterly - completely or totally: You look utterly miserable.
+utterly
+- completely or totally: You look utterly miserable.
 
 poker  
  - noun
@@ -6367,7 +6401,8 @@ intermittent
  - intermittent bursts of applause ◆ intermittent rain / showers
  - intermittently adverb: Protests continued intermittently throughout November.
 
-pedagogy - noun [U] (technical) the study of teaching methods
+pedagogy
+- noun [U] (technical) the study of teaching methods
 
 scourge  
  - noun
@@ -6384,6 +6419,7 @@ flog
 	 - ~ sth (off) (BrE, informal) to sell sth to sb: [VN] She flogged her guitar to another student. ◆ We buy them cheaply and then flog them off at a profit. ◆ [VNN] I had a letter from a company trying to flog me insurance.
 	 - Idioms: flog a dead horse (BrE, informal) to waste your effort by trying to do sth that is no longer possible
 	 - flog sth to death (BrE, informal) to use an idea, a story, etc. so often that it is no longer interesting: The story has been flogged to death in the press.
+
 trickle
  - verb
 	 - [usually +adv./prep.] to flow, or to make sth flow, slowly in a thin stream: [V] Tears were trickling down her cheeks. ◆ [VN] Trickle some oil over the salad.
@@ -6393,14 +6429,16 @@ trickle
 	 - a small amount of liquid, flowing slowly: There was a trickle of blood at the corner of his mouth.
 	 - [usually sing.] ~ (of sth) a small amount or number of sth, coming or going slowly: a steady trickle of visitors
 
-aeon - (BrE) (also eon AmE, BrE) noun (formal) an extremely long period of time; thousands of years: aeons of geological history ◆ Only yesterday-and it seemed aeons ago, not just a few hours-he had been a happily married man.
+aeon
+- (BrE) (also eon AmE, BrE) noun (formal) an extremely long period of time; thousands of years: aeons of geological history ◆ Only yesterday-and it seemed aeons ago, not just a few hours-he had been a happily married man.
 
 flapjack
  - noun
 	 - [U, C] (BrE) a thick soft biscuit made from OATS, butter, sugar and SYRUP
 	 - [C] (AmE) a thick PANCAKE
 
-granola - noun [U] (especially AmE) a type of breakfast CEREAL made of grains, nuts, etc. that have been TOASTED
+granola
+- noun [U] (especially AmE) a type of breakfast CEREAL made of grains, nuts, etc. that have been TOASTED
 
 quadruple  
  - verb, adjective, determiner
@@ -6418,7 +6456,8 @@ proliferate
  - Synonym: MULTIPLY
  - Books and articles on the subject have proliferated over the last year.
 
-glean - verb [VN] ~ sth (from sb/sth) to obtain information, knowledge etc., sometimes with difficulty and often from various different places: These figures have been gleaned from a number of studies.
+glean
+- verb [VN] ~ sth (from sb/sth) to obtain information, knowledge etc., sometimes with difficulty and often from various different places: These figures have been gleaned from a number of studies.
 
 rejuvenate
  - verb [VN] to make sb/sth look or feel younger or more lively: His new job seemed to rejuvenate him. ◆ special creams to rejuvenate the skin
@@ -6475,7 +6514,8 @@ slab
  - a thick flat piece of stone, wood or other hard material: a slab of marble / concrete ◆ The road was paved with smooth stone slabs. ◆ paving slabs ◆ a dead body on the slab (= on a table in a MORTUARY)
  - a thick, flat slice or piece of sth: a slab of chocolate ◆ slabs of meat
 
-colliery - noun (plural collieries) (BrE) a coal mine with its buildings and equipment
+colliery
+- noun (plural collieries) (BrE) a coal mine with its buildings and equipment
 
 catch on
  - 1 [PHRASAL VERB] V P to n, V P
@@ -6500,8 +6540,12 @@ pique
 parlance
  - noun [U] (formal) a particular way of using words or expressing yourself, for example one used by a particular group: in common / legal / modern parlance ◆ A Munro, in climbing parlance, is a Scottish mountain exceeding 3 000 feet.
 
-exhilarate - to make someone feel very excited and happy
-exhilarated - feeling extremely happy, excited, and full of energy: Dan felt strangely exhilarated by the day's events.
+exhilarate
+- to make someone feel very excited and happy
+
+exhilarated
+- feeling extremely happy, excited, and full of energy: Dan felt strangely exhilarated by the day's events.
+
 exhilarating
  - making you feel happy, excited, and full of energy
 	 - an exhilarating experience
@@ -6833,7 +6877,7 @@ amplitude
  - [U, C] (physics) the greatest distance that a wave, especially a sound or radio wave, VIBRATES (= moves up and down)
 
 archipelago
- - An archipelago is a group of islands, especially small islands.
+- An archipelago is a group of islands, especially small islands.
 
 reimburse
  - verb
@@ -7055,6 +7099,10 @@ nag (CRITICIZE) /næg/
 	 - If she'd only stop nagging at me, I might actually help.
 	 - I'm always nagging him about his diet.
 
-
-
+ditch
+- noun [C]
+	- a long narrow open channel dug into the ground usually at the side of a road or field, which is used especially for supplying or removing water, or for dividing land
+- ditch (GET RID OF) /dɪtʃ/
+	- verb [T] INFORMAL 
+	- to get rid of something or someone that is no longer wanted:
 

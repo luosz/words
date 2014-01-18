@@ -6982,4 +6982,9 @@ diligence
 erudite
  - showing a lot of knowledge based on careful study = learned
 
+metonymy
+ - noun [U] (technical) the act of referring to sth by the name of sth else that is closely connected with it, for example using the White House for the US president
+
+metonym
+ - a word used in a metonymy. For example the bottle is a metonym for alcoholic drink
 

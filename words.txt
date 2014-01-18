@@ -6992,7 +6992,17 @@ mob
  - noun [C, sing.+sing./pl. v.] a large crowd of people, especially one that may become violent or cause trouble: an angry / unruly mob ◆ The mob was / were preparing to storm the building. ◆ an excited mob of fans ◆ mob rule (= a situation in which a mob has control, rather than people in authority)
  - [C, usually sing.] (informal) a group of people who are similar in some way. Synonym: GANG
 
- lynch mob
+lynch mob
  - noun. a crowd of people who gather to lynch sb
 
+infiltrate
+ - [>I always + adv/prep, T] to secretly join an organization or enter a place in order to find out information about it or harm it
+	- Police attempts to infiltrate neo-Nazi groups were largely unsuccessful.
+	- infiltrate into
+		- Rebel forces have been infiltrating into the country.
+ - [T] to secretly put people into an organization or place in order to find out information or to harm it
+ - infiltrate sb into sth
+	- They repeatedly tried to infiltrate assassins into the palace.
+ - [T] to become a part of something - used especially to show disapproval
+	- Commercialism has been infiltrating universities for the past decade.
 

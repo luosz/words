@@ -6988,3 +6988,11 @@ metonymy
 metonym
  - a word used in a metonymy. For example the bottle is a metonym for alcoholic drink
 
+mob
+ - noun [C, sing.+sing./pl. v.] a large crowd of people, especially one that may become violent or cause trouble: an angry / unruly mob ◆ The mob was / were preparing to storm the building. ◆ an excited mob of fans ◆ mob rule (= a situation in which a mob has control, rather than people in authority)
+ - [C, usually sing.] (informal) a group of people who are similar in some way. Synonym: GANG
+
+ lynch mob
+ - noun. a crowd of people who gather to lynch sb
+
+

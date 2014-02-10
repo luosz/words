@@ -7168,4 +7168,12 @@ ditch
 arsenic
  - noun [U] (Symbol As) a chemical element. Arsenic is an extremely poisonous white powder.
 
+asthma
+ - noun [U] a medical condition of the chest that makes breathing difficult: a severe asthma attack
+
+arthritis
+ - noun [U] a disease that causes pain and swelling in one or more joints of the body
+
+
+
 

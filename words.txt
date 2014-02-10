@@ -7174,6 +7174,8 @@ asthma
 arthritis
  - noun [U] a disease that causes pain and swelling in one or more joints of the body
 
-
+counterfeit
+ - adjective (of money and goods for sale) made to look exactly like sth in order to trick people into thinking that they are getting the real thing; not genuine
+ - verb [VN] to make an exact copy of sth in order to trick people into thinking that it is the real thing
 
 

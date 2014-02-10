@@ -7165,3 +7165,7 @@ ditch
 	- verb [T] INFORMAL 
 	- to get rid of something or someone that is no longer wanted:
 
+arsenic
+ - noun [U] (Symbol As) a chemical element. Arsenic is an extremely poisonous white powder.
+
+

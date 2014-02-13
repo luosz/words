@@ -7165,3 +7165,6 @@ ditch
 	- verb [T] INFORMAL 
 	- to get rid of something or someone that is no longer wanted:
 
+In case of any discrepancy between the English and Chinese versions, the English version shall prevail.
+
+

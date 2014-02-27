@@ -7159,9 +7159,9 @@ nag (CRITICIZE) /næg/
 	 - I'm always nagging him about his diet.
 
 ditch
-- noun [C]
+ - noun [C]
 	- a long narrow open channel dug into the ground usually at the side of a road or field, which is used especially for supplying or removing water, or for dividing land
-- ditch (GET RID OF) /dɪtʃ/
+ - ditch (GET RID OF) /dɪtʃ/
 	- verb [T] INFORMAL 
 	- to get rid of something or someone that is no longer wanted:
 
@@ -7177,5 +7177,13 @@ arthritis
 counterfeit
  - adjective (of money and goods for sale) made to look exactly like sth in order to trick people into thinking that they are getting the real thing; not genuine
  - verb [VN] to make an exact copy of sth in order to trick people into thinking that it is the real thing
+
+In case of any discrepancy between the English and Chinese versions, the English version shall prevail.
+
+aficionado
+ - someone who is very interested in a particular activity or subject and knows a lot about it
+ - aficionado of
+	- an aficionado of fine food
+
 
 

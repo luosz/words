@@ -7185,5 +7185,7 @@ aficionado
  - aficionado of
 	- an aficionado of fine food
 
+memoir
+ - a biography or historical account, esp one based on personal knowledge
 
 

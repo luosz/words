@@ -7188,4 +7188,5 @@ aficionado
 memoir
  - a biography or historical account, esp one based on personal knowledge
 
-
+vouch
+ - to say that you firmly believe that something is true or good because of your experience or knowledge of it

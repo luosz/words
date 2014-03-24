@@ -7197,4 +7197,15 @@ vouch
 ampersand
  - the sign '&' that means 'and'
 
+fatigue
+ - noun [U] a feeling of being extremely tired, usually because of hard work or exercise
+ - [U] (usually after another noun) a feeling of not wanting to do a particular activity any longer because you have done too much of it
+ - [U] weakness in metal or wood caused by repeated bending or stretching
+ - (fatigues) [pl.] loose clothes worn by soldiers
+ - (fatigues) [pl.] (especially AmE) duties, such as cleaning and cooking, that soldiers have to do, especially as a punishment
+
+tell-tale
+ - adjective [only before noun] showing that sth exists or has happened
+ - noun (BrE) (AmE tattletale) (informal, disapproving) a child who tells an adult what another child has done wrong
+
 

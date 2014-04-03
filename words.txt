@@ -7208,4 +7208,11 @@ tell-tale
  - adjective [only before noun] showing that sth exists or has happened
  - noun (BrE) (AmE tattletale) (informal, disapproving) a child who tells an adult what another child has done wrong
 
+segregate
+ - to separate one group of people from others, especially because they are of a different race, sex, or religion ≠ integrate segregate sb from sb
+	- Blacks were segregated from whites in schools.
+ - to separate one part of a place or thing from another
+	- segregate sth from/into sth
+
+
 

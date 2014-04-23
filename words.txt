@@ -7231,6 +7231,17 @@ dodge
  - informal something dishonest that is done to avoid a rule or law
 	- Businesses are investing in tree plantations as a tax dodge (=a way of avoiding paying tax).
 
+accrue
+ - verb (formal)
+	 - [V] ~ (to sb) (from sth) to increase over a period of time: economic benefits accruing to the country from tourism ◆ Interest will accrue if you keep your money in a savings account.
+	 - [VN] to allow a sum of money or debts to grow over a period of time
+ - Synonym: ACCUMULATE
+	 - The firm had accrued debts of over $6m.
+
+accrued interest
+ - interest accumulated at a given time but not yet due or paid.
+
+
 
 
 

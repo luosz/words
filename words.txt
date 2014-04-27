@@ -7241,6 +7241,9 @@ accrue
 accrued interest
  - interest accumulated at a given time but not yet due or paid.
 
+alma mater
+ - sb's alma mater - the school, college etc that someone used to attend
+ - AmE the song of a particular school, college etc
 
 
 

@@ -7245,6 +7245,10 @@ alma mater
  - sb's alma mater - the school, college etc that someone used to attend
  - AmE the song of a particular school, college etc
 
+vertebra
+ - noun (plural vertebrae ) any of the small bones that are connected together to form the SPINE
+ - vertebral adjective [only before noun]
+
 
 
 

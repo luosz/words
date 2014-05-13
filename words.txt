@@ -7253,4 +7253,14 @@ dogmatic
  - someone who is dogmatic is completely certain of their beliefs and expects other people to accept them without arguing
 	- Her staff find her bossy and dogmatic.
 
+anatomy
+ - noun (plural anatomies)
+	- [U] the scientific study of the structure of human or animal bodies: the department of anatomy and physiology
+	- [C, U] the structure of an animal or a plant: the anatomy of the horse ◆ human anatomy
+	- [C] (humorous) a person's body: Various parts of his anatomy were clearly visible.
+	- [C] (formal) an examination of what sth is like, the way it works or why it happens: an anatomy of the current recession
+ - anatomical adjective: anatomical diagrams
+ - anatomically adverb
+
+
 

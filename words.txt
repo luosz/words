@@ -7262,5 +7262,10 @@ anatomy
  - anatomical adjective: anatomical diagrams
  - anatomically adverb
 
+embargo
+ - an official order to stop trade with another country = boycott, sanctions sanctions embargo on/against
+	- an embargo on wheat exports
+	- an embargo against the country
+
 
 

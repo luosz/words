@@ -7267,5 +7267,9 @@ embargo
 	- an embargo on wheat exports
 	- an embargo against the country
 
+ferocious
+ - very fierce, violent or aggressive; very strong
+
+
 
 

@@ -7283,4 +7283,8 @@ go off
  - [PHRASAL VERB] (FOOD) Food or drink that has gone off has gone bad. (BRIT)
  - phrasal verb UK (BECOME WORSE) to become worse in quality: That paper's really gone off since they got that new editor.
 
+expurgate
+ - an expurgated book, play etc has had some parts removed because they are considered harmful or offensive
+	- an expurgated version of her writings
+
 

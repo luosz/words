@@ -7287,4 +7287,9 @@ expurgate
  - an expurgated book, play etc has had some parts removed because they are considered harmful or offensive
 	- an expurgated version of her writings
 
+pedantic
+ - paying too much attention to rules or to small unimportant details
+
+
+
 

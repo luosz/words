@@ -7290,6 +7290,9 @@ expurgate
 pedantic
  - paying too much attention to rules or to small unimportant details
 
+enamoured
+ - liking something very much
+ - formal in love with someone
 
 
 

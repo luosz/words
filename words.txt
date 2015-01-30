@@ -6436,8 +6436,11 @@ laurel
  - Idioms: look to your laurels to be careful that you do not lose the success or advantage that you have over other people: With so many good new actors around the older ones are having to look to their laurels.
  - rest / sit on your laurels (usually disapproving) to feel so satisfied with what you have already achieved that you do not try to do any more
 
-consolation - [U, C] a person or thing that makes you feel better when you are unhappy or disappointed
-consolation prize - prize given to sb who has just missed winning or has come last 
+consolation
+ - [U, C] a person or thing that makes you feel better when you are unhappy or disappointed
+
+consolation prize
+ - prize given to sb who has just missed winning or has come last 
 
 roll your eyes
 - to move your eyes upwards as a way of showing that you are annoyed or bored after someone has done or said something
@@ -6531,7 +6534,7 @@ laminated
 	 -- covered with thin transparent plastic for protection: laminated membership cards
 
 prodigy
-- (plural prodigies) a young person who is unusually intelligent or skilful for their age: a child / an infant prodigy ◆ a musical / tennis prodigy
+ - (plural prodigies) a young person who is unusually intelligent or skilful for their age: a child / an infant prodigy ◆ a musical / tennis prodigy
 
 suave
  - adjective (especially of a man) confident, elegant and polite, sometimes in a way that does not seem sincere: The manager was suave and sophisticated. ◆ He gave his usual suave performance.
@@ -6558,7 +6561,8 @@ lounge
 	 -- See also  SUN LOUNGE
  - verb [V] [usually +adv./prep.] to stand, sit or lie in a lazy way: Several students were lounging around, reading newspapers.
 
-top-notch - adjective (informal) excellent; of the highest quality
+top-notch
+ - adjective (informal) excellent; of the highest quality
 
 miaow / meow
  - (BrE) (also meow AmE, BrE) noun the crying sound made by a cat
@@ -6572,32 +6576,32 @@ retaliate
  - retaliatory adjective: retaliatory action
 
 traumatize
-- (BrE also traumatise) verb [VN] [usually passive] to shock and upset sb very much, often making them unable to think or work normally: He was so traumatized by the attack that he could not work for a year.
+ - (BrE also traumatise) verb [VN] [usually passive] to shock and upset sb very much, often making them unable to think or work normally: He was so traumatized by the attack that he could not work for a year.
 
 throughput
-- noun [U, C, usually sing.] (technical) the amount of work that is done, or the number of people that are dealt with, in a particular period of time: high / low rates of throughput ◆ The centre has a weekly throughput of 200 000 shoppers.
+ - noun [U, C, usually sing.] (technical) the amount of work that is done, or the number of people that are dealt with, in a particular period of time: high / low rates of throughput ◆ The centre has a weekly throughput of 200 000 shoppers.
 
 paramour
-- noun (old-fashioned or literary) a person that sb is having a romantic or sexual relationship with. Synonym: LOVER
+ - noun (old-fashioned or literary) a person that sb is having a romantic or sexual relationship with. Synonym: LOVER
 
 rationale
-- noun ~ (behind / for / of sth) (formal) the principles or reasons which explain a particular decision, course of action, belief, etc: What is the rationale behind these new exams?
+ - noun ~ (behind / for / of sth) (formal) the principles or reasons which explain a particular decision, course of action, belief, etc: What is the rationale behind these new exams?
 
 finale
-- noun the last part of a show or a piece of music: the rousing finale of Beethoven's Ninth Symphony ◆ The festival ended with a grand finale in Hyde Park. ~ (to sth) (after an adjective) an ending to sth of the type mentioned: a fitting / superb / dramatic finale to the day's events
+ - noun the last part of a show or a piece of music: the rousing finale of Beethoven's Ninth Symphony ◆ The festival ended with a grand finale in Hyde Park. ~ (to sth) (after an adjective) an ending to sth of the type mentioned: a fitting / superb / dramatic finale to the day's events
 
 graphite
-- noun [U] a soft black mineral that is a form of CARBON. Graphite is used to make pencils, to LUBRICATE machinery, and in nuclear REACTORS.
+ - noun [U] a soft black mineral that is a form of CARBON. Graphite is used to make pencils, to LUBRICATE machinery, and in nuclear REACTORS.
 
 lubricate
  - verb [VN] to put a lubricant on sth such as the parts of a machine, to help them move smoothly
  - lubrication noun [U]
 
 reactor
-- (also nuclear reactor) noun a large structure used for the controlled production of nuclear energy: plans to build a new reactor at the nuclear power plant
+ - (also nuclear reactor) noun a large structure used for the controlled production of nuclear energy: plans to build a new reactor at the nuclear power plant
 
 galling
-- adjective [not usually before noun] (of a situation or fact) making you angry because it is unfair: It was galling to have to apologize to a man she hated.
+ - adjective [not usually before noun] (of a situation or fact) making you angry because it is unfair: It was galling to have to apologize to a man she hated.
 
 masquerade
  - noun
@@ -6606,13 +6610,13 @@ masquerade
  - verb [V] ~ as sth to pretend to be sth that you are not: commercial advertisers masquerading as private individuals ◆ The local paper is full of gossip masquerading as news.
 
 smog
-- noun [U, C] a form of air POLLUTION that is or looks like a mixture of smoke and FOG, especially in cities: attempts to reduce smog caused by traffic fumes
+ - noun [U, C] a form of air POLLUTION that is or looks like a mixture of smoke and FOG, especially in cities: attempts to reduce smog caused by traffic fumes
 
 impetus
-- noun [U, sing.] ~ (for sth) ~ (to sth / to do sth) something that encourages a process or activity to develop more quickly. Synonym: STIMULUS
+ - noun [U, sing.] ~ (for sth) ~ (to sth / to do sth) something that encourages a process or activity to develop more quickly. Synonym: STIMULUS
 
 aromatherapy
-- noun [U] the use of natural oils that smell sweet for controlling pain or for rubbing into the body during MASSAGE - aromatherapist noun
+ - noun [U] the use of natural oils that smell sweet for controlling pain or for rubbing into the body during MASSAGE - aromatherapist noun
 
 lavender
  - noun [U]
@@ -6621,7 +6625,7 @@ lavender
 	 -- a pale purple colour
 
 shindig
-- noun (informal) a big noisy party
+ - noun (informal) a big noisy party
 
 rebate  
  - noun
@@ -6647,10 +6651,10 @@ counsel
 	 -- (formal) to advise sb to do sth: [VN] Most experts counsel caution in such cases. ◆ [VN to inf] He counselled them to give up the plan.
 
 stipulate
-- verb (formal) to state clearly and firmly that sth must be done, or how it must be done: [VN] A delivery date is stipulated in the contract. ◆ [V that] The job advertisement stipulates that the applicant must have three years' experience. [also V wh-]
+ - verb (formal) to state clearly and firmly that sth must be done, or how it must be done: [VN] A delivery date is stipulated in the contract. ◆ [V that] The job advertisement stipulates that the applicant must have three years' experience. [also V wh-]
 
 stipulation
-- noun [C, U]: The only stipulation is that the topic you choose must be related to your studies.
+ - noun [C, U]: The only stipulation is that the topic you choose must be related to your studies.
 
 rectilinear  
  - adjective (technical)
@@ -6720,7 +6724,7 @@ glyph
  - any computer-generated character regarded in terms of its shape and bit pattern
 
 utterly
-- completely or totally: You look utterly miserable.
+ - completely or totally: You look utterly miserable.
 
 poker  
  - noun
@@ -6741,7 +6745,7 @@ intermittent
  - intermittently adverb: Protests continued intermittently throughout November.
 
 pedagogy
-- noun [U] (technical) the study of teaching methods
+ - noun [U] (technical) the study of teaching methods
 
 scourge  
  - noun
@@ -6769,7 +6773,7 @@ trickle
 	 -- [usually sing.] ~ (of sth) a small amount or number of sth, coming or going slowly: a steady trickle of visitors
 
 aeon
-- (BrE) (also eon AmE, BrE) noun (formal) an extremely long period of time; thousands of years: aeons of geological history ◆ Only yesterday-and it seemed aeons ago, not just a few hours-he had been a happily married man.
+ - (BrE) (also eon AmE, BrE) noun (formal) an extremely long period of time; thousands of years: aeons of geological history ◆ Only yesterday-and it seemed aeons ago, not just a few hours-he had been a happily married man.
 
 flapjack
  - noun
@@ -6777,7 +6781,7 @@ flapjack
 	 -- [C] (AmE) a thick PANCAKE
 
 granola
-- noun [U] (especially AmE) a type of breakfast CEREAL made of grains, nuts, etc. that have been TOASTED
+ - noun [U] (especially AmE) a type of breakfast CEREAL made of grains, nuts, etc. that have been TOASTED
 
 quadruple  
  - verb, adjective, determiner
@@ -6796,7 +6800,7 @@ proliferate
  - Books and articles on the subject have proliferated over the last year.
 
 glean
-- verb [VN] ~ sth (from sb/sth) to obtain information, knowledge etc., sometimes with difficulty and often from various different places: These figures have been gleaned from a number of studies.
+ - verb [VN] ~ sth (from sb/sth) to obtain information, knowledge etc., sometimes with difficulty and often from various different places: These figures have been gleaned from a number of studies.
 
 rejuvenate
  - verb [VN] to make sb/sth look or feel younger or more lively: His new job seemed to rejuvenate him. ◆ special creams to rejuvenate the skin
@@ -6854,7 +6858,7 @@ slab
  - a thick, flat slice or piece of sth: a slab of chocolate ◆ slabs of meat
 
 colliery
-- noun (plural collieries) (BrE) a coal mine with its buildings and equipment
+ - noun (plural collieries) (BrE) a coal mine with its buildings and equipment
 
 catch on
  - 1 [PHRASAL VERB] V P to n, V P
@@ -6880,10 +6884,10 @@ parlance
  - noun [U] (formal) a particular way of using words or expressing yourself, for example one used by a particular group: in common / legal / modern parlance ◆ A Munro, in climbing parlance, is a Scottish mountain exceeding 3 000 feet.
 
 exhilarate
-- to make someone feel very excited and happy
+ - to make someone feel very excited and happy
 
 exhilarated
-- feeling extremely happy, excited, and full of energy: Dan felt strangely exhilarated by the day's events.
+ - feeling extremely happy, excited, and full of energy: Dan felt strangely exhilarated by the day's events.
 
 exhilarating
  - making you feel happy, excited, and full of energy
@@ -7147,7 +7151,8 @@ tabulate
  - [VN] to arrange facts or figures in columns or lists so that they can be read easily: The survey results are tabulated in section 9 of Appendix 1.
  - tabulation noun [U, C]
 
-'tis - short form (old use) it is
+'tis
+ - short form (old use) it is
 
 Simulated annealing (SA) is a generic probabilistic metaheuristic for the global optimization problem of locating a good approximation to the global optimum of a given function in a large search space.
 
@@ -7216,7 +7221,7 @@ amplitude
  - [U, C] (physics) the greatest distance that a wave, especially a sound or radio wave, VIBRATES (= moves up and down)
 
 archipelago
-- An archipelago is a group of islands, especially small islands.
+ - An archipelago is a group of islands, especially small islands.
 
 reimburse
  - verb
@@ -7576,6 +7581,8 @@ enamoured
 
 flaunt
  - to show your money, success, beauty etc so that other people notice it - used to show disapproval
+
+
 
 
 

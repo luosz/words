@@ -48,7 +48,7 @@ rust / rusty
 cafeteria
 
 gulp
-- gulps down the noodles like a wolf in a hurry
+ - gulps down the noodles like a wolf in a hurry
 
 precious
 dash
@@ -67,7 +67,7 @@ curfew
 proliferate
 
 bluntly
-- To put it bluntly
+ - To put it bluntly
 
 placard
 thrill
@@ -78,7 +78,7 @@ disgruntled
 seniority
 
 salaryman
-- a man who works in an office, often for many hours each day, and receives a salary as payment, especially in Japan
+ - a man who works in an office, often for many hours each day, and receives a salary as payment, especially in Japan
 
 strike out
 incline / inclined
@@ -87,7 +87,7 @@ business card
 gripe
 
 chaebol
-- a large, usually family-owned, business group in South Korea
+ - a large, usually family-owned, business group in South Korea
 
 benign
 protagonist
@@ -96,21 +96,21 @@ revoke invoke
 synopsis
 
 gala
-- CCTV New Year's Gala
+ - CCTV New Year's Gala
 
 infamy
 skit skirt
 acrobatic
 
 gymnast
-- gymnastic feats
+ - gymnastic feats
 
 enormous
 nudity
 crematorium
 
 grasp the nettle
-- to attempt or approach something with boldness and courage
+ - to attempt or approach something with boldness and courage
 
 implication reverberation repercussion
 expat expatriate diaspora
@@ -159,13 +159,13 @@ specific, specify, specification
 lorry, truck, trunk
 
 mildew mushroom fungus
-- Mildew and mushrooms are fungi
+ - Mildew and mushrooms are fungi
 
 jelly fungus
 snow fungus
 
 gelatin
-- a clear substance without any taste that is made from boiling animal bones and is used to make jelly, photographic film, etc.
+ - a clear substance without any taste that is made from boiling animal bones and is used to make jelly, photographic film, etc.
 
 a comfortable / relaxed posture ◆ upright / sitting / supine postures
 arthritis
@@ -196,7 +196,7 @@ Many American students don't study very much at all and instead frolic in recrea
 But those who have taken the red pill can see that the US is not the fairy land of freedom that it claims it is and is not much better than China.
 
 plaque
-- soft substance that forms on teeth and encourages the growth of harmful bacteria
+ - soft substance that forms on teeth and encourages the growth of harmful bacteria
 
 arrogant
 dandy
@@ -213,7 +213,7 @@ pejorative
 elementary
 
 revamp
-- revamp an old comedy routine with some new jokes 
+ - revamp an old comedy routine with some new jokes 
 
 off limits
 root beer
@@ -247,27 +247,27 @@ discreet
 suspicion
 
 oblige
-- to force sb to do sth, by law, because it is a duty, etc
+ - to force sb to do sth, by law, because it is a duty, etc
 
 conversationalist
 
 exquisitely
-- extremely beautiful and very delicately made
+ - extremely beautiful and very delicately made
 
 hone
-- to develop and improve sth, especially a skill, over a period of time
+ - to develop and improve sth, especially a skill, over a period of time
 
 pulling teeth
 coaxing
 crap her
 
 pants
-- (especially AmE) trousers: ski pants
+ - (especially AmE) trousers: ski pants
 
 tread
 
 retreat
-- Compare: advance
+ - Compare: advance
 
 take off
 snorkeling
@@ -283,7 +283,7 @@ outrage
 wicked
 
 blowjob
-- cock sucking, blowjob (slang for fellatio)
+ - cock sucking, blowjob (slang for fellatio)
 
 Donegal
 grapevine
@@ -352,7 +352,7 @@ winger
 hockey
 
 agitated
-- so nervous or upset that you are unable to keep still or think calmly
+ - so nervous or upset that you are unable to keep still or think calmly
 
 sheriff
 gazette
@@ -372,7 +372,7 @@ pathological
 howl
 
 enigma
-- I've known him for many years, but he remains something of an enigma to me.
+ - I've known him for many years, but he remains something of an enigma to me.
 
 werewolf
 hoax
@@ -405,15 +405,15 @@ peril
 cavity plaque
 
 gook
-- slang a derogatory word for a person from a Far Eastern country
+ - slang a derogatory word for a person from a Far Eastern country
 
 teeth rot and fall out
 den of snakes
 schlong
 wiener
-- a type of sausage
-- spoken someone who is silly or stupid
-- spoken a penis - used by children
+ - a type of sausage
+ - spoken someone who is silly or stupid
+ - spoken a penis - used by children
 
 conspiracy - (plural conspiracies) ~ (to do sth)
 ~ (against sb/sth) a secret plan by a group of people to do sth harmful or illegal
@@ -425,8 +425,8 @@ Sherlock Holmes
 Louis Vuitton
 
 stir up [stir sb/sth⇔up] phr v
-- to deliberately try to cause arguments or bad feelings between people
-- to make small pieces of something move around in the air or in water
+ - to deliberately try to cause arguments or bad feelings between people
+ - to make small pieces of something move around in the air or in water
 
 phrase phase
 
@@ -467,11 +467,11 @@ perpetual
 virginity
 mansion
 malt
-- [U] grain, usually BARLEY, that has been soaked in water for a period of time and then dried, used for making beer, whisky, etc.
+ - [U] grain, usually BARLEY, that has been soaked in water for a period of time and then dried, used for making beer, whisky, etc.
 
 charade
-- [C] a situation in which people pretend that sth is true when it clearly is not: Their whole marriage had been a charade-they had never loved each other.
-- (charades) [U] a game in which one player acts out the syllables of a word or title and the other players try to guess what it is: Let's play charades.
+ - [C] a situation in which people pretend that sth is true when it clearly is not: Their whole marriage had been a charade-they had never loved each other.
+ - (charades) [U] a game in which one player acts out the syllables of a word or title and the other players try to guess what it is: Let's play charades.
 
 Yahtzee is a dice game made by Milton Bradley (now owned by Hasbro), which was first marketed by game entrepreneur Edwin S. Lowe in 1956.
 
@@ -485,8 +485,8 @@ baggy
 ivory
 homophobic - hatred and fear of homosexuals
 mingle
-- ~ A and B (together) (written) to combine or make one thing combine with another
-- [V] to move among people and talk to them, especially at a social event
+ - ~ A and B (together) (written) to combine or make one thing combine with another
+ - [V] to move among people and talk to them, especially at a social event
 
 diplomat diplomatic
 short circuit
@@ -2015,7 +2015,7 @@ recap = recapitulate
 incarnation
 
 ado
-- If you do something without further ado or without more ado, you do it at once and do not discuss or delay it any longer. (OLD-FASHIONED)
+ - If you do something without further ado or without more ado, you do it at once and do not discuss or delay it any longer. (OLD-FASHIONED)
 -`And now, without further ado, let me introduce our benefactor.'
 
 interval

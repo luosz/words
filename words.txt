@@ -6118,7 +6118,7 @@ adrenaline = epinephrine
 
 straggle
  - to grow, spread or move in an untidy way in different directions
- -  to move slowly behind a group of people that you are with so that you become separated from them
+ - to move slowly behind a group of people that you are with so that you become separated from them
  
 chicken pox - also chickenpox
  - an infectious illness which causes a slight fever and spots on your skin
@@ -7581,6 +7581,24 @@ enamoured
 
 flaunt
  - to show your money, success, beauty etc so that other people notice it - used to show disapproval
+
+dodgy
+ - adjective (informal, BrE)
+ - seeming or likely to be dishonest
+ - not working well; not in good condition
+ - involving risk, danger or difficulty
+
+nasty
+ - Something that is nasty is very unpleasant to see, experience, or feel.
+ - If you describe a person or their behaviour as nasty, you mean that they behave in an unkind and unpleasant way.
+ - a nasty piece of work (BrE, informal) a person who is unpleasant, unkind or dishonest
+	 -- Don't trust him; he's a nasty piece of work.
+
+
+
+
+
+
 
 
 

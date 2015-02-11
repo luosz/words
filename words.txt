@@ -7594,10 +7594,16 @@ nasty
  - a nasty piece of work (BrE, informal) a person who is unpleasant, unkind or dishonest
 	 -- Don't trust him; he's a nasty piece of work.
 
+surge
+ - verb [V]
+	 -- [+adv./prep.] to move quickly and forcefully in a particular direction: The gates opened and the crowd surged forward. ◆ Flood waters surged into their homes. ◆ He surged past the other runners on the last lap.
+	 -- [usually +adv./prep.] to fill sb with a strong feeling: Relief surged through her.
+	 -- (of prices, profits, etc.) to suddenly increase in value: Share prices surged.
 
-
-
-
+plunge
+ - verb
+	 -- [+adv./prep.] to move or make sb/sth move suddenly forwards and/or downwards: [V] She lost her balance and plunged 100 feet to her death. ◆ The train left the track and plunged down the embankment. ◆ [VN] The earthquake plunged entire towns over the edge of the cliffs.
+	 -- [V] (of prices, temperatures, etc.) to decrease suddenly and quickly
 
 
 

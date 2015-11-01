@@ -7612,4 +7612,8 @@ catastrophe
  - a sudden disaster that causes many people to suffer
  - an event that causes one person or a group of people personal suffering, or that makes difficulties
 
+heliport
+ - noun [C] a small airport for helicopters
 
+pebble
+ - noun [C] a small smooth round stone, especially one found on a beach or in a river

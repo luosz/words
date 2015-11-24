@@ -7620,3 +7620,6 @@ pebble
 
 prurient
  - adjective (formal, disapproving) having or showing too much interest in things connected with sex
+
+pachyderm
+ - noun (technical) a type of animal with a very thick skin, for example, an elephant

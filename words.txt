@@ -48,7 +48,7 @@ rust / rusty
 cafeteria
 
 gulp
- - gulps down the noodles like a wolf in a hurry
+* gulps down the noodles like a wolf in a hurry
 
 precious
 dash
@@ -67,7 +67,7 @@ curfew
 proliferate
 
 bluntly
- - To put it bluntly
+* To put it bluntly
 
 placard
 thrill
@@ -78,7 +78,7 @@ disgruntled
 seniority
 
 salaryman
- - a man who works in an office, often for many hours each day, and receives a salary as payment, especially in Japan
+* a man who works in an office, often for many hours each day, and receives a salary as payment, especially in Japan
 
 strike out
 incline / inclined
@@ -87,7 +87,7 @@ business card
 gripe
 
 chaebol
- - a large, usually family-owned, business group in South Korea
+* a large, usually family-owned, business group in South Korea
 
 benign
 protagonist
@@ -96,21 +96,21 @@ revoke invoke
 synopsis
 
 gala
- - CCTV New Year's Gala
+* CCTV New Year's Gala
 
 infamy
 skit skirt
 acrobatic
 
 gymnast
- - gymnastic feats
+* gymnastic feats
 
 enormous
 nudity
 crematorium
 
 grasp the nettle
- - to attempt or approach something with boldness and courage
+* to attempt or approach something with boldness and courage
 
 implication reverberation repercussion
 expat expatriate diaspora
@@ -159,13 +159,13 @@ specific, specify, specification
 lorry, truck, trunk
 
 mildew mushroom fungus
- - Mildew and mushrooms are fungi
+* Mildew and mushrooms are fungi
 
 jelly fungus
 snow fungus
 
 gelatin
- - a clear substance without any taste that is made from boiling animal bones and is used to make jelly, photographic film, etc.
+* a clear substance without any taste that is made from boiling animal bones and is used to make jelly, photographic film, etc.
 
 a comfortable / relaxed posture ◆ upright / sitting / supine postures
 arthritis
@@ -196,7 +196,7 @@ Many American students don't study very much at all and instead frolic in recrea
 But those who have taken the red pill can see that the US is not the fairy land of freedom that it claims it is and is not much better than China.
 
 plaque
- - soft substance that forms on teeth and encourages the growth of harmful bacteria
+* soft substance that forms on teeth and encourages the growth of harmful bacteria
 
 arrogant
 dandy
@@ -213,7 +213,7 @@ pejorative
 elementary
 
 revamp
- - revamp an old comedy routine with some new jokes 
+* revamp an old comedy routine with some new jokes 
 
 off limits
 root beer
@@ -247,27 +247,27 @@ discreet
 suspicion
 
 oblige
- - to force sb to do sth, by law, because it is a duty, etc
+* to force sb to do sth, by law, because it is a duty, etc
 
 conversationalist
 
 exquisitely
- - extremely beautiful and very delicately made
+* extremely beautiful and very delicately made
 
 hone
- - to develop and improve sth, especially a skill, over a period of time
+* to develop and improve sth, especially a skill, over a period of time
 
 pulling teeth
 coaxing
 crap her
 
 pants
- - (especially AmE) trousers: ski pants
+* (especially AmE) trousers: ski pants
 
 tread
 
 retreat
- - Compare: advance
+* Compare: advance
 
 take off
 snorkeling
@@ -283,7 +283,7 @@ outrage
 wicked
 
 blowjob
- - cock sucking, blowjob (slang for fellatio)
+* cock sucking, blowjob (slang for fellatio)
 
 Donegal
 grapevine
@@ -352,7 +352,7 @@ winger
 hockey
 
 agitated
- - so nervous or upset that you are unable to keep still or think calmly
+* so nervous or upset that you are unable to keep still or think calmly
 
 sheriff
 gazette
@@ -372,7 +372,7 @@ pathological
 howl
 
 enigma
- - I've known him for many years, but he remains something of an enigma to me.
+* I've known him for many years, but he remains something of an enigma to me.
 
 werewolf
 hoax
@@ -405,17 +405,17 @@ peril
 cavity plaque
 
 gook
- - slang a derogatory word for a person from a Far Eastern country
+* slang a derogatory word for a person from a Far Eastern country
 
 teeth rot and fall out
 den of snakes
 schlong
 wiener
- - a type of sausage
- - spoken someone who is silly or stupid
- - spoken a penis - used by children
+* a type of sausage
+* spoken someone who is silly or stupid
+* spoken a penis* used by children
 
-conspiracy - (plural conspiracies) ~ (to do sth)
+conspiracy* (plural conspiracies) ~ (to do sth)
 ~ (against sb/sth) a secret plan by a group of people to do sth harmful or illegal
 
 fed up
@@ -425,8 +425,8 @@ Sherlock Holmes
 Louis Vuitton
 
 stir up [stir sb/sth⇔up] phr v
- - to deliberately try to cause arguments or bad feelings between people
- - to make small pieces of something move around in the air or in water
+* to deliberately try to cause arguments or bad feelings between people
+* to make small pieces of something move around in the air or in water
 
 phrase phase
 
@@ -437,12 +437,12 @@ Phrasal Verbs: butter sb<->up (informal) to say nice things to sb so that they w
 
 bipolar
 toxic
- - containing poison; poisonous
+* containing poison; poisonous
 rage
 big boned
 fascist fascism
 apparel
- - (especially AmE) clothing, when it is being sold in shops/stores
+* (especially AmE) clothing, when it is being sold in shops/stores
 
 camcorder
 ruthless
@@ -458,7 +458,7 @@ terrarium diorama
 Lego
 
 saddle up phr v
- - to put a saddle on a horse
+* to put a saddle on a horse
 
 I own words rang my my head like a bell inside a head
 torso trunk
@@ -472,11 +472,11 @@ perpetual
 virginity
 mansion
 malt
- - [U] grain, usually BARLEY, that has been soaked in water for a period of time and then dried, used for making beer, whisky, etc.
+* [U] grain, usually BARLEY, that has been soaked in water for a period of time and then dried, used for making beer, whisky, etc.
 
 charade
- - [C] a situation in which people pretend that sth is true when it clearly is not: Their whole marriage had been a charade-they had never loved each other.
- - (charades) [U] a game in which one player acts out the syllables of a word or title and the other players try to guess what it is: Let's play charades.
+* [C] a situation in which people pretend that sth is true when it clearly is not: Their whole marriage had been a charade-they had never loved each other.
+* (charades) [U] a game in which one player acts out the syllables of a word or title and the other players try to guess what it is: Let's play charades.
 
 Yahtzee is a dice game made by Milton Bradley (now owned by Hasbro), which was first marketed by game entrepreneur Edwin S. Lowe in 1956.
 
@@ -489,10 +489,10 @@ mock-up
 baggy
 ivory
 homophobic
- - hatred and fear of homosexuals
+* hatred and fear of homosexuals
 mingle
- - ~ A and B (together) (written) to combine or make one thing combine with another
- - [V] to move among people and talk to them, especially at a social event
+* ~ A and B (together) (written) to combine or make one thing combine with another
+* [V] to move among people and talk to them, especially at a social event
 
 diplomat diplomatic
 short circuit
@@ -629,7 +629,7 @@ binder
 clown
 
 humid
- - hot and damp
+* hot and damp
 
 oddball
 apostrophe
@@ -660,16 +660,16 @@ banquet, feast
 utensil
 
 doughnut
- - a small cake of sweetened dough, often ring-shaped or spherical with a jam or cream filling, cooked in hot fat
+* a small cake of sweetened dough, often ring-shaped or spherical with a jam or cream filling, cooked in hot fat
 
 online fraud
 cartridge
 
 nippers
- - an instrument or tool, such as a pair of pliers, for snipping, pinching, or squeezing
+* an instrument or tool, such as a pair of pliers, for snipping, pinching, or squeezing
 
 pliers
- - a gripping tool consisting of two hinged arms with usually serrated jaws that close on the workpiece
+* a gripping tool consisting of two hinged arms with usually serrated jaws that close on the workpiece
 
 pincers tweezers forceps
 breach
@@ -678,7 +678,7 @@ disastrous
 kiosk
 
 gadget
- - a small mechanical device or appliance
+* a small mechanical device or appliance
 
 drown
 drizzle
@@ -757,7 +757,7 @@ tournament
 hectic
 
 burn the candle at both ends
- - to exhaust oneself, esp by being up late and getting up early to work
+* to exhaust oneself, esp by being up late and getting up early to work
 
 helmet
 oscillate
@@ -773,7 +773,7 @@ butler
 ludicrous
 
 extractor fan
- - a fan used in kitchens, bathrooms, workshops, etc., to remove stale air or fumes
+* a fan used in kitchens, bathrooms, workshops, etc., to remove stale air or fumes
 
 hustle
 hustings
@@ -921,7 +921,7 @@ flawed
 resigned to one's fate
 
 something excellent
- - the plot's a doozy
+* the plot's a doozy
 
 econometrics
 economics
@@ -932,7 +932,7 @@ If $6000: they would say "six K" or "six grand"
 inorganic
 resin
 nifty
- - wearing a nifty new outfit
+* wearing a nifty new outfit
 
 Mediterranean
 factual
@@ -1031,7 +1031,7 @@ itch
 resort
 
 frame
- - I need to find out who tried to frame me
+* I need to find out who tried to frame me
 
 inventory
 monogamy
@@ -1068,10 +1068,10 @@ lactose ( Also called: milk sugar )
 saturated fat
 
 tryptophan
- - an essential amino acid; a component of proteins necessary for growth
+* an essential amino acid; a component of proteins necessary for growth
 
 amino acid
- - Amino acids are substances containing nitrogen and hydrogen and which are found in proteins. Amino acids occur naturally in the body.
+* Amino acids are substances containing nitrogen and hydrogen and which are found in proteins. Amino acids occur naturally in the body.
 
 discrepancy
 conspiracy
@@ -2021,7 +2021,7 @@ having feelings for someone
 intern
 
 squalor
- - the condition or quality of being squalid; disgusting dirt and filth
+* the condition or quality of being squalid; disgusting dirt and filth
 
 informative
 veteran
@@ -2049,7 +2049,7 @@ recap = recapitulate
 incarnation
 
 ado
- - If you do something without further ado or without more ado, you do it at once and do not discuss or delay it any longer. (OLD-FASHIONED)
+* If you do something without further ado or without more ado, you do it at once and do not discuss or delay it any longer. (OLD-FASHIONED)
 -`And now, without further ado, let me introduce our benefactor.'
 
 interval
@@ -2661,10 +2661,10 @@ bankrupt
 bankruptcy
 
 banquet
- - a lavish and sumptuous meal; feast
+* a lavish and sumptuous meal; feast
 
 banquet
- - a ceremonial meal for many people, often followed by speeches
+* a ceremonial meal for many people, often followed by speeches
 
 Good, we'll eat till you're broke
 The weather is like fate, so changeable
@@ -2835,7 +2835,7 @@ twentieth
 thirtieth
 
 condolence
- - an expression of sympathy with someone in grief, etc
+* an expression of sympathy with someone in grief, etc
 
 wicked
 rhythm
@@ -2862,7 +2862,7 @@ disguise
 observant
 
 out cold
- - unconscious/intoxicated/sound asleep
+* unconscious/intoxicated/sound asleep
 
 boomerang
 fugitive
@@ -2904,7 +2904,7 @@ topple
 havoc
 
 duress
- - sign a confession under duress
+* sign a confession under duress
 
 leash
 You've been very thorough. I wish our lot were half as good as you.
@@ -2913,7 +2913,7 @@ pulse
 Because I took your pulse. Elevated. Your pupils dilated.
 
 despise
- - to look down on with contempt; scorn
+* to look down on with contempt; scorn
 
 Is that loathing or a salute
 One of a kind, the one woman who matters.
@@ -2925,7 +2925,7 @@ But, initially he wanted to be a pirate.
 strip
 
 massé
- - a stroke made by hitting the cue ball off centre with the cue held nearly vertically, esp so as to make the ball move in a curve around another ball before hitting the object ball
+* a stroke made by hitting the cue ball off centre with the cue held nearly vertically, esp so as to make the ball move in a curve around another ball before hitting the object ball
 
 standoffish
 crafty
@@ -2955,7 +2955,7 @@ courteous
 ball gag
 
 cohesion
- - another word for cohesion 1)
+* another word for cohesion 1)
 
 contend
 Germanic
@@ -2991,7 +2991,7 @@ crocodile
 adult
 
 ratify
- - to give formal approval or consent to
+* to give formal approval or consent to
 
 blunt trauma
 crawl
@@ -3143,7 +3143,7 @@ whirl
 chevron
 
 duckfoot quote
- - a chevron-shaped quotation mark (« or ») used in Europe = guillemet
+* a chevron-shaped quotation mark (« or ») used in Europe = guillemet
 
 glamorous
 numb
@@ -3167,8 +3167,8 @@ buckle
 unbuckle
 
 tangerine
- - a small sweet fruit like an orange with a skin that comes off easily
- - an Asian citrus tree - the fruit of this tree, having a loose rind and sweet spicy flesh
+* a small sweet fruit like an orange with a skin that comes off easily
+* an Asian citrus tree* the fruit of this tree, having a loose rind and sweet spicy flesh
 
 crumple
 tidy up
@@ -3185,22 +3185,22 @@ denim miniskirt
 aerial
 aeroplane
 dimension
-Dorset - a county in SW England
+Dorset* a county in SW England
 weep
 a floral tribute
 glow
 
 drake
- - a male duck
+* a male duck
 
 skimmings
- - ducks and drakes - a children's game in which you make flat stones jump across the surface of water
+* ducks and drakes* a children's game in which you make flat stones jump across the surface of water
 
 Richard crosses his arms. He has a strong square face, curly dark-brown hair and thick eyebrows.
 blush
 
 heave
- - to lift or move with a great effort
+* to lift or move with a great effort
 
 leave
 leaf
@@ -3220,10 +3220,10 @@ lawn versus long
 barefoot
 
 sprinkler
- - a device perforated with small holes that is attached to a garden hose or watering can and used to spray plants, lawns, etc., with water
+* a device perforated with small holes that is attached to a garden hose or watering can and used to spray plants, lawns, etc., with water
 
 hose
- - a flexible pipe, for conveying a liquid or gas
+* a flexible pipe, for conveying a liquid or gas
 
 bump into = run into, meet
 
@@ -3245,10 +3245,10 @@ escapism
 poignant
 
 unputdownable
- - (of a book, esp a novel) so gripping as to be read right through at one sitting
+* (of a book, esp a novel) so gripping as to be read right through at one sitting
 
 Daphnis and Chloe
- - two lovers in pastoral literature, esp in a prose idyll attributed to the Greek writer Longus
+* two lovers in pastoral literature, esp in a prose idyll attributed to the Greek writer Longus
 
 ballet
 numismatic
@@ -3283,13 +3283,13 @@ hump
 sexual harassment
 
 mascara
- - a cosmetic substance for darkening, colouring, and thickening the eyelashes, applied with a brush or rod
+* a cosmetic substance for darkening, colouring, and thickening the eyelashes, applied with a brush or rod
 
 eyelash
- - any one of the short curved hairs that grow from the edge of the eyelids
+* any one of the short curved hairs that grow from the edge of the eyelids
 
 eyelid
- - either of the two muscular folds of skin that can be moved to cover the exposed portion of the eyeball
+* either of the two muscular folds of skin that can be moved to cover the exposed portion of the eyeball
 
 extort
 blowjob
@@ -3333,10 +3333,10 @@ dreadful
 appliance
 
 iron
- - An iron is an electrical device with a flat metal base. You heat it until the base is hot, then rub it over clothes to remove creases.
+* An iron is an electrical device with a flat metal base. You heat it until the base is hot, then rub it over clothes to remove creases.
 
 crease
- - a line or mark produced by folding, pressing, or wrinkling
+* a line or mark produced by folding, pressing, or wrinkling
 
 confidentiality
 counterfoil
@@ -3380,7 +3380,7 @@ curt
 abrupt
 
 voila
- - here it is
+* here it is
 
 resent
 indignant
@@ -3693,7 +3693,7 @@ torture
 torch
 
 drainpipe
- - a pipe for carrying off rainwater, sewage, etc.; downpipe
+* a pipe for carrying off rainwater, sewage, etc.; downpipe
 
 bowl
 ladle
@@ -3704,7 +3704,7 @@ punctuality
 I slip off my shoes before rushing upstairs to kiss Hannah and Matilda goodnight.
 
 belly-up
- - if a company goes belly-up, it loses all of its money
+* if a company goes belly-up, it loses all of its money
 
 etc. = et cetera
 endeavor
@@ -3774,7 +3774,7 @@ envelop
 envelope
 
 mule
- - smuggling
+* smuggling
 
 courier
 drug mule
@@ -4188,7 +4188,7 @@ glitch
 pastry
 
 give a damn
- - show no concern or interest; always used in the negative; "I don't give a hoot"; "She doesn't give a damn about her job"
+* show no concern or interest; always used in the negative; "I don't give a hoot"; "She doesn't give a damn about her job"
 
 banknote = paper money
 vicinity
@@ -4336,7 +4336,7 @@ exponential
 a times ten raised to the power of b
 
 shit-faced
- - extremely drunk
+* extremely drunk
 
 apprenticeship
 despise
@@ -4450,7 +4450,7 @@ scotch
 Antarctic
 
 boomer
- - Informal A nuclear submarine armed with ballistic missiles.
+* Informal A nuclear submarine armed with ballistic missiles.
 
 bunch
 detonate
@@ -4539,7 +4539,7 @@ vengeance
 capitulate
 
 clatter
- - to make or cause to make a rattling noise, esp as a result of movement
+* to make or cause to make a rattling noise, esp as a result of movement
 
 exhausted
 caravan
@@ -4596,7 +4596,7 @@ duper
 cuddle
 
 snarky
- - unpleasant and scornful
+* unpleasant and scornful
 
 brothel
 scrappy
@@ -4610,7 +4610,7 @@ ludicrous
 blonde
 
 confetti
- - small pieces of coloured paper thrown on festive occasions, esp at the bride and groom at weddings
+* small pieces of coloured paper thrown on festive occasions, esp at the bride and groom at weddings
 
 fluster
 She was so flustered that she forgot her reply.
@@ -4638,7 +4638,7 @@ tickle
 homophobic
 
 laxative
- - an agent stimulating evacuation of faeces
+* an agent stimulating evacuation of faeces
 
 enthusiastic
 enthusiasm
@@ -4711,7 +4711,7 @@ exertion
 quasi
 
 ostentation
- - pretentious, showy, or vulgar display
+* pretentious, showy, or vulgar display
 
 pretentious
 accessory
@@ -4765,14 +4765,14 @@ The twins are as alike as two peas in a pod. Friends are generally alike in back
 leave out
 
 deceased
- - a) a more formal word for dead 1)
+* a) a more formal word for dead 1)
 
 bottle opener
 
 palm
 
 grieve
- - to feel or cause to feel great sorrow or distress, esp at the death of someone
+* to feel or cause to feel great sorrow or distress, esp at the death of someone
 
 monogamy
 monogamous
@@ -4825,10 +4825,10 @@ married
 aspirin
 
 etc.
- - abbreviation for et cetera
+* abbreviation for et cetera
 
 creep
- - If you describe someone as a creep, you mean that you dislike them a great deal, especially because they are insincere and flatter people. (INFORMAL)
+* If you describe someone as a creep, you mean that you dislike them a great deal, especially because they are insincere and flatter people. (INFORMAL)
 
 communicating
 shirt
@@ -4969,7 +4969,7 @@ lash
 sprain
 
 crapola
- - rubbish; nonsense
+* rubbish; nonsense
 
 vigor
 persistent
@@ -4977,9 +4977,9 @@ compatible
 compatibility
 erection
 
-boner - blunder
- - 1 IMPOLITE a man's PENIS when it is hard
- - 2 INFORMAL OLD-FASHIONED a stupid mistake To pull a boner means to make a mistake
+boner* blunder
+* 1 IMPOLITE a man's PENIS when it is hard
+* 2 INFORMAL OLD-FASHIONED a stupid mistake To pull a boner means to make a mistake
 
 take the plunge
 If you take the plunge, you decide to do something that you consider difficult or risky.
@@ -5005,7 +5005,7 @@ indulgent
 nondescript
 
 smother
- - to suffocate or stifle by cutting off or being cut off from the air
+* to suffocate or stifle by cutting off or being cut off from the air
 
 flutter
 discreet
@@ -5895,421 +5895,421 @@ leprosy
 pissed
 
 pissed off
- - You get really pissed off applying for jobs all the time.
+* You get really pissed off applying for jobs all the time.
 
 fed up
- - He had become fed up with city life.
+* He had become fed up with city life.
 
 reckon
- - spoken especially BrE to think or suppose something - Do you reckon he'll agree to see us?
+* spoken especially BrE to think or suppose something* Do you reckon he'll agree to see us?
 excursion
 
 ROTFL, rotfl (ALSO ROFL)
- - INTERNET ABBREVIATION FOR rolling on the floor laughing: used to show that you think something is very amusing
+* INTERNET ABBREVIATION FOR rolling on the floor laughing: used to show that you think something is very amusing
 
 nauseous
- - If you feel nauseous, you feel as if you want to vomit. - A nauseous wave of pain broke over her.
+* If you feel nauseous, you feel as if you want to vomit.* A nauseous wave of pain broke over her.
 
 gala
- - A gala is a special public celebration, entertainment, performance, or festival. - ...a gala evening at the Royal Opera House.
+* A gala is a special public celebration, entertainment, performance, or festival.* ...a gala evening at the Royal Opera House.
 Portobello
 
 Panama
 
 orchestra
- - An orchestra is a large group of musicians who play a variety of different instruments together. Orchestras usually play classical music.
+* An orchestra is a large group of musicians who play a variety of different instruments together. Orchestras usually play classical music.
 
 hesitant
 
 understatement
- - If you say that a statement is an understatement, you mean that it does not fully express the extent to which something is true. - To say I'm disappointed is an understatement...
+* If you say that a statement is an understatement, you mean that it does not fully express the extent to which something is true.* To say I'm disappointed is an understatement...
 
 aesthetic
- - Aesthetic is used to talk about beauty or art, and people's appreciation of beautiful things. - ...products chosen for their aesthetic appeal as well as their durability and quality.
+* Aesthetic is used to talk about beauty or art, and people's appreciation of beautiful things.* ...products chosen for their aesthetic appeal as well as their durability and quality.
 
 demeanour / demeanor
- - the way someone behaves, dresses, speaks etc that shows what their character is like - his quiet, reserved demeanour
+* the way someone behaves, dresses, speaks etc that shows what their character is like* his quiet, reserved demeanour
 
 nemesis
- - an opponent or enemy that is likely to be impossible for you to defeat, or a situation that is likely to be impossible for you to deal with
+* an opponent or enemy that is likely to be impossible for you to defeat, or a situation that is likely to be impossible for you to deal with
 
 meet/face your nemesis
- - literary a punishment that is deserved and cannot be avoided
+* literary a punishment that is deserved and cannot be avoided
 
 deplete
- - To deplete a stock or amount of something means to reduce it. (FORMAL)
+* To deplete a stock or amount of something means to reduce it. (FORMAL)
 
 embellish
- - to make something more beautiful by adding decorations to it - The dress was embellished with gold threads. - to make a story or statement more interesting by adding details that are not true - She gave an embellished account of what had happened.
+* to make something more beautiful by adding decorations to it* The dress was embellished with gold threads.* to make a story or statement more interesting by adding details that are not true* She gave an embellished account of what had happened.
 
 trash talk
 bad-mouth
 distasteful
 
 pick on
- - If someone picks on you, they repeatedly criticize you unfairly or treat you unkindly. (INFORMAL) - Bullies pick on younger children...
+* If someone picks on you, they repeatedly criticize you unfairly or treat you unkindly. (INFORMAL)* Bullies pick on younger children...
 
 herein
- - Herein means in this document, text, or book. (FORMAL, WRITTEN) - The statements and views expressed herein are those of the author and are not necessarily those of the Wilson Centre...
+* Herein means in this document, text, or book. (FORMAL, WRITTEN)* The statements and views expressed herein are those of the author and are not necessarily those of the Wilson Centre...
 
 all-round / all-around
- - good at doing many different things - an all-round athlete
+* good at doing many different things* an all-round athlete
 
 vicinity
- - in the vicinity (of sth) - in the area around a particular place
+* in the vicinity (of sth)* in the area around a particular place
 
 meteorite
- - a piece of rock or metal from space that has landed on Earth
+* a piece of rock or metal from space that has landed on Earth
 
 sloppy
- - not done carefully or thoroughly = careless - sloppy work - sloppy clothes are loose-fitting, untidy, or dirty - Ann was dressed in a sloppy brown sweater. - expressing feelings of love too strongly and in a silly way = slushy - The film is a sloppy romance.
+* not done carefully or thoroughly = careless* sloppy work* sloppy clothes are loose-fitting, untidy, or dirty* Ann was dressed in a sloppy brown sweater.* expressing feelings of love too strongly and in a silly way = slushy* The film is a sloppy romance.
 
 vicious
- - A vicious person or a vicious blow is violent and cruel. = brutal - He was a cruel and vicious man...
+* A vicious person or a vicious blow is violent and cruel. = brutal* He was a cruel and vicious man...
 
 heads-up
- - adjective AMERICAN INFORMAL - lively and intelligent: - a team that plays heads-up basketball heads-up
- - noun [singular] INFORMAL - a warning: They gave us a heads-up that the deal might be off.
+* adjective AMERICAN INFORMAL* lively and intelligent:* a team that plays heads-up basketball heads-up
+* noun [singular] INFORMAL* a warning: They gave us a heads-up that the deal might be off.
 
-areola - any small circular area, such as the pigmented ring around the human nipple or the inflamed area surrounding a pimple
+areola* any small circular area, such as the pigmented ring around the human nipple or the inflamed area surrounding a pimple
 
 get away with
- - If you get away with doing something wrong or risky, you do not suffer any punishment or other bad consequences because of it.
- - The criminals know how to play the system and get away with it...
+* If you get away with doing something wrong or risky, you do not suffer any punishment or other bad consequences because of it.
+* The criminals know how to play the system and get away with it...
 
 Indian lotus, sacred lotus
 
 legitimate
- - fair or reasonable - acceptable or allowed by law - a legitimate child is born to parents who are legally married to each other
+* fair or reasonable* acceptable or allowed by law* a legitimate child is born to parents who are legally married to each other
 
 obligate
- - If something obligates you to do a particular thing, it creates a situation where you have to do it. (FORMAL) - The ruling obligates airlines to release information about their flight delays...
+* If something obligates you to do a particular thing, it creates a situation where you have to do it. (FORMAL)* The ruling obligates airlines to release information about their flight delays...
 
 ruckus
- - informal especially AmE a noisy argument or confused situation = rumpus
+* informal especially AmE a noisy argument or confused situation = rumpus
 
 remission
 
 infiltrate
- - to secretly join an organization or enter a place in order to find out information about it or harm it 
+* to secretly join an organization or enter a place in order to find out information about it or harm it 
 
 freeloader
- - someone who takes food, drink, or other things from other people, without giving anything in return - used to show disapproval
+* someone who takes food, drink, or other things from other people, without giving anything in return* used to show disapproval
 
 errand
- - a short journey either to take a message or to deliver or collect something - I'll meet you at six, I've got some errands to do/run first.
+* a short journey either to take a message or to deliver or collect something* I'll meet you at six, I've got some errands to do/run first.
 
 immaculate
- - very clean and tidy ≠ messy
- - exactly correct or perfect in every detail
+* very clean and tidy ≠ messy
+* exactly correct or perfect in every detail
 
 embroidery
- - Embroidery consists of designs stitched into cloth. - The shorts had blue embroidery over the pockets...
- - Embroidery is the activity of stitching designs onto cloth. - She learned sewing, knitting and embroidery.
+* Embroidery consists of designs stitched into cloth.* The shorts had blue embroidery over the pockets...
+* Embroidery is the activity of stitching designs onto cloth.* She learned sewing, knitting and embroidery.
 
 precinct
- - A shopping precinct is an area in the centre of a town in which cars are not allowed. (BRIT) - The Centre was a pedestrian precinct with a bandstand in the middle.
- - A precinct is a part of a city which has its own police force and fire service. (AM) - The shooting occurred in the 34th Precinct.
- - The precincts of an institution are its buildings and land. (FORMAL) - No one carrying arms is allowed within the precincts of a temple.
+* A shopping precinct is an area in the centre of a town in which cars are not allowed. (BRIT)* The Centre was a pedestrian precinct with a bandstand in the middle.
+* A precinct is a part of a city which has its own police force and fire service. (AM)* The shooting occurred in the 34th Precinct.
+* The precincts of an institution are its buildings and land. (FORMAL)* No one carrying arms is allowed within the precincts of a temple.
 
 snatch
- - to take something away from someone with a quick, often violent, movement = grab
- - to take someone away from a person or place, especially by force
- - to quickly get something, especially sleep or rest, because you do not have very much time = grab
- - snatch at [snatch at sth] phr v - to quickly put out your hand to try to take or hold something
+* to take something away from someone with a quick, often violent, movement = grab
+* to take someone away from a person or place, especially by force
+* to quickly get something, especially sleep or rest, because you do not have very much time = grab
+* snatch at [snatch at sth] phr v* to quickly put out your hand to try to take or hold something
 
 ominous
- - suggesting that sth bad is going to happen in the future: There were ominous dark clouds gathering overhead. - She picked up the phone but there was an ominous silence at the other end.
+* suggesting that sth bad is going to happen in the future: There were ominous dark clouds gathering overhead.* She picked up the phone but there was an ominous silence at the other end.
 
 cemetery
- - a piece of land, usually not belonging to a church, in which dead people are buried → graveyard
+* a piece of land, usually not belonging to a church, in which dead people are buried → graveyard
 
 graveyard
- - an area of ground where people are buried, often next to a church
+* an area of ground where people are buried, often next to a church
 
 grand theft / petty theft
- - The state (California) now distinguishes between two types of theft, grand theft and petty theft. 
+* The state (California) now distinguishes between two types of theft, grand theft and petty theft. 
 
 vintage
- - old, but high quality - showing all the best or most typical qualities of something
+* old, but high quality* showing all the best or most typical qualities of something
 
 sob
 souffle
 
-not a bit - not in any way:
- - She wasn't a bit worried about her exams.
- - My parents were not a bit happy (= were very unhappy) about my choice.
- - "Are you getting tired?" "Not a bit."
+not a bit* not in any way:
+* She wasn't a bit worried about her exams.
+* My parents were not a bit happy (= were very unhappy) about my choice.
+* "Are you getting tired?" "Not a bit."
 
 arcade
- - covered passage or area, esp one with an arched roof and shops along one or both sides - a shopping arcade
+* covered passage or area, esp one with an arched roof and shops along one or both sides* a shopping arcade
 
 bejesus
- - informal an exclamation of surprise, emphasis, etc., regarded as a characteristic utterance of Irish people - The bear scared the bejesus out of us.
+* informal an exclamation of surprise, emphasis, etc., regarded as a characteristic utterance of Irish people* The bear scared the bejesus out of us.
 
 hectic
- - very busy or full of activity - I've had a pretty hectic day. - a hectic social life
- - written if your face is a hectic colour, it is very pink - the hectic flush on her cheeks
+* very busy or full of activity* I've had a pretty hectic day.* a hectic social life
+* written if your face is a hectic colour, it is very pink* the hectic flush on her cheeks
 
 tacit
- - tacit agreement, approval, support etc is given without anything actually being said - a tacit agreement between the three big companies >tacitly adv
+* tacit agreement, approval, support etc is given without anything actually being said* a tacit agreement between the three big companies >tacitly adv
 
 fang
- - a long sharp tooth of an animal such as a snake or wild dog
+* a long sharp tooth of an animal such as a snake or wild dog
 
 claw
- - a sharp curved nail on an animal, bird, or some insects
+* a sharp curved nail on an animal, bird, or some insects
 
 strategics
- - strategy, esp in a military sense
+* strategy, esp in a military sense
 
 preferential
- - preferential treatment, rates etc are deliberately different in order to give an advantage to particular people - preferential credit terms for reliable borrowers
+* preferential treatment, rates etc are deliberately different in order to give an advantage to particular people* preferential credit terms for reliable borrowers
 
 retreat
- - to move away from the enemy after being defeated in battle ≠ advance
- - The rebels retreated to the mountains. - They were attacked and forced to retreat.
+* to move away from the enemy after being defeated in battle ≠ advance
+* The rebels retreated to the mountains.* They were attacked and forced to retreat.
 
 chime in
- - to say something in a conversation, especially to agree with what someone has just said - We'll miss you too,' the children chimed in.
+* to say something in a conversation, especially to agree with what someone has just said* We'll miss you too,' the children chimed in.
 
 steady on
- - used to tell someone that what they are saying is too extreme: Steady on, Chris - she's nice but she's not that nice!
+* used to tell someone that what they are saying is too extreme: Steady on, Chris* she's nice but she's not that nice!
 
 stale
- - bread or cake that is stale is no longer fresh or good to eat ≠ fresh
- - French bread goes stale (=becomes stale) very quickly.
- - stale cake
+* bread or cake that is stale is no longer fresh or good to eat ≠ fresh
+* French bread goes stale (=becomes stale) very quickly.
+* stale cake
 
 delinquent
- - (especially of young people or their behaviour) showing a tendency to commit crimes: delinquent teenagers
- - (AmE, finance) having failed to pay money that is owed: a delinquent borrower
- - (AmE, finance) (of a sum of money) not having been paid in time: a delinquent loan
- - delinquent noun-see also JUVENILE DELINQUENT
+* (especially of young people or their behaviour) showing a tendency to commit crimes: delinquent teenagers
+* (AmE, finance) having failed to pay money that is owed: a delinquent borrower
+* (AmE, finance) (of a sum of money) not having been paid in time: a delinquent loan
+* delinquent noun-see also JUVENILE DELINQUENT
 
 up front
- - If you give someone an amount of money up front, you pay them in advance: He wants all the money up front or he won't do the job.
+* If you give someone an amount of money up front, you pay them in advance: He wants all the money up front or he won't do the job.
 
 lollipop
- - (also BrE informal lolly) (also AmE informal sucker)
- - a hard round or flat sweet/candy made of boiled sugar on a small stick
+* (also BrE informal lolly) (also AmE informal sucker)
+* a hard round or flat sweet/candy made of boiled sugar on a small stick
 
 morphine
- - a powerful drug that is made from OPIUM and used to reduce pain: Cancer patients are often prescribed increasing doses of morphine.
+* a powerful drug that is made from OPIUM and used to reduce pain: Cancer patients are often prescribed increasing doses of morphine.
 
 haze
- - Haze is light mist, caused by particles of water or dust in the air, which prevents you from seeing distant objects clearly. Haze often forms in hot weather. 
-	 -- They vanished into the haze near the horizon...
- - If there is a haze of something such as smoke or steam, you cannot see clearly through it. (LITERARY)
-	 -- Dan smiled at him through a haze of smoke and steaming coffee...
+* Haze is light mist, caused by particles of water or dust in the air, which prevents you from seeing distant objects clearly. Haze often forms in hot weather. 
+  * They vanished into the haze near the horizon...
+* If there is a haze of something such as smoke or steam, you cannot see clearly through it. (LITERARY)
+  * Dan smiled at him through a haze of smoke and steaming coffee...
 
 go nuts
- - INFORMAL to become extremely angry: My sister will go nuts when she finds out I've wrecked her car.
+* INFORMAL to become extremely angry: My sister will go nuts when she finds out I've wrecked her car.
 
 sparrow
- - a small brown and grey bird, common in many parts of the world
+* a small brown and grey bird, common in many parts of the world
 
 call it a day
- - INFORMAL to stop the work you are doing: I'm getting a bit tired now - shall we call it a day?
+* INFORMAL to stop the work you are doing: I'm getting a bit tired now* shall we call it a day?
 
 adrenaline = epinephrine
- - a chemical produced by your body when you are afraid, angry, or excited, which makes your heart beat faster
- - There's nothing like a good horror film to get the adrenalin going (=make you feel nervously excited).
+* a chemical produced by your body when you are afraid, angry, or excited, which makes your heart beat faster
+* There's nothing like a good horror film to get the adrenalin going (=make you feel nervously excited).
 
 straggle
- - to grow, spread or move in an untidy way in different directions
- - to move slowly behind a group of people that you are with so that you become separated from them
+* to grow, spread or move in an untidy way in different directions
+* to move slowly behind a group of people that you are with so that you become separated from them
 
-chicken pox - also chickenpox
- - an infectious illness which causes a slight fever and spots on your skin
+chicken pox* also chickenpox
+* an infectious illness which causes a slight fever and spots on your skin
 
 rampage
- - to rush about in groups, acting in a wild or violent way
-	 -- Drunken football fans rampaged through the streets.
- - on the rampage - rushing about in a wild and violent way, often causing damage
-	 -- gangs of youths on the rampage - Rioters went on the rampage through the town.
+* to rush about in groups, acting in a wild or violent way
+  * Drunken football fans rampaged through the streets.
+* on the rampage* rushing about in a wild and violent way, often causing damage
+  * gangs of youths on the rampage* Rioters went on the rampage through the town.
 
 straggler
- - a person or an animal that is among the last or the slowest in a group to do sth, for example, to finish a race or leave a place
+* a person or an animal that is among the last or the slowest in a group to do sth, for example, to finish a race or leave a place
 
 prevalent
- - ~ (among sb) ~ (in sb/sth) that exists or is very common at a particular time or in a particular place
+* ~ (among sb) ~ (in sb/sth) that exists or is very common at a particular time or in a particular place
 
 brag
- - to talk too proudly about what you have done, what you own etc - used to show disapproval = boast - 'I came out top in the test,' he bragged.
- - brag about - Ben's always bragging about his success with women.
- - brag that - Julia used to brag that her family had a villa in Spain.
+* to talk too proudly about what you have done, what you own etc* used to show disapproval = boast* 'I came out top in the test,' he bragged.
+* brag about* Ben's always bragging about his success with women.
+* brag that* Julia used to brag that her family had a villa in Spain.
 
 cadet
- - someone who is training to be an officer in the army, navy, air force, or police
+* someone who is training to be an officer in the army, navy, air force, or police
 
 peculiar
- - strange, unfamiliar, or a little surprising
- - be peculiar to sb/sth - if something is peculiar to a particular person, place, or situation, it is a feature that only belongs to that person or only exists in that place or situation
- - feel peculiar/come over all peculiar BrE informal to feel slightly ill
+* strange, unfamiliar, or a little surprising
+* be peculiar to sb/sth* if something is peculiar to a particular person, place, or situation, it is a feature that only belongs to that person or only exists in that place or situation
+* feel peculiar/come over all peculiar BrE informal to feel slightly ill
 
 bronze
- - noun a dark reddish-brown metal made by mixing COPPER and tin: a bronze statue ◆ a figure cast in bronze
- - [U] a dark reddish-brown colour, like bronze
- - [C] a work of art made of bronze, for example a statue: a fine collection of bronzes
- - [C, U] = BRONZE MEDAL
- - adjective dark reddish-brown in colour: bronze skin
+* noun a dark reddish-brown metal made by mixing COPPER and tin: a bronze statue ◆ a figure cast in bronze
+* [U] a dark reddish-brown colour, like bronze
+* [C] a work of art made of bronze, for example a statue: a fine collection of bronzes
+* [C, U] = BRONZE MEDAL
+* adjective dark reddish-brown in colour: bronze skin
 
 booze
- - noun [U] (informal) alcoholic drink: Now he's off the booze (= he has given up drinking alcohol), he's a different person.
- - verb [V] (informal) (usually used in the progressive tenses) to drink alcohol, especially in large quantities: He's out boozing with his mates.
+* noun [U] (informal) alcoholic drink: Now he's off the booze (= he has given up drinking alcohol), he's a different person.
+* verb [V] (informal) (usually used in the progressive tenses) to drink alcohol, especially in large quantities: He's out boozing with his mates.
 
 trophy
- - a large object such as a silver cup or plate that someone receives as a prize for winning a competition - walls lined with banners and athletic trophies
+* a large object such as a silver cup or plate that someone receives as a prize for winning a competition* walls lined with banners and athletic trophies
 
 alloy
- - noun [C, U] a metal that is formed by mixing two types of metal together, or by mixing metal with another substance: Brass is an alloy of copper and zinc. - alloy steel
- - verb [VN] ~ sth (with sth) (technical) to mix one metal with another, especially one of lower value
+* noun [C, U] a metal that is formed by mixing two types of metal together, or by mixing metal with another substance: Brass is an alloy of copper and zinc.* alloy steel
+* verb [VN] ~ sth (with sth) (technical) to mix one metal with another, especially one of lower value
 
 steward
- - A steward is a man who works on a ship, plane, or train, looking after passengers and serving meals to them.
- - A steward is a man or woman who helps to organize a race, march, or other public event.
- - shop steward
-	 -- A shop steward is a trade union member who is elected by the other members in a factory or office to speak for them at official meetings. (BRIT)
+* A steward is a man who works on a ship, plane, or train, looking after passengers and serving meals to them.
+* A steward is a man or woman who helps to organize a race, march, or other public event.
+* shop steward
+  * A shop steward is a trade union member who is elected by the other members in a factory or office to speak for them at official meetings. (BRIT)
 
 ballot
- - a system of voting, usually in secret, or an occasion when you vote in this way
- - a piece of paper on which you make a secret vote = ballot paper
- - the ballot - the total number of votes in an election
- - to ask someone to vote for something - ballot on/over - Train drivers are being balloted on industrial action.
- - to vote for something - ballot for - Staff balloted for strike action yesterday.
+* a system of voting, usually in secret, or an occasion when you vote in this way
+* a piece of paper on which you make a secret vote = ballot paper
+* the ballot* the total number of votes in an election
+* to ask someone to vote for something* ballot on/over* Train drivers are being balloted on industrial action.
+* to vote for something* ballot for* Staff balloted for strike action yesterday.
 
 anomaly
- - something that is noticeable because it is different from what is usual - In those days, a woman professor was still an anomaly.
- - anomaly in - various anomalies in the tax system
+* something that is noticeable because it is different from what is usual* In those days, a woman professor was still an anomaly.
+* anomaly in* various anomalies in the tax system
 
 veridical
- - adj
-	 -- truthful
-	 -- psychology of or relating to revelations in dreams, hallucinations, etc., that appear to be confirmed by subsequent events
+* adj
+  * truthful
+  * psychology of or relating to revelations in dreams, hallucinations, etc., that appear to be confirmed by subsequent events
 
-thingamabob - a word used, especially in spoken English, when the name of an object has been forgotten: I need one of those red thingamabobs for this - have you got one? - See also thingy at thing (PERSON/ANIMAL).
+thingamabob* a word used, especially in spoken English, when the name of an object has been forgotten: I need one of those red thingamabobs for this* have you got one?* See also thingy at thing (PERSON/ANIMAL).
 
 mood
- - the way you are feeling at a particular time: She's in a good mood today (= happy and friendly).
+* the way you are feeling at a particular time: She's in a good mood today (= happy and friendly).
 
 foul
- - dirty and smelling bad - (especially BrE) very unpleasant; very bad - (of language) including rude words and swearing
+* dirty and smelling bad* (especially BrE) very unpleasant; very bad* (of language) including rude words and swearing
 
 foe
- - (old-fashioned or formal) an enemy
+* (old-fashioned or formal) an enemy
 
 anecdote
- - a short story based on your personal experience - The book is full of amusing anecdotes about his life in Japan.
+* a short story based on your personal experience* The book is full of amusing anecdotes about his life in Japan.
 
 annotate
- - to add short notes to a book or piece of writing to explain parts of it - an annotated edition of 'Othello'
+* to add short notes to a book or piece of writing to explain parts of it* an annotated edition of 'Othello'
 
 isotropic
- - having uniform physical properties in all directions
- - biology not having predetermined axes: isotropic eggs
+* having uniform physical properties in all directions
+* biology not having predetermined axes: isotropic eggs
 
 anisotropic
- - not isotropic; having different physical properties in different directions: anisotropic crystals
- - (of a plant) responding unequally to an external stimulus in different parts of the plant
+* not isotropic; having different physical properties in different directions: anisotropic crystals
+* (of a plant) responding unequally to an external stimulus in different parts of the plant
 
 intestine
- - the long tube in your body through which food passes after it leaves your stomach = gut
+* the long tube in your body through which food passes after it leaves your stomach = gut
 
 commission
- - a group of people who have been given the official job of finding out about something or controlling something
- - an extra amount of money that is paid to a person or organization according to the value of the goods they have sold or the services they have provided: commission free
+* a group of people who have been given the official job of finding out about something or controlling something
+* an extra amount of money that is paid to a person or organization according to the value of the goods they have sold or the services they have provided: commission free
 
 subjugate
- - (formal) to defeat sb/sth; to gain control over sb/sth: a subjugated race ◆ Her personal ambitions had been subjugated to (= considered less important than) the needs of her family.
- - subjugation noun [U] (formal): the subjugation of women / Ireland
+* (formal) to defeat sb/sth; to gain control over sb/sth: a subjugated race ◆ Her personal ambitions had been subjugated to (= considered less important than) the needs of her family.
+* subjugation noun [U] (formal): the subjugation of women / Ireland
 
 pictorial
- - using or relating to paintings, drawings, or photographs: a pictorial record of their journey
+* using or relating to paintings, drawings, or photographs: a pictorial record of their journey
 
 efficacy
- - formal the ability of something to produce the right result = effectiveness
+* formal the ability of something to produce the right result = effectiveness
 
 procedural
- - connected with a procedure, especially in a law court: procedural rules
+* connected with a procedure, especially in a law court: procedural rules
 
 therapy
- - the treatment of an illness or injury over a fairly long period of time: new drug therapies, radiation therapy for cancer treatment
+* the treatment of an illness or injury over a fairly long period of time: new drug therapies, radiation therapy for cancer treatment
 
 celestial
- - relating to the sky or heaven: celestial bodies
- - (=the sun, moon, stars etc): literary very beautiful
+* relating to the sky or heaven: celestial bodies
+* (=the sun, moon, stars etc): literary very beautiful
 
 audacious
- - showing great courage or confidence in a way that is impressive or slightly shocking: the risks involved in such an audacious operation >Derived words: audaciously adv; audaciousness or audacity
+* showing great courage or confidence in a way that is impressive or slightly shocking: the risks involved in such an audacious operation >Derived words: audaciously adv; audaciousness or audacity
 
 carcinoma
- - 1) any malignant tumour derived from epithelial tissue
- - 2) another name for cancer
+* 1) any malignant tumour derived from epithelial tissue
+* 2) another name for cancer
 
 psychiatrist
- -  doctor trained in the treatment of mental illness →psychologist
+*  doctor trained in the treatment of mental illness →psychologist
 
 diabolical
- - evil or cruel: diabolical abuse
- - BrE informal extremely unpleasant or bad: The toilets were in a diabolical state. >diabolically /-kli/ adv
+* evil or cruel: diabolical abuse
+* BrE informal extremely unpleasant or bad: The toilets were in a diabolical state. >diabolically /-kli/ adv
 
 synopsis
- - a short description of the main events or ideas in a book, film etc = summary synopsis of: a synopsis of the play
+* a short description of the main events or ideas in a book, film etc = summary synopsis of: a synopsis of the play
 
 chauffeur
- - someone whose job is to drive a car for someone else
- - to drive a car for someone as your job. also chauffeur sb⇔around
- - to drive someone in your car, especially when you do not want to
+* someone whose job is to drive a car for someone else
+* to drive a car for someone as your job. also chauffeur sb⇔around
+* to drive someone in your car, especially when you do not want to
 
 heads up
- - n (US and Canadian) a tip-off or small amount of information given in advance
+* n (US and Canadian) a tip-off or small amount of information given in advance
 
 oversleep
- - to sleep for longer than you intended: Sorry I'm late. I overslept.
+* to sleep for longer than you intended: Sorry I'm late. I overslept.
 
 chitchat
- - noun [uncount] INFORMAL friendly conversation about things that are not very important: Less chitchat please and pay attention, called the teacher.
+* noun [uncount] INFORMAL friendly conversation about things that are not very important: Less chitchat please and pay attention, called the teacher.
 
 nap
- - a short sleep, especially during the day - have/take a nap: I usually take a nap after lunch. an afternoon nap 
- - [singular] the soft surface on some cloth and leather, made by brushing the short fine threads or hairs in one direction
+* a short sleep, especially during the day* have/take a nap: I usually take a nap after lunch. an afternoon nap 
+* [singular] the soft surface on some cloth and leather, made by brushing the short fine threads or hairs in one direction
 
 Montauk
- - A Native American people formerly inhabiting the eastern end of Long Island in New York.
+* A Native American people formerly inhabiting the eastern end of Long Island in New York.
 
 soiree
- - a formal or fashionable evening party
+* a formal or fashionable evening party
 
 gall
- - have the gall to do sth: to do something rude and unreasonable that most people would be too embarrassed to do
-	 -- He even had the gall to blame Lucy for it.
- - [U] old-fashioned anger and hate that will not go away = resentment
- - [U] old-fashioned bile
+* have the gall to do sth: to do something rude and unreasonable that most people would be too embarrassed to do
+  * He even had the gall to blame Lucy for it.
+* [U] old-fashioned anger and hate that will not go away = resentment
+* [U] old-fashioned bile
 
 overt
- - overt actions are done publicly, without trying to hide anything ≠ covert
+* overt actions are done publicly, without trying to hide anything ≠ covert
 
 whit
- - not a whit - old-fashioned not at all: Sara had not changed a whit.
+* not a whit* old-fashioned not at all: Sara had not changed a whit.
 
 sniff
- - to breathe air into your nose noisily, for example when you are crying or have a cold: Margaret sniffed miserably and nodded.
+* to breathe air into your nose noisily, for example when you are crying or have a cold: Margaret sniffed miserably and nodded.
 
 sniffle
- - to keep sniffing in order to stop liquid from running out of your nose, especially when you are crying or you have a cold
-	 -- For goodness' sake, stop sniffling!
+* to keep sniffing in order to stop liquid from running out of your nose, especially when you are crying or you have a cold
+  * For goodness' sake, stop sniffling!
 
 agony
- - great anxiety', from agon 'competition for a prize'] - very severe pain: the agony of arthritis
+* great anxiety', from agon 'competition for a prize']* very severe pain: the agony of arthritis
 
 arthritis
- - a disease that causes the joints of your body to become swollen and very painful
- - >arthritic /-ˈθrɪtɪk/ adj arthritic fingers
+* a disease that causes the joints of your body to become swollen and very painful
+* >arthritic /-ˈθrɪtɪk/ adj arthritic fingers
 
 vendetta
- - a long and violent dispute between two families, in which people are murdered in return for previous murders
- - ~ (against sb) a long argument or disagreement in which one person or group does or says things to harm another
+* a long and violent dispute between two families, in which people are murdered in return for previous murders
+* ~ (against sb) a long argument or disagreement in which one person or group does or says things to harm another
 
 When matching conjunctions to modifiers, or goes with either and nor goes with neither. Nor is used when the preceding paired clause is negative. Sometimes the distinction is difficult with some verbs and either might be used.
 Example : "Either we leave or we will be stranded."
@@ -6318,30 +6318,30 @@ Example : "He knew neither the right time nor the right place for the meeting.
 (Compare to : "He did not know the right time or the right place for the meeting.")
 
 pike
- - (plural pike) a large FRESHWATER fish with very sharp teeth
- - a weapon with a sharp blade on a long wooden handle, used in the past by soldiers on foot
- - (AmE) = TURNPIKE
+* (plural pike) a large FRESHWATER fish with very sharp teeth
+* a weapon with a sharp blade on a long wooden handle, used in the past by soldiers on foot
+* (AmE) = TURNPIKE
  
 spike
- - [C] a thin object with a sharp point, especially a pointed piece of metal, wood, etc: a row of iron spikes on a wall ◆ Her hair stood up in spikes.
+* [C] a thin object with a sharp point, especially a pointed piece of metal, wood, etc: a row of iron spikes on a wall ◆ Her hair stood up in spikes.
 
 thief
- - (plural thieves ) a person who steals sth from another person or place: a car / jewel thief
+* (plural thieves ) a person who steals sth from another person or place: a car / jewel thief
 
 theft
- - [U, C] ~ (of sth) the crime of stealing sth from a person or place: car theft ◆ Police are investigating the theft of computers from the company's offices. ◆ A number of thefts have been reported recently.
+* [U, C] ~ (of sth) the crime of stealing sth from a person or place: car theft ◆ Police are investigating the theft of computers from the company's offices. ◆ A number of thefts have been reported recently.
 
 plague
- - (also the plague) [U] = BUBONIC PLAGUE: an outbreak of plague
- - [C] any infectious disease that kills a lot of people: the new plague of Aids
- - [C] ~ of sth large numbers of an animal or insect that come into an area and cause great damage: a plague of locusts / rats
+* (also the plague) [U] = BUBONIC PLAGUE: an outbreak of plague
+* [C] any infectious disease that kills a lot of people: the new plague of Aids
+* [C] ~ of sth large numbers of an animal or insect that come into an area and cause great damage: a plague of locusts / rats
 
 fealty
- - (old use) a promise to be loyal to sb, especially a king or queen
+* (old use) a promise to be loyal to sb, especially a king or queen
 
 sanctum
- -  private room where sb can go and not be disturbed: She once allowed me into her inner sanctum.
- - a holy place
+*  private room where sb can go and not be disturbed: She once allowed me into her inner sanctum.
+* a holy place
 
 horoscope
 - a description of what is going to happen to sb in the future, based on the position of the stars and the planets when the person was born
@@ -6353,13 +6353,13 @@ apiary
 - (plural apiaries) a place where bees are kept: The apiary was nearby; half a dozen hives faced south down the slope.
 
 outrage
- - a strong feeling of shock and anger
- - [C] an act or event that is violent, cruel or very wrong and that shocks people or makes them very angry
- - verb [VN] [often passive] to make sb very shocked and angry
+* a strong feeling of shock and anger
+* [C] an act or event that is violent, cruel or very wrong and that shocks people or makes them very angry
+* verb [VN] [often passive] to make sb very shocked and angry
 
 outrageous
- - very shocking and unacceptable
- - very unusual and slightly shocking
+* very shocking and unacceptable
+* very unusual and slightly shocking
 
 paunch
 - a fat stomach on a man: The driver had a paunch hanging over his belt.
@@ -6371,24 +6371,24 @@ frenzy
 - [C, usually sing, U] (plural frenzies) ~ (of sth) a state of great activity and strong emotion that is often violent or frightening and not under control: in a frenzy of activity / excitement / violence ◆ The speaker worked the crowd up into a frenzy. ◆ an outbreak of patriotic frenzy ◆ a killing frenzy
 
 agitation
- - [U] worry and anxiety that you show by behaving in a nervous way: Dot arrived in a state of great agitation.
- - [U, C] ~ (for / against sth) public protest in order to achieve political change: widespread agitation for social reform
- - [U] (technical) the act of stirring or shaking a liquid
+* [U] worry and anxiety that you show by behaving in a nervous way: Dot arrived in a state of great agitation.
+* [U, C] ~ (for / against sth) public protest in order to achieve political change: widespread agitation for social reform
+* [U] (technical) the act of stirring or shaking a liquid
 
 vigorous
- - very active, determined or full of energy: a vigorous campaign against tax fraud ◆ a vigorous opponent / supporter of the government ◆ Take vigorous exercise for several hours a week.
- - strong and healthy: a vigorous young man ◆ This plant is a vigorous grower.
- - vigorously adverb: She shook her head vigorously. ◆ The accusation was vigorously denied.
+* very active, determined or full of energy: a vigorous campaign against tax fraud ◆ a vigorous opponent / supporter of the government ◆ Take vigorous exercise for several hours a week.
+* strong and healthy: a vigorous young man ◆ This plant is a vigorous grower.
+* vigorously adverb: She shook her head vigorously. ◆ The accusation was vigorously denied.
 
-poppyseed - the small black seeds of the poppy plant, used in cakes, bread etc
+poppyseed* the small black seeds of the poppy plant, used in cakes, bread etc
  
 about time (ALSO high time) INFORMAL
- - If it is about time/high time that someone did something, it should have been done sooner or a long time ago:
-	 -- It's about time (that) the school improved its meals service.
-	 -- It is high time for Europe to take responsibility for its own defence.
+* If it is about time/high time that someone did something, it should have been done sooner or a long time ago:
+  * It's about time (that) the school improved its meals service.
+  * It is high time for Europe to take responsibility for its own defence.
 
-miscreant - noun (literary) a person who has done sth wrong or illegal
-congregate - [V] to come together in a group: Young people often congregate in the main square in the evenings.
+miscreant* noun (literary) a person who has done sth wrong or illegal
+congregate* [V] to come together in a group: Young people often congregate in the main square in the evenings.
 
 government officials
 - n.  people elected or appointed to administer a government
@@ -6397,9 +6397,9 @@ brownie
 - [C] a thick soft flat cake made with chocolate and sometimes nuts: a fudge brownie
 
 fudge
- - noun [U] a type of soft brown sweet/candy made from sugar, butter and milk
- - (a fudge) [sing.] (especially BrE) a way of dealing with a situation that does not really solve the problems but is intended to appear to do so: This solution is a fudge rushed in to win cheers at the party conference.
- - verb ~ (on) sth to avoid giving clear and accurate information, or a clear answer: [VN] I asked how long he was staying, but he fudged the answer. ◆ Politicians are often very clever at fudging the issue. [also V]
+* noun [U] a type of soft brown sweet/candy made from sugar, butter and milk
+* (a fudge) [sing.] (especially BrE) a way of dealing with a situation that does not really solve the problems but is intended to appear to do so: This solution is a fudge rushed in to win cheers at the party conference.
+* verb ~ (on) sth to avoid giving clear and accurate information, or a clear answer: [VN] I asked how long he was staying, but he fudged the answer. ◆ Politicians are often very clever at fudging the issue. [also V]
 
 muesli
 - [U] (BrE) a mixture of grains, nuts, dried fruit, etc. served with milk and eaten for breakfast
@@ -6408,18 +6408,18 @@ cum laude
 - adverb, adjective (from Latin) (in the US) at the third of the three highest levels of achievement that students can reach when they finish their studies at college: He graduated cum laude from Georgetown University.
  
 slate
- - [U] a type of dark grey stone that splits easily into thin flat layers
- - [C] a small thin piece of slate, used for covering roofs
- - [C] (AmE) a list of the candidates in an election
- - [C] a small sheet of slate in a wooden frame, used in the past in schools for children to write on
+* [U] a type of dark grey stone that splits easily into thin flat layers
+* [C] a small thin piece of slate, used for covering roofs
+* [C] (AmE) a list of the candidates in an election
+* [C] a small sheet of slate in a wooden frame, used in the past in schools for children to write on
 
 straightaway
- - at once = immediately: We need to start work straightaway.
- - AmE the straight part of a racetrack
+* at once = immediately: We need to start work straightaway.
+* AmE the straight part of a racetrack
 
 bereavement
- - [U] the state of having lost a relative or close friend because they have died: the pain of an emotional crisis such as divorce or bereavement ◆ a sense of bereavement ◆ learning to cope with bereavement ◆ bereavement counselling
- - [C] the death of a relative or close friend: A family bereavement meant that he could not attend the conference. ◆ She had suffered three bereavements in quick succession.
+* [U] the state of having lost a relative or close friend because they have died: the pain of an emotional crisis such as divorce or bereavement ◆ a sense of bereavement ◆ learning to cope with bereavement ◆ bereavement counselling
+* [C] the death of a relative or close friend: A family bereavement meant that he could not attend the conference. ◆ She had suffered three bereavements in quick succession.
 
 In the art of war, if you know the enemy and know yourself, you need not fear the approaching battles.
 But if you know only yourself and not your enemy, for every victory, there will also be defeat.
@@ -6431,1195 +6431,1193 @@ tribune
 - an official in ancient Rome who was elected by the ordinary people to protect their rights
 
 laurel
- - [U, C] a bush with dark smooth shiny leaves that remain on the bush and stay green through the year: a laurel hedge
- - (laurels) [pl.] honour and praise given to sb because of sth that they have achieved: She won laurels for her first novel.
- - Idioms: look to your laurels to be careful that you do not lose the success or advantage that you have over other people: With so many good new actors around the older ones are having to look to their laurels.
- - rest / sit on your laurels (usually disapproving) to feel so satisfied with what you have already achieved that you do not try to do any more
+* [U, C] a bush with dark smooth shiny leaves that remain on the bush and stay green through the year: a laurel hedge
+* (laurels) [pl.] honour and praise given to sb because of sth that they have achieved: She won laurels for her first novel.
+* Idioms: look to your laurels to be careful that you do not lose the success or advantage that you have over other people: With so many good new actors around the older ones are having to look to their laurels.
+* rest / sit on your laurels (usually disapproving) to feel so satisfied with what you have already achieved that you do not try to do any more
 
 consolation
- - [U, C] a person or thing that makes you feel better when you are unhappy or disappointed
+* [U, C] a person or thing that makes you feel better when you are unhappy or disappointed
 
 consolation prize
- - prize given to sb who has just missed winning or has come last 
+* prize given to sb who has just missed winning or has come last 
 
 roll your eyes
 - to move your eyes upwards as a way of showing that you are annoyed or bored after someone has done or said something
 
 torment
- - noun [U, C] (written) extreme suffering, especially mental suffering; a person or thing that causes this: the cries of a man in torment ◆ She suffered years of mental torment after her son's death. ◆ The flies were a terrible torment.
- - verb [VN]
-	 -- (written) to make sb suffer very much: He was tormented by feelings of insecurity.
-	 -- to annoy a person or an animal in a cruel way because you think it is amusing
+* noun [U, C] (written) extreme suffering, especially mental suffering; a person or thing that causes this: the cries of a man in torment ◆ She suffered years of mental torment after her son's death. ◆ The flies were a terrible torment.
+* verb [VN]
+  * (written) to make sb suffer very much: He was tormented by feelings of insecurity.
+  * to annoy a person or an animal in a cruel way because you think it is amusing
 
 conjure
- - to do clever tricks such as making things seem to appear or disappear as if by magic: [V] Her grandfather taught her to conjure. ◆ [VN +adv./prep.] He could conjure coins from behind people's ears.
- - Phrasal Verbs: conjure sth<->up - to make sth appear as a picture in your mind
+* to do clever tricks such as making things seem to appear or disappear as if by magic: [V] Her grandfather taught her to conjure. ◆ [VN +adv./prep.] He could conjure coins from behind people's ears.
+* Phrasal Verbs: conjure sth<->up* to make sth appear as a picture in your mind
 
 expedition
- -  an organized journey with a particular purpose, especially to find out about a place that is not well known: to plan / lead / go on an expedition to the North Pole ◆ a military / scientific expedition
- - the people who go on an expedition: Three members of the Everest expedition were killed.
- - (sometimes humorous) a short trip that you make when you want or need sth: a shopping / fishing expedition
+*  an organized journey with a particular purpose, especially to find out about a place that is not well known: to plan / lead / go on an expedition to the North Pole ◆ a military / scientific expedition
+* the people who go on an expedition: Three members of the Everest expedition were killed.
+* (sometimes humorous) a short trip that you make when you want or need sth: a shopping / fishing expedition
 
 prejudice
- - noun [U, C] ~ (against sb/sth) an unreasonable dislike of or PREFERENCE for a person, group, custom, etc., especially when it is based on their race, religion, sex, etc
- - verb [VN]
-	 -- ~ sb (against sb/sth) to influence sb so that they have an unfair or unreasonable opinion about sb/sth: The prosecution lawyers have been trying to prejudice the jury against her.
-	 -- (formal) to have a harmful effect on sth: Any delay will prejudice the child's welfare.
+* noun [U, C] ~ (against sb/sth) an unreasonable dislike of or PREFERENCE for a person, group, custom, etc., especially when it is based on their race, religion, sex, etc
+* verb [VN]
+  * ~ sb (against sb/sth) to influence sb so that they have an unfair or unreasonable opinion about sb/sth: The prosecution lawyers have been trying to prejudice the jury against her.
+  * (formal) to have a harmful effect on sth: Any delay will prejudice the child's welfare.
 
 inhumane
- - adjective not caring about the suffering of other people; very cruel: inhumane treatment of animals / prisoners / the mentally ill
- - Antonym: HUMANE
- - inhumanely adverb: Clearly the terrorists have cruelly and inhumanely violated these principles.
+* adjective not caring about the suffering of other people; very cruel: inhumane treatment of animals / prisoners / the mentally ill
+* Antonym: HUMANE
+* inhumanely adverb: Clearly the terrorists have cruelly and inhumanely violated these principles.
 
 peanuts
- - noun
-	 -- (BrE also groundnut) [C] a nut that grows underground in a thin shell: a packet of salted peanuts ◆ peanut oil
-	 -- (peanuts) [pl.] (informal) a very small amount of money: I won't work for peanuts. ◆ He gets paid peanuts for doing that job.
+* noun
+  * (BrE also groundnut) [C] a nut that grows underground in a thin shell: a packet of salted peanuts ◆ peanut oil
+  * (peanuts) [pl.] (informal) a very small amount of money: I won't work for peanuts. ◆ He gets paid peanuts for doing that job.
 
 trifling
- - adjective (formal) small and not important
- - Synonym: TRIVIAL
- - trifling details / matters ◆ The money involved was a trifling sum.
+* adjective (formal) small and not important
+* Synonym: TRIVIAL
+* trifling details / matters ◆ The money involved was a trifling sum.
 
 revolve
- - verb
-	 -- [V] to go in a circle around a central point: The fan revolved slowly. ◆ The earth revolves on its axis.
-	 -- Phrasal Verbs: revolve around / round sth to move around sth in a circle: The earth revolves around the sun.
-	 -- revolve around / round sb/sth to have sb/sth as the main interest or subject: His whole life revolves around surfing. ◆ She thinks that the world revolves around her. ◆ The discussion revolved around the question of changing the club's name.
+* verb
+  * [V] to go in a circle around a central point: The fan revolved slowly. ◆ The earth revolves on its axis.
+  * Phrasal Verbs: revolve around / round sth to move around sth in a circle: The earth revolves around the sun.
+  * revolve around / round sb/sth to have sb/sth as the main interest or subject: His whole life revolves around surfing. ◆ She thinks that the world revolves around her. ◆ The discussion revolved around the question of changing the club's name.
 
 spectroscopy
 - an instrument used for forming and looking at spectra
 
 aquarium
- - a large glass container in which fish and other water creatures and plants are kept
- - a building where people can go to see fish and other water creatures
+* a large glass container in which fish and other water creatures and plants are kept
+* a building where people can go to see fish and other water creatures
 
 scapegoat
- - noun
-	 -- a person who is blamed for sth bad that sb else has done or for some failure
-	 -- Synonym: FALL GUY
-	 -- She felt she had been made a scapegoat for her boss's incompetence.
-	 -- scapegoat verb [VN]
+* noun
+  * a person who is blamed for sth bad that sb else has done or for some failure
+  * Synonym: FALL GUY
+  * She felt she had been made a scapegoat for her boss's incompetence.
+  * scapegoat verb [VN]
 
 mastermind
- - noun [usually sing.] an intelligent person who plans and directs a complicated project or activity (often one that involves a crime): The mastermind behind the robbery was never caught.
- - verb [VN] to plan and direct a complicated project or activity
+* noun [usually sing.] an intelligent person who plans and directs a complicated project or activity (often one that involves a crime): The mastermind behind the robbery was never caught.
+* verb [VN] to plan and direct a complicated project or activity
 
 barrel
- - noun
-	 -- a large round container, usually made of wood or metal, with flat ends and, usually, curved sides: a beer / wine barrel
-	 -- the contents of or the amount contained in a barrel; a unit of measurement in the oil industry equal to between 120 and 159 litres: They got through two barrels of beer. ◆ Oil prices fell to $9 a barrel.
-	 -- the part of a gun like a tube through which the bullets are fired: Tom found himself looking down the barrel of a gun. ◆ The barrel was aimed directly at me. ◆ He fired one barrel and then fired again.
+* noun
+  * a large round container, usually made of wood or metal, with flat ends and, usually, curved sides: a beer / wine barrel
+  * the contents of or the amount contained in a barrel; a unit of measurement in the oil industry equal to between 120 and 159 litres: They got through two barrels of beer. ◆ Oil prices fell to $9 a barrel.
+  * the part of a gun like a tube through which the bullets are fired: Tom found himself looking down the barrel of a gun. ◆ The barrel was aimed directly at me. ◆ He fired one barrel and then fired again.
 
 scotch
- - noun
-	 -- [U] the type of whisky made in Scotland: a bottle of Scotch
-	 -- [C] a glass of Scotch: Do you want a Scotch?
- - adjective
-	 -- of or connected with Scotland  SCOTTISH
+* noun
+  * [U] the type of whisky made in Scotland: a bottle of Scotch
+  * [C] a glass of Scotch: Do you want a Scotch?
+* adjective
+  * of or connected with Scotland  SCOTTISH
  
 caramel
- - noun
-	 -- [U, C] a type of hard sticky sweet/candy made from butter, sugar and milk; a small piece of this
-	 -- [U] burnt sugar used for adding colour and flavour to food: ice cream with caramel sauce
-	 -- See also  CReME CARAMEL
-	 -- [U] a light brown colour
+* noun
+  * [U, C] a type of hard sticky sweet/candy made from butter, sugar and milk; a small piece of this
+  * [U] burnt sugar used for adding colour and flavour to food: ice cream with caramel sauce
+  * See also  CReME CARAMEL
+  * [U] a light brown colour
 
 expunge
- - verb [VN] ~ sth (from sth) (formal) to remove or get rid of sth, such as a name, piece of information or a memory, from a book or list, or from your mind: Details of his criminal activities were expunged from the file. ◆ What happened just before the accident was expunged from his memory.
+* verb [VN] ~ sth (from sth) (formal) to remove or get rid of sth, such as a name, piece of information or a memory, from a book or list, or from your mind: Details of his criminal activities were expunged from the file. ◆ What happened just before the accident was expunged from his memory.
 
 laminated
- - adjective
-	 -- (of wood, plastic, etc.) made by sticking several thin layers together: laminated glass / timber ◆ a laminated table top
-	 -- covered with thin transparent plastic for protection: laminated membership cards
+* adjective
+  * (of wood, plastic, etc.) made by sticking several thin layers together: laminated glass / timber ◆ a laminated table top
+  * covered with thin transparent plastic for protection: laminated membership cards
 
 prodigy
- - (plural prodigies) a young person who is unusually intelligent or skilful for their age: a child / an infant prodigy ◆ a musical / tennis prodigy
+* (plural prodigies) a young person who is unusually intelligent or skilful for their age: a child / an infant prodigy ◆ a musical / tennis prodigy
 
 suave
- - adjective (especially of a man) confident, elegant and polite, sometimes in a way that does not seem sincere: The manager was suave and sophisticated. ◆ He gave his usual suave performance.
- - suavely adverb: 'My pleasure,' he said suavely.
+* adjective (especially of a man) confident, elegant and polite, sometimes in a way that does not seem sincere: The manager was suave and sophisticated. ◆ He gave his usual suave performance.
+* suavely adverb: 'My pleasure,' he said suavely.
 
 slingshot
- - AmE a small Y-shaped stick with a thin band of rubber across the top, used to throw stones
- - British Equivalent: catapult
+* AmE a small Y-shaped stick with a thin band of rubber across the top, used to throw stones
+* British Equivalent: catapult
 
 on the same page
- - thinking in a similar way Louisa said she called the meeting to make sure everybody's on the same page.
- - Usage notes: usually said about efforts made to solve a problem
- - Related vocabulary: on the same wavelength
+* thinking in a similar way Louisa said she called the meeting to make sure everybody's on the same page.
+* Usage notes: usually said about efforts made to solve a problem
+* Related vocabulary: on the same wavelength
 
 on the same wavelength
- - Fig. thinking in the same pattern. We're not on the same wavelength. Let's try again. We kept talking until we got on the same wavelength.
+* Fig. thinking in the same pattern. We're not on the same wavelength. Let's try again. We kept talking until we got on the same wavelength.
 
 lounge  
- - noun
-	 -- a room for waiting in at an airport, etc: the departure lounge
-	 -- a public room in a hotel, club, etc. for waiting or relaxing in: the television lounge
-	 -- (BrE) a room in a private house for sitting and relaxing in
-	 -- (AmE) = LOUNGE BAR
-	 -- See also  SUN LOUNGE
- - verb [V] [usually +adv./prep.] to stand, sit or lie in a lazy way: Several students were lounging around, reading newspapers.
+* noun
+  * a room for waiting in at an airport, etc: the departure lounge
+  * a public room in a hotel, club, etc. for waiting or relaxing in: the television lounge
+  * (BrE) a room in a private house for sitting and relaxing in
+  * (AmE) = LOUNGE BAR
+  * See also  SUN LOUNGE
+* verb [V] [usually +adv./prep.] to stand, sit or lie in a lazy way: Several students were lounging around, reading newspapers.
 
 top-notch
- - adjective (informal) excellent; of the highest quality
+* adjective (informal) excellent; of the highest quality
 
 miaow / meow
- - (BrE) (also meow AmE, BrE) noun the crying sound made by a cat
+* (BrE) (also meow AmE, BrE) noun the crying sound made by a cat
 
 mew
- - noun the soft high noise that a cat makes
- - mew verb: [V] The kitten mewed pitifully.
+* noun the soft high noise that a cat makes
+* mew verb: [V] The kitten mewed pitifully.
 
 retaliate
- - verb [V] ~ (against sb/sth) ~ (by doing sth / with sth) to do sth harmful to sb because they have harmed you first: to retaliate against an attack / injustice ◆ The boy hit his sister, who retaliated by kicking him.
- - retaliatory adjective: retaliatory action
+* verb [V] ~ (against sb/sth) ~ (by doing sth / with sth) to do sth harmful to sb because they have harmed you first: to retaliate against an attack / injustice ◆ The boy hit his sister, who retaliated by kicking him.
+* retaliatory adjective: retaliatory action
 
 traumatize
- - (BrE also traumatise) verb [VN] [usually passive] to shock and upset sb very much, often making them unable to think or work normally: He was so traumatized by the attack that he could not work for a year.
+* (BrE also traumatise) verb [VN] [usually passive] to shock and upset sb very much, often making them unable to think or work normally: He was so traumatized by the attack that he could not work for a year.
 
 throughput
- - noun [U, C, usually sing.] (technical) the amount of work that is done, or the number of people that are dealt with, in a particular period of time: high / low rates of throughput ◆ The centre has a weekly throughput of 200 000 shoppers.
+* noun [U, C, usually sing.] (technical) the amount of work that is done, or the number of people that are dealt with, in a particular period of time: high / low rates of throughput ◆ The centre has a weekly throughput of 200 000 shoppers.
 
 paramour
- - noun (old-fashioned or literary) a person that sb is having a romantic or sexual relationship with. Synonym: LOVER
+* noun (old-fashioned or literary) a person that sb is having a romantic or sexual relationship with. Synonym: LOVER
 
 rationale
- - noun ~ (behind / for / of sth) (formal) the principles or reasons which explain a particular decision, course of action, belief, etc: What is the rationale behind these new exams?
+* noun ~ (behind / for / of sth) (formal) the principles or reasons which explain a particular decision, course of action, belief, etc: What is the rationale behind these new exams?
 
 finale
- - noun the last part of a show or a piece of music: the rousing finale of Beethoven's Ninth Symphony ◆ The festival ended with a grand finale in Hyde Park. ~ (to sth) (after an adjective) an ending to sth of the type mentioned: a fitting / superb / dramatic finale to the day's events
+* noun the last part of a show or a piece of music: the rousing finale of Beethoven's Ninth Symphony ◆ The festival ended with a grand finale in Hyde Park. ~ (to sth) (after an adjective) an ending to sth of the type mentioned: a fitting / superb / dramatic finale to the day's events
 
 graphite
- - noun [U] a soft black mineral that is a form of CARBON. Graphite is used to make pencils, to LUBRICATE machinery, and in nuclear REACTORS.
+* noun [U] a soft black mineral that is a form of CARBON. Graphite is used to make pencils, to LUBRICATE machinery, and in nuclear REACTORS.
 
 lubricate
- - verb [VN] to put a lubricant on sth such as the parts of a machine, to help them move smoothly
- - lubrication noun [U]
+* verb [VN] to put a lubricant on sth such as the parts of a machine, to help them move smoothly
+* lubrication noun [U]
 
 reactor
- - (also nuclear reactor) noun a large structure used for the controlled production of nuclear energy: plans to build a new reactor at the nuclear power plant
+* (also nuclear reactor) noun a large structure used for the controlled production of nuclear energy: plans to build a new reactor at the nuclear power plant
 
 galling
- - adjective [not usually before noun] (of a situation or fact) making you angry because it is unfair: It was galling to have to apologize to a man she hated.
+* adjective [not usually before noun] (of a situation or fact) making you angry because it is unfair: It was galling to have to apologize to a man she hated.
 
 masquerade
- - noun
-	 -- (formal) a way of behaving that hides the truth or a person's true feelings: He was tired of the masquerade and wanted the truth to come out.
-	 -- (especially AmE) a type of party where people wear special COSTUMES and MASKS over their faces, to hide their identities
- - verb [V] ~ as sth to pretend to be sth that you are not: commercial advertisers masquerading as private individuals ◆ The local paper is full of gossip masquerading as news.
+* noun
+  * (formal) a way of behaving that hides the truth or a person's true feelings: He was tired of the masquerade and wanted the truth to come out.
+  * (especially AmE) a type of party where people wear special COSTUMES and MASKS over their faces, to hide their identities
+* verb [V] ~ as sth to pretend to be sth that you are not: commercial advertisers masquerading as private individuals ◆ The local paper is full of gossip masquerading as news.
 
 smog
- - noun [U, C] a form of air POLLUTION that is or looks like a mixture of smoke and FOG, especially in cities: attempts to reduce smog caused by traffic fumes
+* noun [U, C] a form of air POLLUTION that is or looks like a mixture of smoke and FOG, especially in cities: attempts to reduce smog caused by traffic fumes
 
 impetus
- - noun [U, sing.] ~ (for sth) ~ (to sth / to do sth) something that encourages a process or activity to develop more quickly. Synonym: STIMULUS
+* noun [U, sing.] ~ (for sth) ~ (to sth / to do sth) something that encourages a process or activity to develop more quickly. Synonym: STIMULUS
 
 aromatherapy
- - noun [U] the use of natural oils that smell sweet for controlling pain or for rubbing into the body during MASSAGE - aromatherapist noun
+* noun [U] the use of natural oils that smell sweet for controlling pain or for rubbing into the body during MASSAGE* aromatherapist noun
 
 lavender
- - noun [U]
-	 -- a garden plant or bush with bunches of purple flowers with a sweet smell
-	 -- the flowers of the lavender plant that have been dried, used for making sheets, clothes, etc. smell nice: lavender oil
-	 -- a pale purple colour
+* noun [U]
+  * a garden plant or bush with bunches of purple flowers with a sweet smell
+  * the flowers of the lavender plant that have been dried, used for making sheets, clothes, etc. smell nice: lavender oil
+  * a pale purple colour
 
 shindig
- - noun (informal) a big noisy party
+* noun (informal) a big noisy party
 
 rebate  
- - noun
-	 -- an amount of money that is paid back to you because you have paid too much: a tax rebate
-	 -- an amount of money that is taken away from the cost of sth, before you pay for it: Buyers are offered a cash rebate.
+* noun
+  * an amount of money that is paid back to you because you have paid too much: a tax rebate
+  * an amount of money that is taken away from the cost of sth, before you pay for it: Buyers are offered a cash rebate.
 
 curb
- - verb [VN] to control or limit sth, especially sth bad
-	 -- Synonym: CHECK
-	 -- He needs to learn to curb his temper. ◆ A range of policies have been introduced aimed at curbing inflation.
- - noun ~ (on sth) something that controls and puts limits on sth: curbs on government spending
- - (AmE) = KERB
+* verb [VN] to control or limit sth, especially sth bad
+  * Synonym: CHECK
+  * He needs to learn to curb his temper. ◆ A range of policies have been introduced aimed at curbing inflation.
+* noun ~ (on sth) something that controls and puts limits on sth: curbs on government spending
+* (AmE) = KERB
 
 counsel
- - noun [U, C]
-	 -- (formal) advice, especially given by older people or experts; a piece of advice: Listen to the counsel of your elders. ◆ In the end, wiser counsels prevailed.
-	 -- (law) a lawyer or group of lawyers representing sb in a court of law: to be represented by counsel ◆ the counsel for the defence / prosecution ◆ defence / prosecuting counsel ◆ The court then heard counsel for the dead woman's father.
-	 -- Idioms: a counsel of despair (formal) advice not to try to do sth because it is too difficult
-	 -- a counsel of perfection (formal) advice that is good but that is difficult or impossible to follow
-	 -- keep your own counsel (formal) to keep your opinions, plans, etc. secret: Emily doubted what he told her but kept her own counsel.
- - verb (-ll-, AmE -l-)
-	 -- [VN] to listen to and give support or professional advice to sb who needs help: Therapists were brought in to counsel the bereaved.
-	 -- (formal) to advise sb to do sth: [VN] Most experts counsel caution in such cases. ◆ [VN to inf] He counselled them to give up the plan.
+* noun [U, C]
+  * (formal) advice, especially given by older people or experts; a piece of advice: Listen to the counsel of your elders. ◆ In the end, wiser counsels prevailed.
+  * (law) a lawyer or group of lawyers representing sb in a court of law: to be represented by counsel ◆ the counsel for the defence / prosecution ◆ defence / prosecuting counsel ◆ The court then heard counsel for the dead woman's father.
+  * Idioms: a counsel of despair (formal) advice not to try to do sth because it is too difficult
+  * a counsel of perfection (formal) advice that is good but that is difficult or impossible to follow
+  * keep your own counsel (formal) to keep your opinions, plans, etc. secret: Emily doubted what he told her but kept her own counsel.
+* verb (-ll-, AmE -l-)
+  * [VN] to listen to and give support or professional advice to sb who needs help: Therapists were brought in to counsel the bereaved.
+  * (formal) to advise sb to do sth: [VN] Most experts counsel caution in such cases. ◆ [VN to inf] He counselled them to give up the plan.
 
 stipulate
- - verb (formal) to state clearly and firmly that sth must be done, or how it must be done: [VN] A delivery date is stipulated in the contract. ◆ [V that] The job advertisement stipulates that the applicant must have three years' experience. [also V wh-]
+* verb (formal) to state clearly and firmly that sth must be done, or how it must be done: [VN] A delivery date is stipulated in the contract. ◆ [V that] The job advertisement stipulates that the applicant must have three years' experience. [also V wh-]
 
 stipulation
- - noun [C, U]: The only stipulation is that the topic you choose must be related to your studies.
+* noun [C, U]: The only stipulation is that the topic you choose must be related to your studies.
 
 rectilinear  
- - adjective (technical)
-	 -- in a straight line: rectilinear motion
-	 -- having straight lines: rectilinear forms
+* adjective (technical)
+  * in a straight line: rectilinear motion
+  * having straight lines: rectilinear forms
 
 circumvent  
- - verb [VN] (formal)
-	 -- to find a way of avoiding a difficulty or a rule: They found a way of circumventing the law.
-	 -- to go or travel around sth that is blocking your way
- - circumvention noun [U]
+* verb [VN] (formal)
+  * to find a way of avoiding a difficulty or a rule: They found a way of circumventing the law.
+  * to go or travel around sth that is blocking your way
+* circumvention noun [U]
 
 copulate
- - verb [V] ~ (with sb/sth) (technical) to have sex: Some animals perform elaborate mating rituals before they copulate.
- - copulation noun [U]
+* verb [V] ~ (with sb/sth) (technical) to have sex: Some animals perform elaborate mating rituals before they copulate.
+* copulation noun [U]
 
 epilepsy  
- - noun [U] a disorder of the nervous system that causes a person to become unconscious suddenly, often with violent movements of the body
- - epileptic adjective: an epileptic fit
- - epileptic noun: Is she an epileptic?
+* noun [U] a disorder of the nervous system that causes a person to become unconscious suddenly, often with violent movements of the body
+* epileptic adjective: an epileptic fit
+* epileptic noun: Is she an epileptic?
 
 benign  
- - adjective
-	 -- (formal) (of people) kind and gentle; not causing any harm: You would never have guessed his intentions from the benign expression on his face.
-	 -- (medical) (of TUMOURS growing in the body) not dangerous or likely to cause death
-	 -- Compare: MALIGNANT
- - benignly adverb: He smiled benignly.
+* adjective
+  * (formal) (of people) kind and gentle; not causing any harm: You would never have guessed his intentions from the benign expression on his face.
+  * (medical) (of TUMOURS growing in the body) not dangerous or likely to cause death
+  * Compare: MALIGNANT
+* benignly adverb: He smiled benignly.
 
 malignant  
- - adjective
-	 -- (of a TUMOUR or disease) that cannot be controlled and is likely to cause death: malignant cells
-	 -- Compare: BENIGN
-	 -- (formal) having or showing a strong desire to harm sb
+* adjective
+  * (of a TUMOUR or disease) that cannot be controlled and is likely to cause death: malignant cells
+  * Compare: BENIGN
+  * (formal) having or showing a strong desire to harm sb
 
-nutrient - noun (technical) a substance that is needed to keep a living thing alive and to help it to grow: a lack / supply of essential nutrients ◆ Plants draw minerals and other nutrients from the soil. ◆ children suffering from a serious nutrient deficiency
+nutrient* noun (technical) a substance that is needed to keep a living thing alive and to help it to grow: a lack / supply of essential nutrients ◆ Plants draw minerals and other nutrients from the soil. ◆ children suffering from a serious nutrient deficiency
 
 membrane  
- - noun [C, U]
-	 -- a thin layer of skin that connects or covers parts inside the body
-	 -- See also  MUCOUS MEMBRANE
-	 -- a thin layer of tissue that covers cells in a plant
-	 -- a thin layer of material used to prevent air, liquid, etc. from entering a particular part of sth: a waterproof membrane
- - membranous adjective
+* noun [C, U]
+  * a thin layer of skin that connects or covers parts inside the body
+  * See also  MUCOUS MEMBRANE
+  * a thin layer of tissue that covers cells in a plant
+  * a thin layer of material used to prevent air, liquid, etc. from entering a particular part of sth: a waterproof membrane
+* membranous adjective
 
 hollow  
- - adjective, noun, verb
- - adjective
-	 -- having a hole or empty space inside: a hollow ball / centre / tube ◆ The tree trunk was hollow inside. ◆ Her stomach felt hollow with fear.
-	 -- (of parts of the face) sinking deeply into the face: hollow eyes / cheeks ◆ hollow-eyed from lack of sleep
-	 -- [usually before noun] (of sounds) making a low sound like that made by an empty object when it is hit: a hollow groan / echo
-	 -- [usually before noun] not sincere: hollow promises / threats ◆ a hollow laugh / voice ◆ Their appeals for an end to the violence had a hollow ring. ◆ His promise rang hollow.
-	 -- [usually before noun] without real value: to win a hollow victory ◆ The statistics show that it was no hollow warning.
-	 -- hollowly adverb: to laugh / echo hollowly
-	 -- hollowness noun [U]: the hollowness of success / victory
-	 -- Idioms see RING v.
- - noun
-	 -- an area that is lower than the surface around it, especially on the ground: muddy hollows ◆ The wheelbarrow got stuck in a hollow. ◆ The village lay secluded in a hollow of the hills (= a small valley). ◆ She noticed the slight hollows under his cheekbones.
-	 -- a hole or an enclosed space in sth: The squirrel disappeared into a hollow at the base of the tree.
-	 -- verb [VN] [usually passive] to make a flat surface curve inwards: The stairs have been hollowed by centuries of use.
-	 -- Phrasal Verbs: hollow sth<->out
-	 -- to make a hole in sth by removing part of it: Hollow out the cake and fill it with cream. ◆ a gun concealed in a hollowed-out book
-	 -- to form sth by making a hole in sth else: The cave has been hollowed out of the mountainside.
+* adjective, noun, verb
+* adjective
+  * having a hole or empty space inside: a hollow ball / centre / tube ◆ The tree trunk was hollow inside. ◆ Her stomach felt hollow with fear.
+  * (of parts of the face) sinking deeply into the face: hollow eyes / cheeks ◆ hollow-eyed from lack of sleep
+  * [usually before noun] (of sounds) making a low sound like that made by an empty object when it is hit: a hollow groan / echo
+  * [usually before noun] not sincere: hollow promises / threats ◆ a hollow laugh / voice ◆ Their appeals for an end to the violence had a hollow ring. ◆ His promise rang hollow.
+  * [usually before noun] without real value: to win a hollow victory ◆ The statistics show that it was no hollow warning.
+  * hollowly adverb: to laugh / echo hollowly
+  * hollowness noun [U]: the hollowness of success / victory
+  * Idioms see RING v.
+* noun
+  * an area that is lower than the surface around it, especially on the ground: muddy hollows ◆ The wheelbarrow got stuck in a hollow. ◆ The village lay secluded in a hollow of the hills (= a small valley). ◆ She noticed the slight hollows under his cheekbones.
+  * a hole or an enclosed space in sth: The squirrel disappeared into a hollow at the base of the tree.
+  * verb [VN] [usually passive] to make a flat surface curve inwards: The stairs have been hollowed by centuries of use.
+  * Phrasal Verbs: hollow sth<->out
+  * to make a hole in sth by removing part of it: Hollow out the cake and fill it with cream. ◆ a gun concealed in a hollowed-out book
+  * to form sth by making a hole in sth else: The cave has been hollowed out of the mountainside.
 
 glyph
- - a carved channel or groove, esp a vertical one as used on a Doric frieze
- - now rare another word for hieroglyphic
- - any computer-generated character regarded in terms of its shape and bit pattern
+* a carved channel or groove, esp a vertical one as used on a Doric frieze
+* now rare another word for hieroglyphic
+* any computer-generated character regarded in terms of its shape and bit pattern
 
 utterly
- - completely or totally: You look utterly miserable.
+* completely or totally: You look utterly miserable.
 
 poker  
- - noun
-	 -- [U] a card game for two or more people, in which the players bet on the values of the cards they hold
-	 -- [C] a metal stick for moving or breaking up coal in a fire
+* noun
+  * [U] a card game for two or more people, in which the players bet on the values of the cards they hold
+  * [C] a metal stick for moving or breaking up coal in a fire
 
 prudent
- - sensible and careful when you make judgements and decisions; avoiding unnecessary risks: a prudent businessman ◆ a prudent decision / investment ◆ It might be more prudent to get a second opinion before going ahead.
- - Antonym: IMPRUDENT
- - prudence noun [U]: Maybe you'll exercise a little more financial prudence next time.
- - prudently adverb: They very prudently decided not to take the case to court.
+* sensible and careful when you make judgements and decisions; avoiding unnecessary risks: a prudent businessman ◆ a prudent decision / investment ◆ It might be more prudent to get a second opinion before going ahead.
+* Antonym: IMPRUDENT
+* prudence noun [U]: Maybe you'll exercise a little more financial prudence next time.
+* prudently adverb: They very prudently decided not to take the case to court.
 
 intermittent
- - adjective
- - stopping and starting often over a period of time, but not regularly
- - Synonym: SPORADIC
- - intermittent bursts of applause ◆ intermittent rain / showers
- - intermittently adverb: Protests continued intermittently throughout November.
+* adjective
+* stopping and starting often over a period of time, but not regularly
+* Synonym: SPORADIC
+* intermittent bursts of applause ◆ intermittent rain / showers
+* intermittently adverb: Protests continued intermittently throughout November.
 
 pedagogy
- - noun [U] (technical) the study of teaching methods
+* noun [U] (technical) the study of teaching methods
 
 scourge  
- - noun
-	 -- [usually sing.] ~ (of sb/sth) (written) a person or thing that causes trouble or suffering: the scourge of war / disease / poverty ◆ Pirates are - once again the scourge of the China Sea. ◆ Inflation was the scourge of the 1970s.
-	 -- a WHIP used to punish people in the past
- - verb [VN]
-	 -- [usually passive] (literary) to cause trouble or suffering to sb: He lay awake, scourged by his conscience.
-	 -- (old use) to hit sb with a scourge
+* noun
+  * [usually sing.] ~ (of sb/sth) (written) a person or thing that causes trouble or suffering: the scourge of war / disease / poverty ◆ Pirates are* once again the scourge of the China Sea. ◆ Inflation was the scourge of the 1970s.
+  * a WHIP used to punish people in the past
+* verb [VN]
+  * [usually passive] (literary) to cause trouble or suffering to sb: He lay awake, scourged by his conscience.
+  * (old use) to hit sb with a scourge
 
 flog  
- - verb (-gg-)
-	 -- [VN] [often passive] to punish sb by hitting them many times with a whip or stick: He was publicly flogged for breaking the country's alcohol laws.
+* verb (-gg-)
+  * [VN] [often passive] to punish sb by hitting them many times with a whip or stick: He was publicly flogged for breaking the country's alcohol laws.
 	 ~ sth (to sb)
-	 -- ~ sth (off) (BrE, informal) to sell sth to sb: [VN] She flogged her guitar to another student. ◆ We buy them cheaply and then flog them off at a profit. ◆ [VNN] I had a letter from a company trying to flog me insurance.
-	 -- Idioms: flog a dead horse (BrE, informal) to waste your effort by trying to do sth that is no longer possible
-	 -- flog sth to death (BrE, informal) to use an idea, a story, etc. so often that it is no longer interesting: The story has been flogged to death in the press.
+  * ~ sth (off) (BrE, informal) to sell sth to sb: [VN] She flogged her guitar to another student. ◆ We buy them cheaply and then flog them off at a profit. ◆ [VNN] I had a letter from a company trying to flog me insurance.
+  * Idioms: flog a dead horse (BrE, informal) to waste your effort by trying to do sth that is no longer possible
+  * flog sth to death (BrE, informal) to use an idea, a story, etc. so often that it is no longer interesting: The story has been flogged to death in the press.
 
 trickle
- - verb
-	 -- [usually +adv./prep.] to flow, or to make sth flow, slowly in a thin stream: [V] Tears were trickling down her cheeks. ◆ [VN] Trickle some oil over the salad.
-	 -- [+adv./prep.] to go, or to make sth go, somewhere slowly or gradually: [V] People began trickling into the hall. ◆ News is starting to trickle out. [also VN]
-	 -- Phrasal Verbs: trickle down (especially of money) to spread from rich to poor people through the economic system of a country: Wealth is failing to trickle down through society.
- - noun
-	 -- a small amount of liquid, flowing slowly: There was a trickle of blood at the corner of his mouth.
-	 -- [usually sing.] ~ (of sth) a small amount or number of sth, coming or going slowly: a steady trickle of visitors
+* verb
+  * [usually +adv./prep.] to flow, or to make sth flow, slowly in a thin stream: [V] Tears were trickling down her cheeks. ◆ [VN] Trickle some oil over the salad.
+  * [+adv./prep.] to go, or to make sth go, somewhere slowly or gradually: [V] People began trickling into the hall. ◆ News is starting to trickle out. [also VN]
+  * Phrasal Verbs: trickle down (especially of money) to spread from rich to poor people through the economic system of a country: Wealth is failing to trickle down through society.
+* noun
+  * a small amount of liquid, flowing slowly: There was a trickle of blood at the corner of his mouth.
+  * [usually sing.] ~ (of sth) a small amount or number of sth, coming or going slowly: a steady trickle of visitors
 
 aeon
- - (BrE) (also eon AmE, BrE) noun (formal) an extremely long period of time; thousands of years: aeons of geological history ◆ Only yesterday-and it seemed aeons ago, not just a few hours-he had been a happily married man.
+* (BrE) (also eon AmE, BrE) noun (formal) an extremely long period of time; thousands of years: aeons of geological history ◆ Only yesterday-and it seemed aeons ago, not just a few hours-he had been a happily married man.
 
 flapjack
- - noun
-	 -- [U, C] (BrE) a thick soft biscuit made from OATS, butter, sugar and SYRUP
-	 -- [C] (AmE) a thick PANCAKE
+* noun
+  * [U, C] (BrE) a thick soft biscuit made from OATS, butter, sugar and SYRUP
+  * [C] (AmE) a thick PANCAKE
 
 granola
- - noun [U] (especially AmE) a type of breakfast CEREAL made of grains, nuts, etc. that have been TOASTED
+* noun [U] (especially AmE) a type of breakfast CEREAL made of grains, nuts, etc. that have been TOASTED
 
 quadruple  
- - verb, adjective, determiner
- - verb
-	 -- to become four times bigger; to make sth four times bigger: [V] Sales have quadrupled in the last five years. [also VN]
- - adjective [only before noun] determiner
-	 -- consisting of four parts, people or groups: a quadruple alliance
-	 -- being four times as much or as many: a quadruple whisky ◆ This year we produced quadruple the amount produced in 1998.
+* verb, adjective, determiner
+* verb
+  * to become four times bigger; to make sth four times bigger: [V] Sales have quadrupled in the last five years. [also VN]
+* adjective [only before noun] determiner
+  * consisting of four parts, people or groups: a quadruple alliance
+  * being four times as much or as many: a quadruple whisky ◆ This year we produced quadruple the amount produced in 1998.
 
 middle ground
- - noun [U] a set of opinions, decisions, etc. that two or more groups who oppose each other can agree on; a position that is not extreme: Negotiations have failed to establish any middle ground. ◆ The ballet company now occupies the middle ground between classical ballet and modern dance.
+* noun [U] a set of opinions, decisions, etc. that two or more groups who oppose each other can agree on; a position that is not extreme: Negotiations have failed to establish any middle ground. ◆ The ballet company now occupies the middle ground between classical ballet and modern dance.
 
 proliferate
- - verb [V] (written) to increase rapidly in number or amount
- - Synonym: MULTIPLY
- - Books and articles on the subject have proliferated over the last year.
+* verb [V] (written) to increase rapidly in number or amount
+* Synonym: MULTIPLY
+* Books and articles on the subject have proliferated over the last year.
 
 glean
- - verb [VN] ~ sth (from sb/sth) to obtain information, knowledge etc., sometimes with difficulty and often from various different places: These figures have been gleaned from a number of studies.
+* verb [VN] ~ sth (from sb/sth) to obtain information, knowledge etc., sometimes with difficulty and often from various different places: These figures have been gleaned from a number of studies.
 
 rejuvenate
- - verb [VN] to make sb/sth look or feel younger or more lively: His new job seemed to rejuvenate him. ◆ special creams to rejuvenate the skin
- - rejuvenation noun [U, sing.]
+* verb [VN] to make sb/sth look or feel younger or more lively: His new job seemed to rejuvenate him. ◆ special creams to rejuvenate the skin
+* rejuvenation noun [U, sing.]
 
 juvenile  
- - adjective
-	 -- [only before noun] (formal or law) connected with young people who are not yet adults: juvenile crime / employment ◆ juvenile offenders
-	 -- (disapproving) silly and more typical of a child than an adult
-	 -- Synonym: CHILDISH
-	 -- juvenile behaviour ◆ Don't be so juvenile!
- - noun (formal or law) a young person who is not yet an adult: Most of the suspects were juveniles under the age of 17.
+* adjective
+  * [only before noun] (formal or law) connected with young people who are not yet adults: juvenile crime / employment ◆ juvenile offenders
+  * (disapproving) silly and more typical of a child than an adult
+  * Synonym: CHILDISH
+  * juvenile behaviour ◆ Don't be so juvenile!
+* noun (formal or law) a young person who is not yet an adult: Most of the suspects were juveniles under the age of 17.
 
 auditorium
- - the part of a theatre, concert hall, etc. in which the audience sits
- - (AmE) a large building or room in which public meetings, concerts, etc. are held
+* the part of a theatre, concert hall, etc. in which the audience sits
+* (AmE) a large building or room in which public meetings, concerts, etc. are held
 
 derogatory  
- - adjective
-	 -- showing a critical attitude towards sb
-	 -- Synonym: INSULTING
-	 -- derogatory remarks / comments ◆ (formal) She indicated by her tone that this was only her private opinion and in no way derogatory of Colonel Ferguson.
+* adjective
+  * showing a critical attitude towards sb
+  * Synonym: INSULTING
+  * derogatory remarks / comments ◆ (formal) She indicated by her tone that this was only her private opinion and in no way derogatory of Colonel Ferguson.
 
 fivefold
- - adj
- - 1) equal to or having five times as many or as much
- - 2) composed of five parts
- - adv
- - 3) by or up to five times as many or as much
+* adj
+* 1) equal to or having five times as many or as much
+* 2) composed of five parts
+* adv
+* 3) by or up to five times as many or as much
 
 petition  
- - noun
+* noun
 	 ~ (against / for sth) a written document signed by a large number of people that asks sb in a position of authority to do or change sth: a petition against experiments on animals
 	 (law) an official document asking a court of law to take a particular course of action
 	 (formal) a formal prayer to God or request to sb in authority
- - verb
+* verb
 	 ~ for / against sth
 	 ~ sb (for sth) to make a formal request to sb in authority, especially by sending them a petition
 	 ~ (sb) (for sth) to formally ask for sth in a court of law
 
 corridor  
- - noun
- - (AmE also hallway) a long narrow passage in a building or train, with doors that open into rooms on either side: Go along the corridor, turn left, and you'll see his office in front of you.
- - a long narrow strip of land belonging to one country that passes through the land of another country: the Polish corridor
- - Idioms: the corridors of power (sometimes humorous) the higher levels of government, where important decisions are made
+* noun
+* (AmE also hallway) a long narrow passage in a building or train, with doors that open into rooms on either side: Go along the corridor, turn left, and you'll see his office in front of you.
+* a long narrow strip of land belonging to one country that passes through the land of another country: the Polish corridor
+* Idioms: the corridors of power (sometimes humorous) the higher levels of government, where important decisions are made
 
 coriander  
- - noun
- - [U] a plant whose leaves are used in cooking as a herb and whose seeds are used in cooking as a spice
- - Compare: CILANTRO
+* noun
+* [U] a plant whose leaves are used in cooking as a herb and whose seeds are used in cooking as a spice
+* Compare: CILANTRO
 
 slab  
- - noun
- - a thick flat piece of stone, wood or other hard material: a slab of marble / concrete ◆ The road was paved with smooth stone slabs. ◆ paving slabs ◆ a dead body on the slab (= on a table in a MORTUARY)
- - a thick, flat slice or piece of sth: a slab of chocolate ◆ slabs of meat
+* noun
+* a thick flat piece of stone, wood or other hard material: a slab of marble / concrete ◆ The road was paved with smooth stone slabs. ◆ paving slabs ◆ a dead body on the slab (= on a table in a MORTUARY)
+* a thick, flat slice or piece of sth: a slab of chocolate ◆ slabs of meat
 
 colliery
- - noun (plural collieries) (BrE) a coal mine with its buildings and equipment
+* noun (plural collieries) (BrE) a coal mine with its buildings and equipment
 
 catch on
- - 1 [PHRASAL VERB] V P to n, V P
-	 -- If you catch on to something, you understand it, or realize that it is happening.
-	 -- He got what he could out of me before I caught on to the kind of person he'd turned into...
-	 -- Wait a minute! I'm beginning to catch on.
- - 2 [PHRASAL VERB] V P
-	 -- If something catches on, it becomes popular.
-	 -- The idea has been around for ages without catching on.
+* 1 [PHRASAL VERB] V P to n, V P
+  * If you catch on to something, you understand it, or realize that it is happening.
+  * He got what he could out of me before I caught on to the kind of person he'd turned into...
+  * Wait a minute! I'm beginning to catch on.
+* 2 [PHRASAL VERB] V P
+  * If something catches on, it becomes popular.
+  * The idea has been around for ages without catching on.
 
 annexe  
- - (BrE) (also annex AmE, BrE) noun
-	 -- a building that is added to, or is near, a larger one and that provides extra living or work space: Our rooms were in the annexe.
-	 -- (formal) an extra section of a document
+* (BrE) (also annex AmE, BrE) noun
+  * a building that is added to, or is near, a larger one and that provides extra living or work space: Our rooms were in the annexe.
+  * (formal) an extra section of a document
 
 prefecture  
- - noun - an area of local government in some countries, for example France, Italy and Japan
+* noun* an area of local government in some countries, for example France, Italy and Japan
 
 pique
- - noun [U] a feeling of anger and annoyance, especially caused by damage to your feeling of pride in yourself: He stormed from the room in a fit of pique, shouting that he had been misunderstood.
+* noun [U] a feeling of anger and annoyance, especially caused by damage to your feeling of pride in yourself: He stormed from the room in a fit of pique, shouting that he had been misunderstood.
 
 parlance
- - noun [U] (formal) a particular way of using words or expressing yourself, for example one used by a particular group: in common / legal / modern parlance ◆ A Munro, in climbing parlance, is a Scottish mountain exceeding 3 000 feet.
+* noun [U] (formal) a particular way of using words or expressing yourself, for example one used by a particular group: in common / legal / modern parlance ◆ A Munro, in climbing parlance, is a Scottish mountain exceeding 3 000 feet.
 
 exhilarate
- - to make someone feel very excited and happy
+* to make someone feel very excited and happy
 
 exhilarated
- - feeling extremely happy, excited, and full of energy: Dan felt strangely exhilarated by the day's events.
+* feeling extremely happy, excited, and full of energy: Dan felt strangely exhilarated by the day's events.
 
 exhilarating
- - making you feel happy, excited, and full of energy
-	 -- an exhilarating experience
-	 -- an exhilarating walk
+* making you feel happy, excited, and full of energy
+  * an exhilarating experience
+  * an exhilarating walk
 
 fugitive  
- - noun
-	 -- ~ (from sb/sth) a person who has escaped or is running away from somewhere and is trying to avoid being caught: a fugitive from justice
- - adjective [only before noun]
-	 -- trying to avoid being caught: a fugitive criminal
-	 -- (literary) lasting only for a very short time: a fugitive idea / thought
+* noun
+  * ~ (from sb/sth) a person who has escaped or is running away from somewhere and is trying to avoid being caught: a fugitive from justice
+* adjective [only before noun]
+  * trying to avoid being caught: a fugitive criminal
+  * (literary) lasting only for a very short time: a fugitive idea / thought
 
 meritocracy  
- - noun (plural meritocracies)
-	 -- [C, U] a country or social system where people get power or money on the basis of their ability
-	 -- (the meritocracy) [sing.] the group of people with power in this kind of social system
- - meritocratic adjective: a meritocratic system
+* noun (plural meritocracies)
+  * [C, U] a country or social system where people get power or money on the basis of their ability
+  * (the meritocracy) [sing.] the group of people with power in this kind of social system
+* meritocratic adjective: a meritocratic system
 
 hiccup
- - a sudden repeated stopping of the breath, usually caused by eating or drinking too fast
-	 -- get/have hiccups BrE ; get/have the hiccups AmE
-	 -- Don't drink so fast - you'll get hiccups.
- - a small problem or delay
-	 -- hiccup in
-	 -- a hiccup in the negotiations
+* a sudden repeated stopping of the breath, usually caused by eating or drinking too fast
+  * get/have hiccups BrE ; get/have the hiccups AmE
+  * Don't drink so fast* you'll get hiccups.
+* a small problem or delay
+  * hiccup in
+  * a hiccup in the negotiations
 
 repercussion  
- - noun
-	 -- [usually pl.] (written) an indirect and usually bad result of an action or event that may happen some time afterwards
-	 -- Synonym: CONSEQUENCE
-	 -- The collapse of the company will have repercussions for the whole industry.
+* noun
+  * [usually pl.] (written) an indirect and usually bad result of an action or event that may happen some time afterwards
+  * Synonym: CONSEQUENCE
+  * The collapse of the company will have repercussions for the whole industry.
 
 bandwagon
- - noun
-	 -- [usually sing.] an activity that more and more people are becoming involved in: The World Cup bandwagon is starting to roll.
-	 -- Idioms: climb / jump on the bandwagon (informal, disapproving) to join others in doing sth that is becoming fashionable because you hope to become popular or successful yourself: politicians eager to jump on the environmental bandwagon
+* noun
+  * [usually sing.] an activity that more and more people are becoming involved in: The World Cup bandwagon is starting to roll.
+  * Idioms: climb / jump on the bandwagon (informal, disapproving) to join others in doing sth that is becoming fashionable because you hope to become popular or successful yourself: politicians eager to jump on the environmental bandwagon
 
 puberty  
- - noun [U] the period of a person's life during which their sexual organs develop and they become capable of having children: to reach puberty
- - See also  ADOLESCENCE
+* noun [U] the period of a person's life during which their sexual organs develop and they become capable of having children: to reach puberty
+* See also  ADOLESCENCE
 
 adolescence  
- - noun
- - [U] the time in a person's life when he or she develops from a child into an adult: Adolescence brings about major changes in a young person's body.
+* noun
+* [U] the time in a person's life when he or she develops from a child into an adult: Adolescence brings about major changes in a young person's body.
 
 gland  
- - noun
-	 -- an organ in a person's or an animal's body that produces a chemical substance for the body to use. There are many different glands in the body: a snake's poison glands ◆ Her glands are swollen.
- - See also  PITUITARY
- - glandular adjective [usually before noun]: glandular tissue
+* noun
+  * an organ in a person's or an animal's body that produces a chemical substance for the body to use. There are many different glands in the body: a snake's poison glands ◆ Her glands are swollen.
+* See also  PITUITARY
+* glandular adjective [usually before noun]: glandular tissue
 
 spew  
- - verb
-	 -- [+adv./prep.] to flow out quickly, or to make sth flow out quickly, in large amounts: [V] Flames spewed from the aircraft's engine. ◆ [VN] Massive chimneys were spewing out smoke and flames.
-	 -- ~ (sth) (up) (BrE, informal) to VOMIT: [V] He spewed up on the pavement. ◆ He makes me want to spew. ◆ [VN] She spewed up the entire meal.
+* verb
+  * [+adv./prep.] to flow out quickly, or to make sth flow out quickly, in large amounts: [V] Flames spewed from the aircraft's engine. ◆ [VN] Massive chimneys were spewing out smoke and flames.
+  * ~ (sth) (up) (BrE, informal) to VOMIT: [V] He spewed up on the pavement. ◆ He makes me want to spew. ◆ [VN] She spewed up the entire meal.
 
 quagmire  
- - noun
-	 -- an area of soft wet ground: The heavy rain soon turned the field into a quagmire.
-	 -- a difficult or dangerous situation
+* noun
+  * an area of soft wet ground: The heavy rain soon turned the field into a quagmire.
+  * a difficult or dangerous situation
 
 expedient  
- - noun
-	 -- an action that is useful or necessary for a particular purpose, but not always fair or right: The disease was controlled by the simple expedient of not allowing anyone to leave the city.
- - adjective [not usually before noun] (of an action) useful or necessary for a particular purpose, but not always fair or right: The government has clearly decided that a cut in interest rates would be politically expedient.
- - expediency noun [U]: He acted out of expediency, not principle.
+* noun
+  * an action that is useful or necessary for a particular purpose, but not always fair or right: The disease was controlled by the simple expedient of not allowing anyone to leave the city.
+* adjective [not usually before noun] (of an action) useful or necessary for a particular purpose, but not always fair or right: The government has clearly decided that a cut in interest rates would be politically expedient.
+* expediency noun [U]: He acted out of expediency, not principle.
 
 fair
- - (especially BrE) quite good: There's a fair chance that we might win this time. ◆ It's a fair bet that they won't turn up. ◆ I have a fair idea of what happened. ◆ His knowledge of French is only fair.
- - hair / skin
-	 -- pale in colour: a fair complexion ◆ She has long fair hair. ◆ All her children are fair (= they all have fair hair).
- - weather
-	 -- bright and not raining: a fair and breezy day ◆ The day was set fair with the spring sun shining down.
+* (especially BrE) quite good: There's a fair chance that we might win this time. ◆ It's a fair bet that they won't turn up. ◆ I have a fair idea of what happened. ◆ His knowledge of French is only fair.
+* hair / skin
+  * pale in colour: a fair complexion ◆ She has long fair hair. ◆ All her children are fair (= they all have fair hair).
+* weather
+  * bright and not raining: a fair and breezy day ◆ The day was set fair with the spring sun shining down.
 
 equilibrium  
- - noun [U, sing.]
-	 -- a state of balance, especially between opposing forces or influences: The point at which the solid and the liquid are in equilibrium is called the freezing point. ◆ Any disturbance to the body's state of equilibrium can produce stress. ◆ We have achieved an equilibrium in the economy.
-	 -- a calm state of mind and a balance of emotions: He sat down to try and recover his equilibrium.
+* noun [U, sing.]
+  * a state of balance, especially between opposing forces or influences: The point at which the solid and the liquid are in equilibrium is called the freezing point. ◆ Any disturbance to the body's state of equilibrium can produce stress. ◆ We have achieved an equilibrium in the economy.
+  * a calm state of mind and a balance of emotions: He sat down to try and recover his equilibrium.
 
 efficacy  
- - noun
-	 -- [U] (formal) the ability of sth, especially a drug or a medical treatment, to produce the results that are wanted
-	 -- Synonym: EFFECTIVENESS
-	 -- to evaluate the efficacy and safety of the treatment
+* noun
+  * [U] (formal) the ability of sth, especially a drug or a medical treatment, to produce the results that are wanted
+  * Synonym: EFFECTIVENESS
+  * to evaluate the efficacy and safety of the treatment
 
 akin 
- - adjective ~ to sth (formal) similar to: What he felt was more akin to pity than love.
+* adjective ~ to sth (formal) similar to: What he felt was more akin to pity than love.
 
 beam
- - noun
-	 -- a line of light, electric waves or PARTICLES: narrow beams of light / sunlight ◆ the beam of a torch / flashlight ◆ a laser / electron beam ◆ (BrE) The approaching car's headlights were on full beam (= shining as brightly as possible and not directed downwards). ◆ (AmE) a car with its high beams on
-	 -- a long piece of wood, metal, etc. used to support weight, especially as part of the roof in a building: The cottage had an original fireplace and exposed oak beams.
-	 -- (especially BrE) (AmE usually the balance beam) a wooden bar that is used in the sport of GYMNASTICS for people to move and balance on: The gymnast performed a somersault on the beam.
-	 -- a wide and happy smile: a beam of satisfaction
-	 -- Idioms: off beam (informal) not correct; wrong: Your calculation is way off beam.
- - verb
-	 -- [no passive] ~ (sth) (at sb) to have a big happy smile on your face: [V] He beamed at the journalists. ◆ She was positively beaming with pleasure. ◆ [VN] The barman beamed a warm smile at her. ◆ His broad face beamed a hearty welcome. ◆ [V speech] 'I'd love to come,' she beamed (= said with a large smile).
-	 -- [VN +adv./prep.] to send radio or television signals over long distances using electronic equipment: Live pictures of the ceremony were beamed around the world.
-	 -- [V +adv./prep.] to produce a ray of light and/or heat: The morning sun beamed down on us. ◆ Light beamed through a hole in the curtain.
-	 -- Idioms see EAR
+* noun
+  * a line of light, electric waves or PARTICLES: narrow beams of light / sunlight ◆ the beam of a torch / flashlight ◆ a laser / electron beam ◆ (BrE) The approaching car's headlights were on full beam (= shining as brightly as possible and not directed downwards). ◆ (AmE) a car with its high beams on
+  * a long piece of wood, metal, etc. used to support weight, especially as part of the roof in a building: The cottage had an original fireplace and exposed oak beams.
+  * (especially BrE) (AmE usually the balance beam) a wooden bar that is used in the sport of GYMNASTICS for people to move and balance on: The gymnast performed a somersault on the beam.
+  * a wide and happy smile: a beam of satisfaction
+  * Idioms: off beam (informal) not correct; wrong: Your calculation is way off beam.
+* verb
+  * [no passive] ~ (sth) (at sb) to have a big happy smile on your face: [V] He beamed at the journalists. ◆ She was positively beaming with pleasure. ◆ [VN] The barman beamed a warm smile at her. ◆ His broad face beamed a hearty welcome. ◆ [V speech] 'I'd love to come,' she beamed (= said with a large smile).
+  * [VN +adv./prep.] to send radio or television signals over long distances using electronic equipment: Live pictures of the ceremony were beamed around the world.
+  * [V +adv./prep.] to produce a ray of light and/or heat: The morning sun beamed down on us. ◆ Light beamed through a hole in the curtain.
+  * Idioms see EAR
 
 defunct
- - adjective (formal) no longer existing, operating or being used: a largely defunct railway network
+* adjective (formal) no longer existing, operating or being used: a largely defunct railway network
 
 stumble
- - to hit your foot against something or put your foot down awkwardly while you are walking or running, so that you almost fall
-	 -- = trip
-	 -- In her hurry she stumbled and spilled the milk all over the floor.
-	 -- stumble over/on
-	 -- Vic stumbled over the step as he came in.
- - to walk in an unsteady way and often almost fall
-	 -- = stagger stumble in/out/across etc
-	 -- He stumbled upstairs and into bed.
- - to stop or make a mistake when you are reading to people or speaking
-	 -- stumble over/at/through
-	 -- I hope I don't stumble over any of the long words.
-	 -- stumble n [C] 
-	 -- stumble on/across/upon [stumble on/across/upon sth] phr v
- - to find or discover something by chance and unexpectedly
-	 -- = come across
-	 -- Researchers have stumbled across a drug that may help patients with Parkinson's disease.
+* to hit your foot against something or put your foot down awkwardly while you are walking or running, so that you almost fall
+  * = trip
+  * In her hurry she stumbled and spilled the milk all over the floor.
+  * stumble over/on
+  * Vic stumbled over the step as he came in.
+* to walk in an unsteady way and often almost fall
+  * = stagger stumble in/out/across etc
+  * He stumbled upstairs and into bed.
+* to stop or make a mistake when you are reading to people or speaking
+  * stumble over/at/through
+  * I hope I don't stumble over any of the long words.
+  * stumble n [C] 
+  * stumble on/across/upon [stumble on/across/upon sth] phr v
+* to find or discover something by chance and unexpectedly
+  * = come across
+  * Researchers have stumbled across a drug that may help patients with Parkinson's disease.
 
 villain
- - noun
- - the main bad character in a story, play, etc: He often plays the part of the villain.
- - a wicked person: the heroes and villains of the 20th century
- - (BrE, informal) a criminal
- - Idioms: the villain of the piece (especially humorous) the person or thing that is responsible for all the trouble in a situation: It's hard to identify the real villain of the piece in this case.
+* noun
+* the main bad character in a story, play, etc: He often plays the part of the villain.
+* a wicked person: the heroes and villains of the 20th century
+* (BrE, informal) a criminal
+* Idioms: the villain of the piece (especially humorous) the person or thing that is responsible for all the trouble in a situation: It's hard to identify the real villain of the piece in this case.
 
 exemplify
- - verb (exemplifies, exemplifying, exemplified, exemplified) [VN] [often passive] (formal)
- - to be a typical example of sth: Her early work is exemplified in her book, 'A Study of Children's Minds'. ◆ His food exemplifies Italian cooking at its best.
- - to give an example in order to make sth clearer: She exemplified each of the points she was making with an amusing anecdote.
- - exemplification noun [U, C]
+* verb (exemplifies, exemplifying, exemplified, exemplified) [VN] [often passive] (formal)
+* to be a typical example of sth: Her early work is exemplified in her book, 'A Study of Children's Minds'. ◆ His food exemplifies Italian cooking at its best.
+* to give an example in order to make sth clearer: She exemplified each of the points she was making with an amusing anecdote.
+* exemplification noun [U, C]
 
 cinematography
- - noun [U] (technical) the art or process of making films/movies
- - cinematographer noun
+* noun [U] (technical) the art or process of making films/movies
+* cinematographer noun
 
 biota
- - noun
-	 -- the plant and animal life of a particular region or period
+* noun
+  * the plant and animal life of a particular region or period
 
 prominent
- - adjective
-	 -- important or well known: a prominent leader / politician ◆ He played a prominent part in the campaign. ◆ She was prominent in the fashion industry.
-	 -- easily seen
-	 -- Synonym: NOTICEABLE
-	 -- The church tower was a prominent feature in the landscape. ◆ The story was given a prominent position on the front page.
-	 -- sticking out from sth: a prominent nose ◆ prominent cheekbones / teeth
-	 -- prominently adverb: The photographs were prominently displayed on her desk. ◆ Problems of family relationships feature prominently in her novels.
+* adjective
+  * important or well known: a prominent leader / politician ◆ He played a prominent part in the campaign. ◆ She was prominent in the fashion industry.
+  * easily seen
+  * Synonym: NOTICEABLE
+  * The church tower was a prominent feature in the landscape. ◆ The story was given a prominent position on the front page.
+  * sticking out from sth: a prominent nose ◆ prominent cheekbones / teeth
+  * prominently adverb: The photographs were prominently displayed on her desk. ◆ Problems of family relationships feature prominently in her novels.
 
 trimmer  
- - noun
-	 -- a machine for cutting the edges of bushes, grass and HEDGES: a hedge trimmer
+* noun
+  * a machine for cutting the edges of bushes, grass and HEDGES: a hedge trimmer
 
 inert
- - adjective
- - (formal) without power to move or act: He lay inert with half-closed eyes. ◆ The president has to operate within an inert political system.
- - (technical) without active chemical or other PROPERTIES (= characteristics): inert gases
+* adjective
+* (formal) without power to move or act: He lay inert with half-closed eyes. ◆ The president has to operate within an inert political system.
+* (technical) without active chemical or other PROPERTIES (= characteristics): inert gases
 
 gloat  
- - verb
-	 -- [V] ~ (about / at / over sth) to show that you are happy about your own success or sb else's failure, in an unpleasant way: She was still gloating over her rival's disappointment. ◆ Having lost a large percentage of the vote, they were in no position to gloat. ◆ I hope you haven't just come here to gloat.
- - gloating adjective: a gloating look / remark
+* verb
+  * [V] ~ (about / at / over sth) to show that you are happy about your own success or sb else's failure, in an unpleasant way: She was still gloating over her rival's disappointment. ◆ Having lost a large percentage of the vote, they were in no position to gloat. ◆ I hope you haven't just come here to gloat.
+* gloating adjective: a gloating look / remark
 
 quadratic  
- - adjective
-	 -- (mathematics) involving an unknown quantity that is multiplied by itself once only: a quadratic equation
+* adjective
+  * (mathematics) involving an unknown quantity that is multiplied by itself once only: a quadratic equation
 
 parabola
- - noun
-	 -- (geometry) a curve like the path of an object thrown into the air and falling back to earth
-	 -- parabolic adjective: parabolic curves
+* noun
+  * (geometry) a curve like the path of an object thrown into the air and falling back to earth
+  * parabolic adjective: parabolic curves
 	 
 apathetic
- - adjective
- - showing no interest or enthusiasm: The illness made her apathetic and unwilling to meet people.
- - apathetically adverb: He looked at me apathetically.	 
+* adjective
+* showing no interest or enthusiasm: The illness made her apathetic and unwilling to meet people.
+* apathetically adverb: He looked at me apathetically.	 
 
 pathological
- - adjective
-	 -- not reasonable or sensible; impossible to control: pathological fear / hatred / violence ◆ a pathological liar (= a person who cannot stop telling lies)
-	 -- caused by, or connected with, disease or illness: pathological depression
-	 -- (technical) connected with PATHOLOGY
- - pathologically adverb: pathologically jealous
+* adjective
+  * not reasonable or sensible; impossible to control: pathological fear / hatred / violence ◆ a pathological liar (= a person who cannot stop telling lies)
+  * caused by, or connected with, disease or illness: pathological depression
+  * (technical) connected with PATHOLOGY
+* pathologically adverb: pathologically jealous
 
 proliferation
- - noun
-	 -- [U, sing.] the sudden increase in the number or amount of sth; a large number of a particular thing: attempts to prevent cancer cell proliferation ◆ a proliferation of personal computers
+* noun
+  * [U, sing.] the sudden increase in the number or amount of sth; a large number of a particular thing: attempts to prevent cancer cell proliferation ◆ a proliferation of personal computers
 
 angiography
- - n
-	 -- a method of obtaining an X-ray of blood vessels by injecting into them a substance, such as one containing iodine, that shows up as opaque on an X-ray picture
+* n
+  * a method of obtaining an X-ray of blood vessels by injecting into them a substance, such as one containing iodine, that shows up as opaque on an X-ray picture
 
 rhinitis
- - [N-UNCOUNT] If you suffer from rhinitis or allergic rhinitis, your nose is very sore and liquid keeps coming out it. (MEDICAL)
+* [N-UNCOUNT] If you suffer from rhinitis or allergic rhinitis, your nose is very sore and liquid keeps coming out it. (MEDICAL)
 
 sinusitis
- - [N-UNCOUNT] If you have sinusitis, the layer of flesh inside your sinuses is swollen and painful, which can cause headaches and a blocked nose.
+* [N-UNCOUNT] If you have sinusitis, the layer of flesh inside your sinuses is swollen and painful, which can cause headaches and a blocked nose.
 
 discrepancy (discrepancies)
- - [N-VAR] usu with supp, oft N between pl-n, N in n
- - If there is a discrepancy between two things that ought to be the same, there is a noticeable difference between them.
- - ...the discrepancy between press and radio reports.
- - = inconsistency
+* [N-VAR] usu with supp, oft N between pl-n, N in n
+* If there is a discrepancy between two things that ought to be the same, there is a noticeable difference between them.
+* ...the discrepancy between press and radio reports.
+* = inconsistency
 
 hockey
- - noun [U]
-	 -- (BrE) (AmE field hockey) a game played on a field by two teams of 11 players, with curved sticks and a small hard ball. Teams try to hit the ball into the other team's goal: to play hockey ◆ a hockey stick / player / team
-	 -- (AmE) = ICE HOCKEY
+* noun [U]
+  * (BrE) (AmE field hockey) a game played on a field by two teams of 11 players, with curved sticks and a small hard ball. Teams try to hit the ball into the other team's goal: to play hockey ◆ a hockey stick / player / team
+  * (AmE) = ICE HOCKEY
 
 cricket
- - noun
-	 -- [U] a game played on grass by two teams of 11 players. Players score points (called RUNS) by hitting the ball with a wooden bat and running between two sets of upright wooden sticks, called STUMPS: a cricket match / team / club / ball
-	 -- [C] a small brown jumping insect that makes a loud high sound by rubbing its wings together: the chirping of crickets
-	 -- Idioms: not cricket (old-fashioned, BrE, informal) unfair; not HONOURABLE: You can't do it without telling him; it's just not cricket.
+* noun
+  * [U] a game played on grass by two teams of 11 players. Players score points (called RUNS) by hitting the ball with a wooden bat and running between two sets of upright wooden sticks, called STUMPS: a cricket match / team / club / ball
+  * [C] a small brown jumping insect that makes a loud high sound by rubbing its wings together: the chirping of crickets
+  * Idioms: not cricket (old-fashioned, BrE, informal) unfair; not HONOURABLE: You can't do it without telling him; it's just not cricket.
 
 gastritis
- - noun
- - [U] (medical) an illness in which the inside of the stomach becomes swollen and painful
+* noun
+* [U] (medical) an illness in which the inside of the stomach becomes swollen and painful
 
 apocalypse
- - noun
- - [sing., U] the destruction of the world: Civilization is on the brink of apocalypse.
- - (the Apocalypse) [sing.] the end of the world, as described in the Bible
- - [sing.] a situation causing very serious damage and destruction: an environmental apocalypse
+* noun
+* [sing., U] the destruction of the world: Civilization is on the brink of apocalypse.
+* (the Apocalypse) [sing.] the end of the world, as described in the Bible
+* [sing.] a situation causing very serious damage and destruction: an environmental apocalypse
 
 prudent
- - adjective
-	 -- sensible and careful when you make judgements and decisions; avoiding unnecessary risks: a prudent businessman ◆ a prudent decision / investment ◆ It might be more prudent to get a second opinion before going ahead.
- - Antonym: IMPRUDENT
- - prudence noun [U]: Maybe you'll exercise a little more financial prudence next time.
- - prudently adverb: They very prudently decided not to take the case to court.
+* adjective
+  * sensible and careful when you make judgements and decisions; avoiding unnecessary risks: a prudent businessman ◆ a prudent decision / investment ◆ It might be more prudent to get a second opinion before going ahead.
+* Antonym: IMPRUDENT
+* prudence noun [U]: Maybe you'll exercise a little more financial prudence next time.
+* prudently adverb: They very prudently decided not to take the case to court.
 
 chromosome
- - noun
- - (biology) one of the very small parts like threads in the NUCLEI (= central parts) of animal and plant cells, that carry the GENES: Humans have 23 pairs of chromosomes in their cells.
- - See also  SEX CHROMOSOME, X CHROMOSOME, Y CHROMOSOME
- - chromosomal adjective: chromosomal abnormalities / DNA
+* noun
+* (biology) one of the very small parts like threads in the NUCLEI (= central parts) of animal and plant cells, that carry the GENES: Humans have 23 pairs of chromosomes in their cells.
+* See also  SEX CHROMOSOME, X CHROMOSOME, Y CHROMOSOME
+* chromosomal adjective: chromosomal abnormalities / DNA
 
 canonical
- - adjective
- - included in a list of holy books that are accepted as genuine; connected with works of literature that are highly respected
- - according to the law of the Christian Church: canonical authority / rules
- - (technical) in the simplest accepted form in mathematics: the standard canonical form for a matrix
+* adjective
+* included in a list of holy books that are accepted as genuine; connected with works of literature that are highly respected
+* according to the law of the Christian Church: canonical authority / rules
+* (technical) in the simplest accepted form in mathematics: the standard canonical form for a matrix
 
 genealogy
- - noun (plural genealogies)
- - [U] the study of family history, including the study of who the ancestors of a particular person were
- - [C] a particular person's line of ancestors; a diagram that shows this
- - genealogical adjective [only before noun]: a genealogical chart / table / tree (= a chart with branches that shows a person's ancestors)
+* noun (plural genealogies)
+* [U] the study of family history, including the study of who the ancestors of a particular person were
+* [C] a particular person's line of ancestors; a diagram that shows this
+* genealogical adjective [only before noun]: a genealogical chart / table / tree (= a chart with branches that shows a person's ancestors)
 
 tabular
- - adjective
- - [usually before noun] (written) presented or arranged in a TABLE (= in rows and columns): tabular data ◆ The results are presented in tabular form.
+* adjective
+* [usually before noun] (written) presented or arranged in a TABLE (= in rows and columns): tabular data ◆ The results are presented in tabular form.
 
 tabulate
- - verb
- - [VN] to arrange facts or figures in columns or lists so that they can be read easily: The survey results are tabulated in section 9 of Appendix 1.
- - tabulation noun [U, C]
+* verb
+* [VN] to arrange facts or figures in columns or lists so that they can be read easily: The survey results are tabulated in section 9 of Appendix 1.
+* tabulation noun [U, C]
 
 'tis
- - short form (old use) it is
+* short form (old use) it is
 
 Simulated annealing (SA) is a generic probabilistic metaheuristic for the global optimization problem of locating a good approximation to the global optimum of a given function in a large search space.
 
 spectral
- - adjective
- - (literary) like a ghost; connected with a ghost: a spectral figure / voice
- - (technical) connected with a SPECTRUM: spectral bands ◆ the full spectral range
+* adjective
+* (literary) like a ghost; connected with a ghost: a spectral figure / voice
+* (technical) connected with a SPECTRUM: spectral bands ◆ the full spectral range
 
 equilibrium
- - noun [U, sing.]
- - a state of balance, especially between opposing forces or influences: The point at which the solid and the liquid are in equilibrium is called the freezing point. ◆ Any disturbance to the body's state of equilibrium can produce stress. ◆ We have achieved an equilibrium in the economy.
- - a calm state of mind and a balance of emotions: He sat down to try and recover his equilibrium.
+* noun [U, sing.]
+* a state of balance, especially between opposing forces or influences: The point at which the solid and the liquid are in equilibrium is called the freezing point. ◆ Any disturbance to the body's state of equilibrium can produce stress. ◆ We have achieved an equilibrium in the economy.
+* a calm state of mind and a balance of emotions: He sat down to try and recover his equilibrium.
 
 pharmaceutical
- - adjective [only before noun] connected with making and selling drugs and medicines: pharmaceutical companies / products ◆ the pharmaceutical industry
- - noun [usually pl.] (technical) a drug or medicine: the development of new pharmaceuticals ◆ the pharmaceuticals industry
+* adjective [only before noun] connected with making and selling drugs and medicines: pharmaceutical companies / products ◆ the pharmaceutical industry
+* noun [usually pl.] (technical) a drug or medicine: the development of new pharmaceuticals ◆ the pharmaceuticals industry
 
 paramecium
- - [noun] any freshwater protozoan of the genus Paramecium, having an oval body covered with cilia and a ventral ciliated groove for feeding: phylum Ciliophora (ciliates)
+* [noun] any freshwater protozoan of the genus Paramecium, having an oval body covered with cilia and a ventral ciliated groove for feeding: phylum Ciliophora (ciliates)
 
 demolition
- - The demolition of a building is the act of deliberately destroying it, often in order to build something else in its place.
-	 -- The project required the total demolition of the old bridge...
+* The demolition of a building is the act of deliberately destroying it, often in order to build something else in its place.
+  * The project required the total demolition of the old bridge...
 
 scalpel
- - noun
- - a small sharp knife used by doctors in medical operations
+* noun
+* a small sharp knife used by doctors in medical operations
 
 lancet
- - noun
- - a knife with a sharp point and two sharp edges, used by doctors for cutting skin and flesh
+* noun
+* a knife with a sharp point and two sharp edges, used by doctors for cutting skin and flesh
 
 sonar
- - noun
-	 -- [U] equipment or a system for finding objects underwater using sound waves
- - Compare: RADAR
+* noun
+  * [U] equipment or a system for finding objects underwater using sound waves
+* Compare: RADAR
 
 sauna
- - noun
-	 -- a type of bath in which you sit or lie in a small room (also called a sauna) which has been heated to a very high temperature by burning coal or wood. Some saunas involve the use of steam which is produced by pouring water over the hot coal or wood: to have a sauna ◆ a hotel with a swimming pool and sauna ◆ to have / take a sauna
+* noun
+  * a type of bath in which you sit or lie in a small room (also called a sauna) which has been heated to a very high temperature by burning coal or wood. Some saunas involve the use of steam which is produced by pouring water over the hot coal or wood: to have a sauna ◆ a hotel with a swimming pool and sauna ◆ to have / take a sauna
 
 perforation
- - noun
-	 -- [C, usually pl., U] a small hole in a surface, often one of a series of small holes: Tear the sheet of stamps along the perforations. ◆ He made a small perforation in the lining of the tube.
-	 -- [U] (medical) the process of splitting or tearing in such a way that a hole is left: Excessive pressure can lead to perforation of the stomach wall.
+* noun
+  * [C, usually pl., U] a small hole in a surface, often one of a series of small holes: Tear the sheet of stamps along the perforations. ◆ He made a small perforation in the lining of the tube.
+  * [U] (medical) the process of splitting or tearing in such a way that a hole is left: Excessive pressure can lead to perforation of the stomach wall.
 
 perforate
- - verb
-	 -- [VN] to make a hole or holes through sth: The explosion perforated his eardrum. ◆ a perforated line (= a row of small holes in paper, made so that a part can be torn off easily)
+* verb
+  * [VN] to make a hole or holes through sth: The explosion perforated his eardrum. ◆ a perforated line (= a row of small holes in paper, made so that a part can be torn off easily)
 
 dwindle
- - verb
-	 -- [V] ~ (away) (to sth) to become gradually less or smaller: dwindling audiences / numbers / popularity ◆ a dwindling band of supporters ◆ Support for the party has dwindled away to nothing. ◆ Membership of the club has dwindled from 70 to 20.
+* verb
+  * [V] ~ (away) (to sth) to become gradually less or smaller: dwindling audiences / numbers / popularity ◆ a dwindling band of supporters ◆ Support for the party has dwindled away to nothing. ◆ Membership of the club has dwindled from 70 to 20.
 
 folklore
- - noun
- - [U] the traditions and stories of a country or community: Irish / Indian folklore ◆ The story rapidly became part of family folklore.
+* noun
+* [U] the traditions and stories of a country or community: Irish / Indian folklore ◆ The story rapidly became part of family folklore.
 
 cranial
- - [ADJ] ADJ n
-	 -- Cranial means relating to your cranium. (TECHNICAL)
-	 -- ...cranial bleeding.
+* [ADJ] ADJ n
+  * Cranial means relating to your cranium. (TECHNICAL)
+  * ...cranial bleeding.
 
 amplitude
- - noun
- - [U, C] (physics) the greatest distance that a wave, especially a sound or radio wave, VIBRATES (= moves up and down)
+* noun
+* [U, C] (physics) the greatest distance that a wave, especially a sound or radio wave, VIBRATES (= moves up and down)
 
 archipelago
- - An archipelago is a group of islands, especially small islands.
+* An archipelago is a group of islands, especially small islands.
 
 reimburse
- - verb
-	 -- [VN] ~ sb (for sth) (formal) to pay back money to sb which they have spent or lost: We will reimburse any expenses incurred. ◆ You will be reimbursed for any loss or damage caused by our company.
-	 -- reimbursement noun [U]: You will receive reimbursement for any additional costs incurred.
+* verb
+  * [VN] ~ sb (for sth) (formal) to pay back money to sb which they have spent or lost: We will reimburse any expenses incurred. ◆ You will be reimbursed for any loss or damage caused by our company.
+  * reimbursement noun [U]: You will receive reimbursement for any additional costs incurred.
 
 durian
- - A tree(Durio zibethinus)  of southeast Asia, bearing edible fruit. 
- - The fruit of this plant, having a hard, prickly rind and soft pulp with an offensive odor but a pleasant taste.
+* A tree(Durio zibethinus)  of southeast Asia, bearing edible fruit. 
+* The fruit of this plant, having a hard, prickly rind and soft pulp with an offensive odor but a pleasant taste.
 
 albeit
- - conjunction
-	 -- (formal) although: He finally agreed, albeit reluctantly, to help us.
+* conjunction
+  * (formal) although: He finally agreed, albeit reluctantly, to help us.
 
 remand
- - verb [VN] [usually +adv./prep.] [usually passive] to send sb away from a court of law to wait for their trial which will take place at a later date: [VN] The two men were charged with burglary and remanded in custody (= sent to prison until their trial). ◆ She was remanded on bail (= allowed to go free until the trial after leaving a sum of money with the court).
- - noun [U, C, pl.] the process of keeping sb in prison while they are waiting for their trial: He is currently being held on remand. ◆ a remand prisoner
+* verb [VN] [usually +adv./prep.] [usually passive] to send sb away from a court of law to wait for their trial which will take place at a later date: [VN] The two men were charged with burglary and remanded in custody (= sent to prison until their trial). ◆ She was remanded on bail (= allowed to go free until the trial after leaving a sum of money with the court).
+* noun [U, C, pl.] the process of keeping sb in prison while they are waiting for their trial: He is currently being held on remand. ◆ a remand prisoner
 
 walkie-talkie
- - noun
-	 -- (informal) a small radio that you can carry with you and use to send or receive messages
+* noun
+  * (informal) a small radio that you can carry with you and use to send or receive messages
 
 entice
- - verb
- - [usually +adv./prep.] ~ sb (into doing sth) to persuade sb/sth to go somewhere or to do sth, usually by offering them sth: [VN] The bargain prices are expected to entice customers away from other stores. ◆ a plan to entice mothers back to work ◆ The animal refused to be enticed from its hole. ◆ [VN to inf] Try and entice the child to eat by offering small portions of their favourite food.
- - enticement noun [C, U]: The party is offering low taxation as its main enticement.
+* verb
+* [usually +adv./prep.] ~ sb (into doing sth) to persuade sb/sth to go somewhere or to do sth, usually by offering them sth: [VN] The bargain prices are expected to entice customers away from other stores. ◆ a plan to entice mothers back to work ◆ The animal refused to be enticed from its hole. ◆ [VN to inf] Try and entice the child to eat by offering small portions of their favourite food.
+* enticement noun [C, U]: The party is offering low taxation as its main enticement.
 
 boulevard
- - noun
- - (BrE) a wide city street, often with trees on either side
- - (abbreviation Blvd.) (AmE) a wide main road (often used in the name of streets): Sunset Boulevard
+* noun
+* (BrE) a wide city street, often with trees on either side
+* (abbreviation Blvd.) (AmE) a wide main road (often used in the name of streets): Sunset Boulevard
 
 subjunctive
- - noun
- - (grammar) the form (or MOOD) of a verb that expresses wishes, possibility or uncertainty; a verb in this form: The verb is in the subjunctive. ◆ In 'I wish I were taller', 'were' is a subjunctive.
- - subjunctive adjective: the subjunctive mood
+* noun
+* (grammar) the form (or MOOD) of a verb that expresses wishes, possibility or uncertainty; a verb in this form: The verb is in the subjunctive. ◆ In 'I wish I were taller', 'were' is a subjunctive.
+* subjunctive adjective: the subjunctive mood
 
 impasse
- - noun
- - [usually sing.] a difficult situation in which no progress can be made because the people involved cannot agree what to do
- - Synonym: DEADLOCK
- - to break / end the impasse ◆ Negotiations have reached an impasse.
+* noun
+* [usually sing.] a difficult situation in which no progress can be made because the people involved cannot agree what to do
+* Synonym: DEADLOCK
+* to break / end the impasse ◆ Negotiations have reached an impasse.
 
 ensue
- - verb
- - [V] (written) to happen after or as a result of another event
- - Synonym: FOLLOW
- - An argument ensued.
- - ensuing adjective: He had become separated from his parents in the ensuing panic. ◆ They lost track of each other in the ensuing years.
+* verb
+* [V] (written) to happen after or as a result of another event
+* Synonym: FOLLOW
+* An argument ensued.
+* ensuing adjective: He had become separated from his parents in the ensuing panic. ◆ They lost track of each other in the ensuing years.
 
 plunge
- - verb, noun
- -  verb
- -  [+adv./prep.] to move or make sb/sth move suddenly forwards and/or downwards
- -  [V] (of prices, temperatures, etc.) to decrease suddenly and quickly
- - Synonym: PLUMMET
- - Stock markets plunged at the news of the coup. ◆ This year profits plunged by 40%.
- - [V +adv./prep.] (of a road, surface, etc.) to slope steeply: The track plunged down into the valley.
- - [V] to move up and down suddenly and violently: The horse plunged and reared. ◆ (figurative) His heart plunged (= because of a strong emotion).
- - noun [usually sing.]
- - a sudden movement downwards or away from sth: The calm water ends there and the river begins a headlong plunge.
- - ~ (in sth) a sudden decrease in an amount or the value of sth: a dramatic plunge in profits ◆ a sharp plunge in the stock markets ◆ This increase reversed an earlier price plunge.
- - ~ into sth the act of becoming involved in a situation or activity: The company is planning a deeper plunge into the commercial market.
- - an act of jumping or DIVING into water; a quick swim: He took the plunge into the deep end. ◆ She went for a plunge.
- - Idioms: take the plunge (informal) to decide to do sth important or difficult, especially after thinking about it for a long time: They finally decided to take the plunge and get married.
+* verb, noun
+*  verb
+*  [+adv./prep.] to move or make sb/sth move suddenly forwards and/or downwards
+*  [V] (of prices, temperatures, etc.) to decrease suddenly and quickly
+* Synonym: PLUMMET
+* Stock markets plunged at the news of the coup. ◆ This year profits plunged by 40%.
+* [V +adv./prep.] (of a road, surface, etc.) to slope steeply: The track plunged down into the valley.
+* [V] to move up and down suddenly and violently: The horse plunged and reared. ◆ (figurative) His heart plunged (= because of a strong emotion).
+* noun [usually sing.]
+* a sudden movement downwards or away from sth: The calm water ends there and the river begins a headlong plunge.
+* ~ (in sth) a sudden decrease in an amount or the value of sth: a dramatic plunge in profits ◆ a sharp plunge in the stock markets ◆ This increase reversed an earlier price plunge.
+* ~ into sth the act of becoming involved in a situation or activity: The company is planning a deeper plunge into the commercial market.
+* an act of jumping or DIVING into water; a quick swim: He took the plunge into the deep end. ◆ She went for a plunge.
+* Idioms: take the plunge (informal) to decide to do sth important or difficult, especially after thinking about it for a long time: They finally decided to take the plunge and get married.
 
 endorsement
- - noun [C, U]
- - a public statement or action showing that you support sb/sth: The election victory is a clear endorsement of their policies. ◆ a letter of endorsement
- - a statement made in an advertisement, usually by sb famous or important, saying that they use and like a particular product
- - (BrE) details of a driving offence written on sb's DRIVING LICENCE: How many endorsements can you have before you lose your licence?
+* noun [C, U]
+* a public statement or action showing that you support sb/sth: The election victory is a clear endorsement of their policies. ◆ a letter of endorsement
+* a statement made in an advertisement, usually by sb famous or important, saying that they use and like a particular product
+* (BrE) details of a driving offence written on sb's DRIVING LICENCE: How many endorsements can you have before you lose your licence?
  
 lip service
- - noun
- - if sb pays lip-service to sth, they say that they approve of it or support it, without proving their support by what they actually do: All the parties pay lip-service to environmental issues.
+* noun
+* if sb pays lip-service to sth, they say that they approve of it or support it, without proving their support by what they actually do: All the parties pay lip-service to environmental issues.
 
 genre
- - noun
- - (formal) a particular type or style of literature, art, film or music that you can recognize because of its special features
+* noun
+* (formal) a particular type or style of literature, art, film or music that you can recognize because of its special features
 
 stroll
- - verb, noun
- - verb [V] [usually +adv./prep.] to walk somewhere in a slow relaxed way: People were strolling along the beach.
- - noun
- - a slow relaxed walk: We went for a stroll in the park. ◆ The beach is a leisurely ten-minute stroll away.
+* verb, noun
+* verb [V] [usually +adv./prep.] to walk somewhere in a slow relaxed way: People were strolling along the beach.
+* noun
+* a slow relaxed walk: We went for a stroll in the park. ◆ The beach is a leisurely ten-minute stroll away.
 
 pleat
- - noun
- - a permanent fold in a piece of fabric, made by sewing the top or side of the fold: a shirt with narrow pleats at the front
+* noun
+* a permanent fold in a piece of fabric, made by sewing the top or side of the fold: a shirt with narrow pleats at the front
 
 stalemate 
- - noun
- - [U, C, usually sing.] a situation in a dispute or competition in which neither side is able to win or make any progress: The talks ended in (a) stalemate. ◆ proposals aimed at breaking (= ending) the political stalemate ◆ The strike has once again reached stalemate.
- - [U, sing.] (in CHESS) a situation in which a player cannot successfully move any of their pieces and the game ends without a winner: The match ended in (a) stalemate
- - Compare: CHECKMATE
+* noun
+* [U, C, usually sing.] a situation in a dispute or competition in which neither side is able to win or make any progress: The talks ended in (a) stalemate. ◆ proposals aimed at breaking (= ending) the political stalemate ◆ The strike has once again reached stalemate.
+* [U, sing.] (in CHESS) a situation in which a player cannot successfully move any of their pieces and the game ends without a winner: The match ended in (a) stalemate
+* Compare: CHECKMATE
 
 ancestry
- - noun
- - [C, usually sing, U] (plural ancestries) the family or the race of people that you are descended from: to have Scottish ancestry ◆ He was able to trace his ancestry back over 1 000 years.
+* noun
+* [C, usually sing, U] (plural ancestries) the family or the race of people that you are descended from: to have Scottish ancestry ◆ He was able to trace his ancestry back over 1 000 years.
 
 relegate
- - verb [VN]
- - ~ sb/sth (to sth) to give sb a lower or less important position, rank, etc. than before: She was then relegated to the role of assistant. ◆ He relegated the incident to the back of his mind.
- - [usually passive] (especially BrE) to move a sports team, especially a football team, to a lower position within an official LEAGUE
- - Antonym: PROMOTE
- - relegation noun [U]: teams threatened with relegation
+* verb [VN]
+* ~ sb/sth (to sth) to give sb a lower or less important position, rank, etc. than before: She was then relegated to the role of assistant. ◆ He relegated the incident to the back of his mind.
+* [usually passive] (especially BrE) to move a sports team, especially a football team, to a lower position within an official LEAGUE
+* Antonym: PROMOTE
+* relegation noun [U]: teams threatened with relegation
 
 derogatory
- - adjective
- - showing a critical attitude towards sb
- - Synonym: INSULTING
- - derogatory remarks / comments ◆ (formal) She indicated by her tone that this was only her private opinion and in no way derogatory of Colonel Ferguson.
+* adjective
+* showing a critical attitude towards sb
+* Synonym: INSULTING
+* derogatory remarks / comments ◆ (formal) She indicated by her tone that this was only her private opinion and in no way derogatory of Colonel Ferguson.
 
 zircon
- - n (a) [C] translucent bluish-white gem 锆石. (b) [U] mineral from which this is cut 锆英石.
+* n (a) [C] translucent bluish-white gem 锆石. (b) [U] mineral from which this is cut 锆英石.
 
 zirconia
- - another name (not in technical usage) for zirconium oxide
+* another name (not in technical usage) for zirconium oxide
 
 zirconium oxide
- - n.（名词）
- - A hard white amorphous powder, ZrO2, derived from zirconium and also found naturally, used chiefly in pigments, refractories, and ceramics and as an abrasive. 
- - 氧化锆：一种坚硬的、非结晶的白色粉末，ZrO2，它从锆中提取，也有自然存在的，主要用于涂料、耐火材料和陶器中，也用作研磨剂
+* n.（名词）
+* A hard white amorphous powder, ZrO2, derived from zirconium and also found naturally, used chiefly in pigments, refractories, and ceramics and as an abrasive. 
+* 氧化锆：一种坚硬的、非结晶的白色粉末，ZrO2，它从锆中提取，也有自然存在的，主要用于涂料、耐火材料和陶器中，也用作研磨剂
 
 jeopardy
- - noun
- - Idioms: in jeopardy in a dangerous position or situation and likely to be lost or harmed: The civil war has put thousands of lives in jeopardy. ◆ The future of the school and 50 jobs are in jeopardy.
- - See also  DOUBLE JEOPARDY
+* noun
+* Idioms: in jeopardy in a dangerous position or situation and likely to be lost or harmed: The civil war has put thousands of lives in jeopardy. ◆ The future of the school and 50 jobs are in jeopardy.
+* See also  DOUBLE JEOPARDY
 
 juxtapose
- - verb
- - [VN] [usually passive] ~ A and / with B (formal) to put people or things together, especially in order to show a contrast or a new relationship between them: In the exhibition, abstract paintings are juxtaposed with shocking photographs.
- - juxtaposition noun [U, C]: the juxtaposition of realistic and surreal situations in the novel
+* verb
+* [VN] [usually passive] ~ A and / with B (formal) to put people or things together, especially in order to show a contrast or a new relationship between them: In the exhibition, abstract paintings are juxtaposed with shocking photographs.
+* juxtaposition noun [U, C]: the juxtaposition of realistic and surreal situations in the novel
 
 nouveau riche
- - having only recently become rich and spending a lot of money - used to show disapproval = new rich
+* having only recently become rich and spending a lot of money* used to show disapproval = new rich
 arbitrage
- - the process of buying something such as raw materials or currency in one place and selling them immediately in another place in order to make a profit from the difference in prices
+* the process of buying something such as raw materials or currency in one place and selling them immediately in another place in order to make a profit from the difference in prices
 
 dyslexia
- - a condition that makes it difficult for someone to read and spell
+* a condition that makes it difficult for someone to read and spell
  
 diligence
- - noun [U] (formal) careful and thorough work or effort: She shows great diligence in her schoolwork. ◆ The captain exercised all reasonable diligence to prevent the ship from sinking.
+* noun [U] (formal) careful and thorough work or effort: She shows great diligence in her schoolwork. ◆ The captain exercised all reasonable diligence to prevent the ship from sinking.
 
 erudite
- - showing a lot of knowledge based on careful study = learned
+* showing a lot of knowledge based on careful study = learned
 
 metonymy
- - noun [U] (technical) the act of referring to sth by the name of sth else that is closely connected with it, for example using the White House for the US president
+* noun [U] (technical) the act of referring to sth by the name of sth else that is closely connected with it, for example using the White House for the US president
 
 metonym
- - a word used in a metonymy. For example the bottle is a metonym for alcoholic drink
+* a word used in a metonymy. For example the bottle is a metonym for alcoholic drink
 
 mob
- - noun [C, sing.+sing./pl. v.] a large crowd of people, especially one that may become violent or cause trouble: an angry / unruly mob ◆ The mob was / were preparing to storm the building. ◆ an excited mob of fans ◆ mob rule (= a situation in which a mob has control, rather than people in authority)
- - [C, usually sing.] (informal) a group of people who are similar in some way. Synonym: GANG
+* noun [C, sing.+sing./pl. v.] a large crowd of people, especially one that may become violent or cause trouble: an angry / unruly mob ◆ The mob was / were preparing to storm the building. ◆ an excited mob of fans ◆ mob rule (= a situation in which a mob has control, rather than people in authority)
+* [C, usually sing.] (informal) a group of people who are similar in some way. Synonym: GANG
 
 lynch mob
- - noun. a crowd of people who gather to lynch sb
+* noun. a crowd of people who gather to lynch sb
 
 infiltrate
- - [>I always + adv/prep, T] to secretly join an organization or enter a place in order to find out information about it or harm it
-	 -- Police attempts to infiltrate neo-Nazi groups were largely unsuccessful.
-	 -- infiltrate into
-		 -- Rebel forces have been infiltrating into the country.
- - [T] to secretly put people into an organization or place in order to find out information or to harm it
- - infiltrate sb into sth
-	 -- They repeatedly tried to infiltrate assassins into the palace.
- - [T] to become a part of something - used especially to show disapproval
-	 -- Commercialism has been infiltrating universities for the past decade.
+* [>I always + adv/prep, T] to secretly join an organization or enter a place in order to find out information about it or harm it
+  * Police attempts to infiltrate neo-Nazi groups were largely unsuccessful.
+  * infiltrate into
+    *Rebel forces have been infiltrating into the country.
+* [T] to secretly put people into an organization or place in order to find out information or to harm it
+* infiltrate sb into sth
+  * They repeatedly tried to infiltrate assassins into the palace.
+* [T] to become a part of something* used especially to show disapproval
+  * Commercialism has been infiltrating universities for the past decade.
 
 jerk
- - to move with a quick sudden movement, or to make part of your body move in this way
- - noun [C] (US ALSO jerk-off) SLANG
-	 -- a stupid person, usually a man:
-	 -- You stupid jerk! You've just spilled beer all down my new shirt!
- - jerk off
-	 -- (of a man) to masturbate
+* to move with a quick sudden movement, or to make part of your body move in this way
+* noun [C] (US ALSO jerk-off) SLANG
+  * a stupid person, usually a man:
+  * You stupid jerk! You've just spilled beer all down my new shirt!
+* jerk off
+  * (of a man) to masturbate
 
 rookie
- - especially AmE someone who has just started doing a job and has little experience
-	 -- rookie cops
- - AmE someone who is in their first year of playing a professional sport
+* especially AmE someone who has just started doing a job and has little experience
+  * rookie cops
+* AmE someone who is in their first year of playing a professional sport
 
 racket
- - INFORMAL a dishonest or illegal activity that makes money:
-	 -- They were jailed for running a protection/prostitution racket.
- - DISAPPROVING a way of making a large unfair profit:
-	 -- Telephone chat lines are a real racket.
- - also racquet
-	 -- a specially shaped piece of wood or metal that you use for hitting the ball in games such as tennis, that has a circle filled with tight strings at one end →bat
-	 -- a tennis racket
+* INFORMAL a dishonest or illegal activity that makes money:
+  * They were jailed for running a protection/prostitution racket.
+* DISAPPROVING a way of making a large unfair profit:
+  * Telephone chat lines are a real racket.
+* also racquet
+  * a specially shaped piece of wood or metal that you use for hitting the ball in games such as tennis, that has a circle filled with tight strings at one end →bat
+  * a tennis racket
 
 trivia
- - detailed facts about history, sport, famous people etc
-	 -- a selection of golfing trivia
-	 -- a trivia quiz
- - unimportant or useless details
-	 -- meaningless trivia
+* detailed facts about history, sport, famous people etc
+  * a selection of golfing trivia
+  * a trivia quiz
+* unimportant or useless details
+  * meaningless trivia
 
 ritual
- - noun [C or U] a set of fixed actions and sometimes words performed regularly, especially as part of a ceremony:
-	 -- Coffee and the newspaper are part of my morning ritual.
-	 -- The birds were performing a complex mating ritual.
+* noun [C or U] a set of fixed actions and sometimes words performed regularly, especially as part of a ceremony:
+  * Coffee and the newspaper are part of my morning ritual.
+  * The birds were performing a complex mating ritual.
 
 douche bag
- - n
-	 -- 1) the bag forming part of a douche
-	 -- 2) slang a contemptible person
+* n
+  * 1) the bag forming part of a douche
+  * 2) slang a contemptible person
 
 syringe
- - noun [C] a hollow cylindrical piece of equipment which is used for sucking liquid out of, or pushing liquid into something, especially one with a needle which can be put under the skin and used to inject drugs, remove small amounts of blood, etc.
+* noun [C] a hollow cylindrical piece of equipment which is used for sucking liquid out of, or pushing liquid into something, especially one with a needle which can be put under the skin and used to inject drugs, remove small amounts of blood, etc.
 
 nag (CRITICIZE) /næg/
- - verb [I or T] -gg- 
-	 -- to criticize or complain repeatedly in an annoying way:
-	 -- [+ object + to infinitive] My mum's always nagging me to get my hair cut.
-	 -- If she'd only stop nagging at me, I might actually help.
-	 -- I'm always nagging him about his diet.
+* verb [I or T] -gg- 
+  * to criticize or complain repeatedly in an annoying way:
+  * [+ object + to infinitive] My mum's always nagging me to get my hair cut.
+  * If she'd only stop nagging at me, I might actually help.
+  * I'm always nagging him about his diet.
 
 ditch
- - noun [C]
-	 -- a long narrow open channel dug into the ground usually at the side of a road or field, which is used especially for supplying or removing water, or for dividing land
- - ditch (GET RID OF) /dɪtʃ/
-	 -- verb [T] INFORMAL 
-	 -- to get rid of something or someone that is no longer wanted:
+* noun [C]
+  * a long narrow open channel dug into the ground usually at the side of a road or field, which is used especially for supplying or removing water, or for dividing land
+* ditch (GET RID OF) /dɪtʃ/
+  * verb [T] INFORMAL 
+  * to get rid of something or someone that is no longer wanted:
 
 arsenic
- - noun [U] (Symbol As) a chemical element. Arsenic is an extremely poisonous white powder.
+* noun [U] (Symbol As) a chemical element. Arsenic is an extremely poisonous white powder.
 
 asthma
- - noun [U] a medical condition of the chest that makes breathing difficult: a severe asthma attack
+* noun [U] a medical condition of the chest that makes breathing difficult: a severe asthma attack
 
 arthritis
- - noun [U] a disease that causes pain and swelling in one or more joints of the body
+* noun [U] a disease that causes pain and swelling in one or more joints of the body
 
 counterfeit
- - adjective (of money and goods for sale) made to look exactly like sth in order to trick people into thinking that they are getting the real thing; not genuine
- - verb [VN] to make an exact copy of sth in order to trick people into thinking that it is the real thing
+* adjective (of money and goods for sale) made to look exactly like sth in order to trick people into thinking that they are getting the real thing; not genuine
+* verb [VN] to make an exact copy of sth in order to trick people into thinking that it is the real thing
 
 In case of any discrepancy between the English and Chinese versions, the English version shall prevail.
 
 aficionado
- - someone who is very interested in a particular activity or subject and knows a lot about it
- - aficionado of
-	 -- an aficionado of fine food
+* someone who is very interested in a particular activity or subject and knows a lot about it
+* aficionado of
+  * an aficionado of fine food
 
 cholesterol
- - a chemical substance found in your blood. Too much cholesterol in your body may cause heart disease.
+* a chemical substance found in your blood. Too much cholesterol in your body may cause heart disease.
 
 memoir
- - a biography or historical account, esp one based on personal knowledge
+* a biography or historical account, esp one based on personal knowledge
 
 vouch
- - to say that you firmly believe that something is true or good because of your experience or knowledge of it
+* to say that you firmly believe that something is true or good because of your experience or knowledge of it
 
 ampersand
- - the sign '&' that means 'and'
+* the sign '&' that means 'and'
 
 fatigue
- - noun [U] a feeling of being extremely tired, usually because of hard work or exercise
- - [U] (usually after another noun) a feeling of not wanting to do a particular activity any longer because you have done too much of it
- - [U] weakness in metal or wood caused by repeated bending or stretching
- - (fatigues) [pl.] loose clothes worn by soldiers
- - (fatigues) [pl.] (especially AmE) duties, such as cleaning and cooking, that soldiers have to do, especially as a punishment
+* noun [U] a feeling of being extremely tired, usually because of hard work or exercise
+* [U] (usually after another noun) a feeling of not wanting to do a particular activity any longer because you have done too much of it
+* [U] weakness in metal or wood caused by repeated bending or stretching
+* (fatigues) [pl.] loose clothes worn by soldiers
+* (fatigues) [pl.] (especially AmE) duties, such as cleaning and cooking, that soldiers have to do, especially as a punishment
 
 tell-tale
- - adjective [only before noun] showing that sth exists or has happened
- - noun (BrE) (AmE tattletale) (informal, disapproving) a child who tells an adult what another child has done wrong
+* adjective [only before noun] showing that sth exists or has happened
+* noun (BrE) (AmE tattletale) (informal, disapproving) a child who tells an adult what another child has done wrong
 
 segregate
- - to separate one group of people from others, especially because they are of a different race, sex, or religion ≠ integrate segregate sb from sb
-	 -- Blacks were segregated from whites in schools.
- - to separate one part of a place or thing from another
-	 -- segregate sth from/into sth
+* to separate one group of people from others, especially because they are of a different race, sex, or religion ≠ integrate segregate sb from sb
+  * Blacks were segregated from whites in schools.
+* to separate one part of a place or thing from another
+  * segregate sth from/into sth
 
 atrocious
- - extremely bad = awful
-	 -- atrocious weather
-	 -- Her singing was atrocious.
+* extremely bad = awful
+  * atrocious weather
+  * Her singing was atrocious.
 
 dodge
- - to move quickly to avoid someone or something
-	 -- He ran across the courtyard, dodging a storm of bullets.
-	 -- dodge between/through/into etc
- - to deliberately avoid discussing something or doing something = evade
-	 -- dodge an issue/question
-	 -- Senator O'Brian skillfully dodged the crucial question.
-	 -- draft dodging
-	 -- (=when someone avoids an order to join the army, navy etc)
- - informal something dishonest that is done to avoid a rule or law
-	 -- Businesses are investing in tree plantations as a tax dodge (=a way of avoiding paying tax).
+* to move quickly to avoid someone or something
+  * He ran across the courtyard, dodging a storm of bullets.
+  * dodge between/through/into etc
+* to deliberately avoid discussing something or doing something = evade
+  * dodge an issue/question
+  * Senator O'Brian skillfully dodged the crucial question.
+  * draft dodging
+  * (=when someone avoids an order to join the army, navy etc)
+* informal something dishonest that is done to avoid a rule or law
+  * Businesses are investing in tree plantations as a tax dodge (=a way of avoiding paying tax).
 
 accrue
- - verb (formal)
-	 -- [V] ~ (to sb) (from sth) to increase over a period of time: economic benefits accruing to the country from tourism ◆ Interest will accrue if you keep your money in a savings account.
-	 -- [VN] to allow a sum of money or debts to grow over a period of time
- - Synonym: ACCUMULATE
-	 -- The firm had accrued debts of over $6m.
+* verb (formal) [V] ~ (to sb) (from sth) to increase over a period of time
+* [VN] to allow a sum of money or debts to grow over a period of time
+* Synonym: ACCUMULATE
 
 accrued interest
- - interest accumulated at a given time but not yet due or paid.
+* interest accumulated at a given time but not yet due or paid.
 
 alma mater
- - sb's alma mater - the school, college etc that someone used to attend
- - AmE the song of a particular school, college etc
+* sb's alma mater* the school, college etc that someone used to attend
+* AmE the song of a particular school, college etc
 
 vertebra
- - noun (plural vertebrae ) any of the small bones that are connected together to form the SPINE
- - vertebral adjective [only before noun]
+* noun (plural vertebrae ) any of the small bones that are connected together to form the SPINE
+* vertebral adjective [only before noun]
 
 dogmatic
- - someone who is dogmatic is completely certain of their beliefs and expects other people to accept them without arguing
-	 -- Her staff find her bossy and dogmatic.
+* someone who is dogmatic is completely certain of their beliefs and expects other people to accept them without arguing
+  * Her staff find her bossy and dogmatic.
 
 anatomy
- - noun (plural anatomies)
-	 -- [U] the scientific study of the structure of human or animal bodies: the department of anatomy and physiology
-	 -- [C, U] the structure of an animal or a plant: the anatomy of the horse ◆ human anatomy
-	 -- [C] (humorous) a person's body: Various parts of his anatomy were clearly visible.
-	 -- [C] (formal) an examination of what sth is like, the way it works or why it happens: an anatomy of the current recession
- - anatomical adjective: anatomical diagrams
- - anatomically adverb
+* noun (plural anatomies)
+  * [U] the scientific study of the structure of human or animal bodies: the department of anatomy and physiology
+  * [C, U] the structure of an animal or a plant: the anatomy of the horse ◆ human anatomy
+  * [C] (humorous) a person's body: Various parts of his anatomy were clearly visible.
+  * [C] (formal) an examination of what sth is like, the way it works or why it happens: an anatomy of the current recession
+* anatomical adjective: anatomical diagrams
+* anatomically adverb
 
 embargo
- - an official order to stop trade with another country = boycott, sanctions sanctions embargo on/against
-	 -- an embargo on wheat exports
-	 -- an embargo against the country
+* an official order to stop trade with another country = boycott, sanctions sanctions embargo on/against
+  * an embargo on wheat exports
+  * an embargo against the country
 
 ferocious
- - very fierce, violent or aggressive; very strong
+* very fierce, violent or aggressive; very strong
 
 ahem
- - exclamation
- - used in writing to show the sound of a short cough made by sb who is trying to get attention or to say sth that is difficult or embarrassing: Ahem, can I make a suggestion?
+* exclamation
+* used in writing to show the sound of a short cough made by sb who is trying to get attention or to say sth that is difficult or embarrassing: Ahem, can I make a suggestion?
 
 go off
- - [PHRASAL VERB] If you go off someone or something, you stop liking them. (BRIT INFORMAL)
- - [PHRASAL VERB]  (EXPLODE) If an explosive device or a gun goes off, it explodes or fires.
- - [PHRASAL VERB] (NOISE)If an alarm bell goes off, it makes a sudden loud noise.
- - [PHRASAL VERB] (STOP WORKING) If an electrical device goes off, it stops operating.
- - [PHRASAL VERB] (HAPPEN) If you say how an organized event went off, you are saying whether everything happened in the way that was planned or hoped.
- - [PHRASAL VERB] (FOOD) Food or drink that has gone off has gone bad. (BRIT)
- - phrasal verb UK (BECOME WORSE) to become worse in quality: That paper's really gone off since they got that new editor.
+* [PHRASAL VERB] If you go off someone or something, you stop liking them. (BRIT INFORMAL)
+* [PHRASAL VERB]  (EXPLODE) If an explosive device or a gun goes off, it explodes or fires.
+* [PHRASAL VERB] (NOISE)If an alarm bell goes off, it makes a sudden loud noise.
+* [PHRASAL VERB] (STOP WORKING) If an electrical device goes off, it stops operating.
+* [PHRASAL VERB] (HAPPEN) If you say how an organized event went off, you are saying whether everything happened in the way that was planned or hoped.
+* [PHRASAL VERB] (FOOD) Food or drink that has gone off has gone bad. (BRIT)
+* phrasal verb UK (BECOME WORSE) to become worse in quality: That paper's really gone off since they got that new editor.
 
 expurgate
- - an expurgated book, play etc has had some parts removed because they are considered harmful or offensive
-	 -- an expurgated version of her writings
+* an expurgated book, play etc has had some parts removed because they are considered harmful or offensive
+  * an expurgated version of her writings
 
 pedantic
- - paying too much attention to rules or to small unimportant details
+* paying too much attention to rules or to small unimportant details
 
 enamoured
- - liking something very much
- - formal in love with someone
+* liking something very much
+* formal in love with someone
 
 flaunt
- - to show your money, success, beauty etc so that other people notice it - used to show disapproval
+* to show your money, success, beauty etc so that other people notice it* used to show disapproval
 
 dodgy
- - adjective (informal, BrE)
- - seeming or likely to be dishonest
- - not working well; not in good condition
- - involving risk, danger or difficulty
+* adjective (informal, BrE)
+* seeming or likely to be dishonest
+* not working well; not in good condition
+* involving risk, danger or difficulty
 
 nasty
- - Something that is nasty is very unpleasant to see, experience, or feel.
- - If you describe a person or their behaviour as nasty, you mean that they behave in an unkind and unpleasant way.
- - a nasty piece of work (BrE, informal) a person who is unpleasant, unkind or dishonest
-	 -- Don't trust him; he's a nasty piece of work.
+* Something that is nasty is very unpleasant to see, experience, or feel.
+* If you describe a person or their behaviour as nasty, you mean that they behave in an unkind and unpleasant way.
+* a nasty piece of work (BrE, informal) a person who is unpleasant, unkind or dishonest
+  * Don't trust him; he's a nasty piece of work.
 
 surge
- - verb [V]
-	 -- [+adv./prep.] to move quickly and forcefully in a particular direction: The gates opened and the crowd surged forward. ◆ Flood waters surged into their homes. ◆ He surged past the other runners on the last lap.
-	 -- [usually +adv./prep.] to fill sb with a strong feeling: Relief surged through her.
-	 -- (of prices, profits, etc.) to suddenly increase in value: Share prices surged.
+* verb [V]
+  * [+adv./prep.] to move quickly and forcefully in a particular direction: The gates opened and the crowd surged forward. ◆ Flood waters surged into their homes. ◆ He surged past the other runners on the last lap.
+  * [usually +adv./prep.] to fill sb with a strong feeling: Relief surged through her.
+  * (of prices, profits, etc.) to suddenly increase in value: Share prices surged.
 
 plunge
- - verb
-	 -- [+adv./prep.] to move or make sb/sth move suddenly forwards and/or downwards: [V] She lost her balance and plunged 100 feet to her death. ◆ The train left the track and plunged down the embankment. ◆ [VN] The earthquake plunged entire towns over the edge of the cliffs.
-	 -- [V] (of prices, temperatures, etc.) to decrease suddenly and quickly
+* verb
+  * [+adv./prep.] to move or make sb/sth move suddenly forwards and/or downwards: [V] She lost her balance and plunged 100 feet to her death. ◆ The train left the track and plunged down the embankment. ◆ [VN] The earthquake plunged entire towns over the edge of the cliffs.
+  * [V] (of prices, temperatures, etc.) to decrease suddenly and quickly
 
 Sellotape
- - (also sticky tape) (both BrE) (AmE Scotch tape) [U] clear plastic tape that is sticky on one side, used for sticking things together: a roll of Sellotape ◆ The envelope was stuck down with Sellotape.
+* (also sticky tape) (both BrE) (AmE Scotch tape) [U] clear plastic tape that is sticky on one side, used for sticking things together: a roll of Sellotape ◆ The envelope was stuck down with Sellotape.
 
 catastrophe
- - a sudden disaster that causes many people to suffer
- - an event that causes one person or a group of people personal suffering, or that makes difficulties
+* a sudden disaster that causes many people to suffer
+* an event that causes one person or a group of people personal suffering, or that makes difficulties
 
 heliport
- - noun [C] a small airport for helicopters
+* noun [C] a small airport for helicopters
 
 pebble
- - noun [C] a small smooth round stone, especially one found on a beach or in a river
+* noun [C] a small smooth round stone, especially one found on a beach or in a river
 
 prurient
- - adjective (formal, disapproving) having or showing too much interest in things connected with sex
+* adjective (formal, disapproving) having or showing too much interest in things connected with sex
 
 pachyderm
- - noun (technical) a type of animal with a very thick skin, for example, an elephant
+* noun (technical) a type of animal with a very thick skin, for example, an elephant
